@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="images/logo.jpg" alt="awesome-ecommerce-image-prompts logo">
+<a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><img src="images/logo.jpg" alt="gpt-image-2-for-e-commerce logo"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://docs.evolink.ai)
-[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -34,23 +34,23 @@
 
 수백 개 SKU 를 한 번에 처리하려면 [🚀 Evolink API 로 일괄 생성](#-evolink-api-로-일괄-생성) 으로 이동하세요.
 
-Evolink 에서 사용해 보기: [GPT Image 2 워크플로우](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts)
+Evolink 에서 사용해 보기: [GPT Image 2 워크플로우](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 
 도움이 되었다면 Star ⭐ 부탁드립니다
 
 > [!NOTE]
 > 이 저장소는 이커머스 크리에이티브용 재사용 가능한 프롬프트 템플릿에 집중합니다. 사용 전에 중괄호 안의 자리표시자를 교체하고, 실제 플랫폼·시장·언어·제품·소재·모델 유형·셀링 포인트에 맞게 조정해 주세요.
 
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
+<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
+<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
 <a href='https://docs.evolink.ai'><img src='https://img.shields.io/badge/📘 Docs-Evolink-blue' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
+<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
 
 ## ⚡ 빠른 시작
 
 1. **케이스 선택** — 본인의 이커머스 목표(리스팅 메인 이미지, 모델 가상 피팅, 다각도 제품, A+ 상세 비주얼 등)에 맞는 케이스를 고르세요.
 2. **제품 사진 업로드 + 프롬프트 복사** — 해당 케이스의 프롬프트를 복사하고 `{placeholders}` 를 본인의 제품·언어·국가·플랫폼·셀링 포인트로 교체하세요.
-3. **GPT Image 2 로 실행** — 단발 크리에이티브는 [Evolink 워크플로우 UI](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts) 로, 대량 SKU 와 다국어 롤아웃은 [Evolink API](#-evolink-api-로-일괄-생성) 로 처리하세요.
+3. **GPT Image 2 로 실행** — 단발 크리에이티브는 [Evolink 워크플로우 UI](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce) 로, 대량 SKU 와 다국어 롤아웃은 [Evolink API](#-evolink-api-로-일괄-생성) 로 처리하세요.
 
 ## 📰 업데이트
 
@@ -1531,4 +1531,4 @@ curl https://api.evolink.ai/v1/tasks/{task_id} \
 
 더 흥미로운 프롬프트 케이스를 공유하고 싶으시다면 언제든 연락 주세요. Evolink 프롬프트 라이브러리 확장에 함께해 주세요.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-ecommerce-image-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-ecommerce-image-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/gpt-image-2-for-e-commerce&type=Date)](https://www.star-history.com/#EvoLinkAI/gpt-image-2-for-e-commerce&Date)

@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="images/logo.jpg" alt="awesome-ecommerce-image-prompts logo">
+<a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><img src="images/logo.jpg" alt="gpt-image-2-for-e-commerce logo"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://docs.evolink.ai)
-[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -34,23 +34,23 @@
 
 需要批量跑成百上千个 SKU？请直接跳到 [🚀 批量生成 · 调用 Evolink API](#-批量生成--调用-evolink-api)。
 
-在 Evolink 上试用：[GPT Image 2 工作流](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts)
+在 Evolink 上试用：[GPT Image 2 工作流](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 
 如果觉得有用，欢迎点个 Star ⭐
 
 > [!NOTE]
 > 本仓库专注于可复用的电商素材提示词模板。使用前请替换大括号中的占位符，并根据实际的平台、市场、语言、产品、材质、模特类型和卖点进行调整。
 
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
+<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
+<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
 <a href='https://docs.evolink.ai'><img src='https://img.shields.io/badge/📘 Docs-Evolink-blue' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
+<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
 
 ## ⚡ 快速开始
 
 1. **挑一个案例**——找到与你目标最匹配的电商场景（主图、模特试穿、产品多角度、A+ 详情等）。
 2. **上传产品原图、复制提示词**——把案例下方的提示词复制走，把 `{占位符}` 替换为你的商品、语言、国家、平台和卖点。
-3. **在 GPT Image 2 上跑起来**——单图出货可走 [Evolink 工作流 UI](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ecommerce-image-prompts)；多 SKU、多语言批量生产请走 [Evolink API](#-批量生成--调用-evolink-api)。
+3. **在 GPT Image 2 上跑起来**——单图出货可走 [Evolink 工作流 UI](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)；多 SKU、多语言批量生产请走 [Evolink API](#-批量生成--调用-evolink-api)。
 
 ## 📰 更新日志
 
@@ -1531,4 +1531,4 @@ curl https://api.evolink.ai/v1/tasks/{task_id} \
 
 如果你有更多有趣的提示词案例想要分享，欢迎联系我们，帮助我们扩展 Evolink 提示词库。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-ecommerce-image-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-ecommerce-image-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/gpt-image-2-for-e-commerce&type=Date)](https://www.star-history.com/#EvoLinkAI/gpt-image-2-for-e-commerce&Date)
