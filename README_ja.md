@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><img src="images/logo.jpg" alt="gpt-image-2-for-e-commerce logo"></a>
+<a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><img src="images/logo.jpg" alt="gpt-image-2-for-e-commerce logo"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://docs.evolink.ai)
-[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -34,23 +34,23 @@
 
 数百 SKU を一括処理したい方は [🚀 Evolink API による一括生成](#-evolink-api-による一括生成) へ。
 
-Evolink で試す：[GPT Image 2 ワークフロー](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+Evolink で試す：[GPT Image 2 ワークフロー](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 
 役に立ったら Star ⭐ をお願いします
 
 > [!NOTE]
 > このリポジトリは再利用可能な Eコマース用プロンプトテンプレート集です。使用前に中括弧内のプレースホルダーを置き換え、実際のプラットフォーム・市場・言語・商品・素材・モデルタイプ・セールスポイントに合わせて調整してください。
 
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
 <a href='https://docs.evolink.ai'><img src='https://img.shields.io/badge/📘 Docs-Evolink-blue' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
 
 ## ⚡ クイックスタート
 
 1. **目的に合うケースを選ぶ**——下記から自分の Eコマース目的に合うケース（メイン画像、モデル試着、多角度商品、A+ 詳細ビジュアルなど）を選択。
 2. **商品画像をアップロードし、プロンプトをコピー**——ケースのプロンプトをコピーして、`{プレースホルダー}` を自分の商品・言語・国・プラットフォーム・セールスポイントに置換。
-3. **GPT Image 2 で実行**——単発出力は [Evolink ワークフロー UI](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce) を、複数 SKU・多言語の一括処理は [Evolink API](#-evolink-api-による一括生成) を利用。
+3. **GPT Image 2 で実行**——単発出力は [Evolink ワークフロー UI](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce) を、複数 SKU・多言語の一括処理は [Evolink API](#-evolink-api-による一括生成) を利用。
 
 ## 📰 更新履歴
 

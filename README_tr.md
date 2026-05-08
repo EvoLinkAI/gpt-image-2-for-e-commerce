@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><img src="images/logo.jpg" alt="gpt-image-2-for-e-commerce logo"></a>
+<a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><img src="images/logo.jpg" alt="gpt-image-2-for-e-commerce logo"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://docs.evolink.ai)
-[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -34,23 +34,23 @@ Bu depo size **GPT Image 2 ile e-ticaret görsellerini nasıl oluşturacağını
 
 Yüzlerce SKU'yu aynı anda işlemek mi gerekiyor? [🚀 Evolink API ile Toplu Üretim](#-evolink-api-ile-toplu-üretim) bölümüne atlayın.
 
-Evolink'te deneyin: [GPT Image 2 iş akışı](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+Evolink'te deneyin: [GPT Image 2 iş akışı](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 
 Faydalı bulduysanız bize bir Star ⭐ verin
 
 > [!NOTE]
 > Bu depo, e-ticaret kreatifleri için yeniden kullanılabilir prompt şablonlarına odaklanır. Kullanmadan önce süslü parantez içindeki yer tutucuları değiştirin ve gerçek platform, pazar, dil, ürün, malzeme, model tipi ve satış noktalarınıza göre ayarlayın.
 
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
 <a href='https://docs.evolink.ai'><img src='https://img.shields.io/badge/📘 Docs-Evolink-blue' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
 
 ## ⚡ Hızlı Başlangıç
 
 1. **E-ticaret hedefinize uygun vakayı seçin** (ana liste görseli, model prova, çok açılı ürün, A+ detay görselleri vb.).
 2. **Ürün fotoğrafınızı yükleyin** ve o vakanın **promptunu kopyalayın** — `{placeholders}` yerine kendi ürün, dil, ülke, platform ve satış noktalarınızı yazın.
-3. **GPT Image 2 üzerinde çalıştırın** — tek seferlik kreatifler için [Evolink iş akışı UI](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce, toplu SKU ve çok dilli yayılımlar için [Evolink API](#-evolink-api-ile-toplu-üretim) üzerinden.
+3. **GPT Image 2 üzerinde çalıştırın** — tek seferlik kreatifler için [Evolink iş akışı UI](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce, toplu SKU ve çok dilli yayılımlar için [Evolink API](#-evolink-api-ile-toplu-üretim) üzerinden.
 
 ## 📰 Haberler
 

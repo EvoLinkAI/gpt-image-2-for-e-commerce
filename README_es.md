@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><img src="images/logo.jpg" alt="gpt-image-2-for-e-commerce logo"></a>
+<a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><img src="images/logo.jpg" alt="gpt-image-2-for-e-commerce logo"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://docs.evolink.ai)
-[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -34,23 +34,23 @@ Este repositorio te muestra **cómo usar GPT Image 2 para crear imágenes de e-c
 
 ¿Necesitas procesar cientos de SKU a la vez? Salta a [🚀 Generación en Lote vía API de Evolink](#-generación-en-lote-vía-api-de-evolink).
 
-Pruébalo en Evolink: [Flujo de trabajo GPT Image 2](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+Pruébalo en Evolink: [Flujo de trabajo GPT Image 2](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
 
 Si te resulta útil, ¡danos una Star ⭐!
 
 > [!NOTE]
 > Este repositorio se enfoca en plantillas de prompts reutilizables para creatividades de e-commerce. Reemplaza los placeholders entre llaves antes de usar y ajústalos a tu plataforma, mercado, idioma, producto, material, tipo de modelo y puntos de venta reales.
 
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
 <a href='https://docs.evolink.ai'><img src='https://img.shields.io/badge/📘 Docs-Evolink-blue' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
 
 ## ⚡ Inicio Rápido
 
 1. **Elige un caso** abajo que coincida con tu objetivo de e-commerce (imagen principal, prueba con modelo, producto multi-ángulo, visuales A+, etc.).
 2. **Sube la foto de tu producto** y **copia el prompt** de ese caso — reemplaza los `{placeholders}` con tu producto, idioma, país, plataforma y puntos de venta.
-3. **Ejecútalo en GPT Image 2** — ya sea por la [UI del flujo de trabajo Evolink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce) para creatividades puntuales, o vía la [API de Evolink](#-generación-en-lote-vía-api-de-evolink) para SKU masivos y despliegues multilingües.
+3. **Ejecútalo en GPT Image 2** — ya sea por la [UI del flujo de trabajo Evolink](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce) para creatividades puntuales, o vía la [API de Evolink](#-generación-en-lote-vía-api-de-evolink) para SKU masivos y despliegues multilingües.
 
 ## 📰 Novedades
 
