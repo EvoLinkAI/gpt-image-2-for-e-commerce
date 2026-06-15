@@ -55,6 +55,7 @@ If you find it useful, please give us a Star ⭐
 
 ## 📰 News
 
+- **June 15, 2026:** Added five community GPT Image 2 prompt references across A+ detail visuals, custom product backgrounds, human-product scenes, and fashion studio sales sets; also created the first `data/ingested_tweets.json` dedup index for this repo.
 - **May 7, 2026:** Repositioned the prompt library around **GPT Image 2 for e-commerce**, with a Quick Start and a Batch Generation via Evolink API section.
 - **May 5, 2026:** Expanded the listing image, model try-on, and product showcase categories to align with the full set of ecommerce agent prompt patterns.
 - **April 30, 2026:** Added complete prompt categories for listing images, model editing, product showcases, interaction scenes, and social commerce creatives.
@@ -347,6 +348,26 @@ This is a {product_description}. Generate A+ detail visuals for {country} in {la
     <td align="center"><img src="e-commerce/Case3/03/Output-04.png" width="150"><br><sub>A+ detail 3</sub></td>
     <td align="center"><img src="e-commerce/Case3/03/Output-05.png" width="150"><br><sub>A+ detail 4</sub></td>
     <td align="center"><img src="e-commerce/Case3/03/Output-06.png" width="150"><br><sub>A+ summary</sub></td>
+  </tr>
+</table>
+
+#### Example 4: [Sony A7 Exploded View](https://x.com/iamaiistudio/status/2066085004116193571) (Community, by [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> Community reference from a recent public GPT Image 2 post. The source tweet only shared the output image.
+
+**Observed prompt:**
+
+```
+Detailed exploded-view diagram of a Sony A7 mirrorless camera, with all internal components separated and clearly visible, each part labeled with its name. Technical product illustration style, clean white background, precise and informative layout.
+```
+
+<table>
+  <tr>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case3/04/Output-01.jpg" width="260"><br><sub>Exploded-view product diagram</sub></td>
   </tr>
 </table>
 
@@ -1085,6 +1106,55 @@ Replace the background of the product in the image: {background_description}.
   </tr>
 </table>
 
+#### Example 3: [Solaris Sunscreen Shield Ad](https://x.com/iamrealsnow/status/2066200217347854445) (Community, by [@iamrealsnow](https://x.com/iamrealsnow))
+
+> [!TIP]
+> Community reference from a recent public GPT Image 2 post. The source tweet only shared the output images.
+
+**Observed prompt:**
+
+```text
+SUNSCREEN AD, "THE INVISIBLE SHIELD"
+
+Luxury skincare advertising masterpiece, a colossal premium sunscreen bottle standing on a pristine tropical shoreline at golden hour, powerful beams of sunlight crashing down from the sky and splitting apart upon contact with a transparent protective energy dome radiating from the sunscreen, millions of sparkling UV particles dissolving into golden dust before reaching flawless skin, crystal clear ocean reflections, flowing water suspended in mid air around the product, microscopic droplets catching cinematic sunlight, ultra realistic textures revealing every detail of the bottle surface, luxury beauty campaign aesthetics, dramatic volumetric lighting, glowing atmospheric haze, premium white and gold color palette, futuristic protection technology visualized as elegant light waves, hyper detailed environment, commercial photography perfection, award winning advertising design, photorealistic rendering, 16K ultra resolution, global skincare brand campaign, masterpiece quality.
+
+Text Overlay:
+SUNSCREEN
+
+Tagline:
+"Protect Every Ray. Reveal Every Glow.
+```
+
+<table>
+  <tr>
+    <th colspan="2">Output</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/03/Output-01.jpg" width="220"><br><sub>Protection dome concept</sub></td>
+    <td align="center"><img src="e-commerce/Case20/03/Output-02.jpg" width="220"><br><sub>Golden-hour hero variant</sub></td>
+  </tr>
+</table>
+
+#### Example 4: [Themed Skeleton Watch Grid](https://x.com/Gdgtify/status/2066129525784694882) (Community, by [@Gdgtify](https://x.com/Gdgtify))
+
+> [!TIP]
+> Community reference from a recent public GPT Image 2 post. The source tweet only shared the output image.
+
+**Observed prompt:**
+
+```text
+2x2 grid, do this for 4 stunning themes, 16:9 [luxury_watch_cad_system] base_chassis: "hyper-luxury skeletonized tourbillon watch" conceptual_theme: "[$theme, e.g., the samurai shogun]" <mechanism_generation> - ai inference: do not just paint the watch. build the gears, hands, and face using elements from the [$theme]. - example: if ocean, the gears look like coral patterns and the hands are trident spears. if space, the center is a glowing meteorite. - materials: sapphire crystal, forged carbon, rose gold, glowing tritium tubes. </mechanism_generation> <photography> a macro product shot of the watch face. extreme close-up. lighting: dark background, sharp rim lighting catching the metallic edges of the gears. resolution: 8k, razor-sharp focus on the tourbillon movement. vibe: impossibly expensive, intricately engineered, a masterpiece of micro-mechanics. </photography>
+```
+
+<table>
+  <tr>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/04/Output-01.jpg" width="340"><br><sub>Four-theme luxury watch grid</sub></td>
+  </tr>
+</table>
+
 ### Case 6: Reference-Based Product Background
 
 **Input:** Upload the product image and a reference background image.
@@ -1184,6 +1254,29 @@ Add a human model to this product scene. The model should be {person_description
     <td align="center"><img src="e-commerce/Case23/01/Output-01.png" width="180"><br><sub>Qipao model entering</sub></td>
     <td align="center"><img src="e-commerce/Case23/02/Input.webp" width="180"><br><sub>Red & silver headphones</sub></td>
     <td align="center"><img src="e-commerce/Case23/02/Output.png" width="180"><br><sub>Female model wearing headphones</sub></td>
+  </tr>
+</table>
+
+#### Example 3: [Luxury Product Editorial Poster](https://x.com/iamaiistudio/status/2066236402766066106) (Community, by [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> Community reference from a recent public GPT Image 2 post. The source tweet only shared the output image.
+
+**Observed prompt:**
+
+```text
+[attach a luxury product photo]
+BRAND: [enter your brand name]
+
+Design a single high-end editorial poster. Preserve the product exactly as shown, unaltered. Identify the brand and position its authentic official logo with correct proportions and a subtle print texture in the most fitting location. Include a complementary attractive model naturally wearing or holding the product. Deep rich colors, HDR quality, premium studio lighting, clean minimal background, ample negative space, ultra-sharp 8K output. No additional text or watermarks.
+```
+
+<table>
+  <tr>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case23/03/Output-01.jpg" width="320"><br><sub>Luxury editorial poster output</sub></td>
   </tr>
 </table>
 
@@ -1310,6 +1403,40 @@ Generate a model sales image set, background is a fashion studio.
   <tr>
     <td align="center"><img src="e-commerce/Case31/02/Output-03.png" width="200"><br><sub>Studio shoot 3</sub></td>
     <td align="center"><img src="e-commerce/Case31/02/Output-04.png" width="200"><br><sub>Studio shoot 4</sub></td>
+  </tr>
+</table>
+
+#### Example 3: [Football Jersey Editorial Set](https://x.com/Taaruk_/status/2066103716223357044) (Community, by [@Taaruk_](https://x.com/Taaruk_))
+
+> [!TIP]
+> Community reference from a recent public GPT Image 2 post. The source tweet only shared the output images.
+
+**Observed prompt:**
+
+```text
+Luxury sports fashion campaign, Cristiano Ronaldo inspired editorial photoshoot, standing confidently in a minimalist beige studio, wearing a black Portugal national team jersey with a bold red textured vertical stripe, athletic physique, hands behind back, serious expression, premium football lifestyle aesthetic, high-fashion sportswear photography, clean neutral backdrop, soft cinematic lighting, luxury magazine cover style, Nike-inspired campaign, ultra realistic skin texture, sharp focus, professional studio photography, muted earth-tone color palette, modern luxury branding, 85mm lens, shallow depth of field, photorealistic, 8K, editorial masterpiece.
+
+Additional shots:
+1. Full-body standing portrait, centered composition, confident pose.
+2. Close-up chest detail shot highlighting jersey texture, number 7, luxury silver chain, premium fabric details.
+3. Seated portrait on modern black designer chair, relaxed yet powerful posture, fashion campaign aesthetic.
+4. Product display shot featuring jersey draped over chair with matching tracksuit and sneakers, luxury sports catalog photography.
+
+Style keywords:
+minimalist luxury, football icon, premium sportswear campaign, modern editorial, Vogue Men, GQ Sports, cinematic studio lighting, high-end fashion photography, realistic textures, luxury athlete branding, clean composition, commercial advertising quality.
+```
+
+<table>
+  <tr>
+    <th colspan="2">Output</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case31/03/Output-01.jpg" width="220"><br><sub>Studio portrait</sub></td>
+    <td align="center"><img src="e-commerce/Case31/03/Output-02.jpg" width="220"><br><sub>Jersey detail close-up</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case31/03/Output-03.jpg" width="220"><br><sub>Seated campaign portrait</sub></td>
+    <td align="center"><img src="e-commerce/Case31/03/Output-04.jpg" width="220"><br><sub>Product display layout</sub></td>
   </tr>
 </table>
 

@@ -55,6 +55,7 @@
 
 ## 📰 更新日志
 
+- **2026年6月15日：** 新增 5 条来自社区的 GPT Image 2 提示词参考，覆盖 A+ 产品详情视觉、自定义产品背景、人物互动商品场景及时尚棚拍带货套图；同时为本仓库建立了首个 `data/ingested_tweets.json` 去重索引。
 - **2026年5月7日：** 仓库重新定位为面向 **GPT Image 2 的电商素材制作指南**，新增"快速开始"与"批量生成 · 调用 Evolink API"两个小节。
 - **2026年5月5日：** 扩充电商主图、模特试穿与产品展示三大分类，使其与电商 Agent 提示词整理表完整对齐。
 - **2026年4月30日：** 新增主图、模特编辑、产品展示、互动场景和社交电商素材的完整提示词分类。
@@ -347,6 +348,26 @@
     <td align="center"><img src="e-commerce/Case3/03/Output-04.png" width="150"><br><sub>A+ 详情屏 3</sub></td>
     <td align="center"><img src="e-commerce/Case3/03/Output-05.png" width="150"><br><sub>A+ 详情屏 4</sub></td>
     <td align="center"><img src="e-commerce/Case3/03/Output-06.png" width="150"><br><sub>A+ 总结屏</sub></td>
+  </tr>
+</table>
+
+#### 示例 4：[Sony A7 爆炸视图](https://x.com/iamaiistudio/status/2066085004116193571)（社区案例，作者 [@iamaiistudio](https://x.com/iamaiistudio)）
+
+> [!TIP]
+> 来自近期公开 GPT Image 2 帖子的社区参考。源推文只分享了输出图像。
+
+**观察到的提示词：**
+
+```
+Detailed exploded-view diagram of a Sony A7 mirrorless camera, with all internal components separated and clearly visible, each part labeled with its name. Technical product illustration style, clean white background, precise and informative layout.
+```
+
+<table>
+  <tr>
+    <th>输出</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case3/04/Output-01.jpg" width="260"><br><sub>产品爆炸图</sub></td>
   </tr>
 </table>
 
@@ -1085,6 +1106,55 @@
   </tr>
 </table>
 
+#### 示例 3：[Solaris Sunscreen Shield 广告](https://x.com/iamrealsnow/status/2066200217347854445)（社区案例，作者 [@iamrealsnow](https://x.com/iamrealsnow)）
+
+> [!TIP]
+> 来自近期公开 GPT Image 2 帖子的社区参考。源推文只分享了输出图像。
+
+**观察到的提示词：**
+
+```text
+SUNSCREEN AD, "THE INVISIBLE SHIELD"
+
+Luxury skincare advertising masterpiece, a colossal premium sunscreen bottle standing on a pristine tropical shoreline at golden hour, powerful beams of sunlight crashing down from the sky and splitting apart upon contact with a transparent protective energy dome radiating from the sunscreen, millions of sparkling UV particles dissolving into golden dust before reaching flawless skin, crystal clear ocean reflections, flowing water suspended in mid air around the product, microscopic droplets catching cinematic sunlight, ultra realistic textures revealing every detail of the bottle surface, luxury beauty campaign aesthetics, dramatic volumetric lighting, glowing atmospheric haze, premium white and gold color palette, futuristic protection technology visualized as elegant light waves, hyper detailed environment, commercial photography perfection, award winning advertising design, photorealistic rendering, 16K ultra resolution, global skincare brand campaign, masterpiece quality.
+
+Text Overlay:
+SUNSCREEN
+
+Tagline:
+"Protect Every Ray. Reveal Every Glow.
+```
+
+<table>
+  <tr>
+    <th colspan="2">输出</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/03/Output-01.jpg" width="220"><br><sub>防护能量罩概念</sub></td>
+    <td align="center"><img src="e-commerce/Case20/03/Output-02.jpg" width="220"><br><sub>黄金时刻主视觉变体</sub></td>
+  </tr>
+</table>
+
+#### 示例 4：[主题化镂空腕表宫格](https://x.com/Gdgtify/status/2066129525784694882)（社区案例，作者 [@Gdgtify](https://x.com/Gdgtify)）
+
+> [!TIP]
+> 来自近期公开 GPT Image 2 帖子的社区参考。源推文只分享了输出图像。
+
+**观察到的提示词：**
+
+```text
+2x2 grid, do this for 4 stunning themes, 16:9 [luxury_watch_cad_system] base_chassis: "hyper-luxury skeletonized tourbillon watch" conceptual_theme: "[$theme, e.g., the samurai shogun]" <mechanism_generation> - ai inference: do not just paint the watch. build the gears, hands, and face using elements from the [$theme]. - example: if ocean, the gears look like coral patterns and the hands are trident spears. if space, the center is a glowing meteorite. - materials: sapphire crystal, forged carbon, rose gold, glowing tritium tubes. </mechanism_generation> <photography> a macro product shot of the watch face. extreme close-up. lighting: dark background, sharp rim lighting catching the metallic edges of the gears. resolution: 8k, razor-sharp focus on the tourbillon movement. vibe: impossibly expensive, intricately engineered, a masterpiece of micro-mechanics. </photography>
+```
+
+<table>
+  <tr>
+    <th>输出</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/04/Output-01.jpg" width="340"><br><sub>四主题奢华腕表宫格</sub></td>
+  </tr>
+</table>
+
 ### 案例 6：参考图背景生成
 
 **输入：** 上传产品图片和参考背景图。
@@ -1184,6 +1254,29 @@
     <td align="center"><img src="e-commerce/Case23/01/Output-01.png" width="180"><br><sub>旗袍模特入场</sub></td>
     <td align="center"><img src="e-commerce/Case23/02/Input.webp" width="180"><br><sub>红银头戴耳机</sub></td>
     <td align="center"><img src="e-commerce/Case23/02/Output.png" width="180"><br><sub>戴耳机女模特</sub></td>
+  </tr>
+</table>
+
+#### 示例 3：[奢华产品编辑海报](https://x.com/iamaiistudio/status/2066236402766066106)（社区案例，作者 [@iamaiistudio](https://x.com/iamaiistudio)）
+
+> [!TIP]
+> 来自近期公开 GPT Image 2 帖子的社区参考。源推文只分享了输出图像。
+
+**观察到的提示词：**
+
+```text
+[attach a luxury product photo]
+BRAND: [enter your brand name]
+
+Design a single high-end editorial poster. Preserve the product exactly as shown, unaltered. Identify the brand and position its authentic official logo with correct proportions and a subtle print texture in the most fitting location. Include a complementary attractive model naturally wearing or holding the product. Deep rich colors, HDR quality, premium studio lighting, clean minimal background, ample negative space, ultra-sharp 8K output. No additional text or watermarks.
+```
+
+<table>
+  <tr>
+    <th>输出</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case23/03/Output-01.jpg" width="320"><br><sub>奢华编辑海报成图</sub></td>
   </tr>
 </table>
 
@@ -1310,6 +1403,40 @@
   <tr>
     <td align="center"><img src="e-commerce/Case31/02/Output-03.png" width="200"><br><sub>棚拍效果 3</sub></td>
     <td align="center"><img src="e-commerce/Case31/02/Output-04.png" width="200"><br><sub>棚拍效果 4</sub></td>
+  </tr>
+</table>
+
+#### 示例 3：[足球球衣编辑套图](https://x.com/Taaruk_/status/2066103716223357044)（社区案例，作者 [@Taaruk_](https://x.com/Taaruk_)）
+
+> [!TIP]
+> 来自近期公开 GPT Image 2 帖子的社区参考。源推文只分享了输出图像。
+
+**观察到的提示词：**
+
+```text
+Luxury sports fashion campaign, Cristiano Ronaldo inspired editorial photoshoot, standing confidently in a minimalist beige studio, wearing a black Portugal national team jersey with a bold red textured vertical stripe, athletic physique, hands behind back, serious expression, premium football lifestyle aesthetic, high-fashion sportswear photography, clean neutral backdrop, soft cinematic lighting, luxury magazine cover style, Nike-inspired campaign, ultra realistic skin texture, sharp focus, professional studio photography, muted earth-tone color palette, modern luxury branding, 85mm lens, shallow depth of field, photorealistic, 8K, editorial masterpiece.
+
+Additional shots:
+1. Full-body standing portrait, centered composition, confident pose.
+2. Close-up chest detail shot highlighting jersey texture, number 7, luxury silver chain, premium fabric details.
+3. Seated portrait on modern black designer chair, relaxed yet powerful posture, fashion campaign aesthetic.
+4. Product display shot featuring jersey draped over chair with matching tracksuit and sneakers, luxury sports catalog photography.
+
+Style keywords:
+minimalist luxury, football icon, premium sportswear campaign, modern editorial, Vogue Men, GQ Sports, cinematic studio lighting, high-end fashion photography, realistic textures, luxury athlete branding, clean composition, commercial advertising quality.
+```
+
+<table>
+  <tr>
+    <th colspan="2">输出</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case31/03/Output-01.jpg" width="220"><br><sub>棚拍人像</sub></td>
+    <td align="center"><img src="e-commerce/Case31/03/Output-02.jpg" width="220"><br><sub>球衣细节特写</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case31/03/Output-03.jpg" width="220"><br><sub>坐姿广告人像</sub></td>
+    <td align="center"><img src="e-commerce/Case31/03/Output-04.jpg" width="220"><br><sub>产品展示排版</sub></td>
   </tr>
 </table>
 

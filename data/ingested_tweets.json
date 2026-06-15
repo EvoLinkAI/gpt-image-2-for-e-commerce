@@ -1,0 +1,54 @@
+{
+  "records": [
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2066085004116193571",
+      "author_handle": "iamaiistudio",
+      "title": "Sony A7 Exploded View",
+      "category": "Ecommerce Listing Image Prompts / Case 3: A+ Product Detail Visuals",
+      "readme_file": "README.md",
+      "case_anchor": "#example-4-sony-a7-exploded-view-community",
+      "image_dir": "e-commerce/Case3/04",
+      "added_at": "2026-06-15T00:00:00+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamrealsnow/status/2066200217347854445",
+      "author_handle": "iamrealsnow",
+      "title": "Solaris Sunscreen Shield Ad",
+      "category": "Product Showcase Prompts / Case 5: Background Replacement with Custom Description",
+      "readme_file": "README.md",
+      "case_anchor": "#example-3-solaris-sunscreen-shield-ad-community",
+      "image_dir": "e-commerce/Case20/03",
+      "added_at": "2026-06-15T00:00:00+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Gdgtify/status/2066129525784694882",
+      "author_handle": "Gdgtify",
+      "title": "Themed Skeleton Watch Grid",
+      "category": "Product Showcase Prompts / Case 5: Background Replacement with Custom Description",
+      "readme_file": "README.md",
+      "case_anchor": "#example-4-themed-skeleton-watch-grid-community",
+      "image_dir": "e-commerce/Case20/04",
+      "added_at": "2026-06-15T00:00:00+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2066236402766066106",
+      "author_handle": "iamaiistudio",
+      "title": "Luxury Product Editorial Poster",
+      "category": "Product Interaction Prompts / Case 2: Generated Human Interaction Scene",
+      "readme_file": "README.md",
+      "case_anchor": "#example-3-luxury-product-editorial-poster-community",
+      "image_dir": "e-commerce/Case23/03",
+      "added_at": "2026-06-15T00:00:00+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Taaruk_/status/2066103716223357044",
+      "author_handle": "Taaruk_",
+      "title": "Football Jersey Editorial Set",
+      "category": "Social Commerce Prompts / Case 1: Fashion Studio Sales Set",
+      "readme_file": "README.md",
+      "case_anchor": "#example-3-football-jersey-editorial-set-community",
+      "image_dir": "e-commerce/Case31/03",
+      "added_at": "2026-06-15T00:00:00+00:00"
+    }
+  ]
+}

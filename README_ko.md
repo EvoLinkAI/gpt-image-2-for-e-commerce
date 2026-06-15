@@ -55,6 +55,7 @@ Evolink 에서 사용해 보기: [GPT Image 2 워크플로우](https://evolink.a
 
 ## 📰 업데이트
 
+- **2026년 6월 15일:** A+ 상세 비주얼, 커스텀 제품 배경, 인물-제품 씬, 패션 스튜디오 판매 세트 전반에 걸친 커뮤니티 GPT Image 2 프롬프트 레퍼런스 5건을 추가하고, 이 저장소 최초의 중복 제거 인덱스 `data/ingested_tweets.json`도 만들었습니다.
 - **2026년 5월 7일:** 프롬프트 라이브러리를 **이커머스용 GPT Image 2** 중심으로 재포지셔닝하고, 빠른 시작 및 Evolink API 일괄 생성 섹션을 추가했습니다.
 - **2026년 5월 5일:** 이커머스 에이전트 프롬프트 패턴 전체와 정렬되도록 리스팅 이미지·모델 피팅·제품 쇼케이스 카테고리를 확장했습니다.
 - **2026년 4월 30일:** 리스팅 이미지·모델 편집·제품 쇼케이스·인터랙션 씬·소셜 커머스 크리에이티브의 전체 프롬프트 카테고리를 추가했습니다.
@@ -347,6 +348,26 @@ This is a {product_description}. Generate A+ detail visuals for {country} in {la
     <td align="center"><img src="e-commerce/Case3/03/Output-04.png" width="150"><br><sub>A+ 디테일 3</sub></td>
     <td align="center"><img src="e-commerce/Case3/03/Output-05.png" width="150"><br><sub>A+ 디테일 4</sub></td>
     <td align="center"><img src="e-commerce/Case3/03/Output-06.png" width="150"><br><sub>A+ 요약</sub></td>
+  </tr>
+</table>
+
+#### 예시 4: [Sony A7 분해도](https://x.com/iamaiistudio/status/2066085004116193571) (커뮤니티, 작성자 [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> 최근 공개된 GPT Image 2 게시물에서 가져온 커뮤니티 레퍼런스입니다. 원문 트윗에는 출력 이미지만 공유되었습니다.
+
+**관찰된 프롬프트:**
+
+```
+Detailed exploded-view diagram of a Sony A7 mirrorless camera, with all internal components separated and clearly visible, each part labeled with its name. Technical product illustration style, clean white background, precise and informative layout.
+```
+
+<table>
+  <tr>
+    <th>출력</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case3/04/Output-01.jpg" width="260"><br><sub>분해도 제품 다이어그램</sub></td>
   </tr>
 </table>
 
@@ -1085,6 +1106,55 @@ Replace the background of the product in the image: {background_description}.
   </tr>
 </table>
 
+#### 예시 3: [Solaris 선스크린 실드 광고](https://x.com/iamrealsnow/status/2066200217347854445) (커뮤니티, 작성자 [@iamrealsnow](https://x.com/iamrealsnow))
+
+> [!TIP]
+> 최근 공개된 GPT Image 2 게시물에서 가져온 커뮤니티 레퍼런스입니다. 원문 트윗에는 출력 이미지들만 공유되었습니다.
+
+**관찰된 프롬프트:**
+
+```text
+SUNSCREEN AD, "THE INVISIBLE SHIELD"
+
+Luxury skincare advertising masterpiece, a colossal premium sunscreen bottle standing on a pristine tropical shoreline at golden hour, powerful beams of sunlight crashing down from the sky and splitting apart upon contact with a transparent protective energy dome radiating from the sunscreen, millions of sparkling UV particles dissolving into golden dust before reaching flawless skin, crystal clear ocean reflections, flowing water suspended in mid air around the product, microscopic droplets catching cinematic sunlight, ultra realistic textures revealing every detail of the bottle surface, luxury beauty campaign aesthetics, dramatic volumetric lighting, glowing atmospheric haze, premium white and gold color palette, futuristic protection technology visualized as elegant light waves, hyper detailed environment, commercial photography perfection, award winning advertising design, photorealistic rendering, 16K ultra resolution, global skincare brand campaign, masterpiece quality.
+
+Text Overlay:
+SUNSCREEN
+
+Tagline:
+"Protect Every Ray. Reveal Every Glow.
+```
+
+<table>
+  <tr>
+    <th colspan="2">출력</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/03/Output-01.jpg" width="220"><br><sub>프로텍션 돔 콘셉트</sub></td>
+    <td align="center"><img src="e-commerce/Case20/03/Output-02.jpg" width="220"><br><sub>골든아워 히어로 배리에이션</sub></td>
+  </tr>
+</table>
+
+#### 예시 4: [테마별 스켈레톤 시계 그리드](https://x.com/Gdgtify/status/2066129525784694882) (커뮤니티, 작성자 [@Gdgtify](https://x.com/Gdgtify))
+
+> [!TIP]
+> 최근 공개된 GPT Image 2 게시물에서 가져온 커뮤니티 레퍼런스입니다. 원문 트윗에는 출력 이미지만 공유되었습니다.
+
+**관찰된 프롬프트:**
+
+```text
+2x2 grid, do this for 4 stunning themes, 16:9 [luxury_watch_cad_system] base_chassis: "hyper-luxury skeletonized tourbillon watch" conceptual_theme: "[$theme, e.g., the samurai shogun]" <mechanism_generation> - ai inference: do not just paint the watch. build the gears, hands, and face using elements from the [$theme]. - example: if ocean, the gears look like coral patterns and the hands are trident spears. if space, the center is a glowing meteorite. - materials: sapphire crystal, forged carbon, rose gold, glowing tritium tubes. </mechanism_generation> <photography> a macro product shot of the watch face. extreme close-up. lighting: dark background, sharp rim lighting catching the metallic edges of the gears. resolution: 8k, razor-sharp focus on the tourbillon movement. vibe: impossibly expensive, intricately engineered, a masterpiece of micro-mechanics. </photography>
+```
+
+<table>
+  <tr>
+    <th>출력</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/04/Output-01.jpg" width="340"><br><sub>4개 테마 럭셔리 시계 그리드</sub></td>
+  </tr>
+</table>
+
 ### 케이스 6: 참조 기반 제품 배경
 
 **입력:** 제품 이미지와 참조 배경 이미지를 업로드하세요.
@@ -1184,6 +1254,29 @@ Add a human model to this product scene. The model should be {person_description
     <td align="center"><img src="e-commerce/Case23/01/Output-01.png" width="180"><br><sub>치파오 모델 등장</sub></td>
     <td align="center"><img src="e-commerce/Case23/02/Input.webp" width="180"><br><sub>레드·실버 헤드폰</sub></td>
     <td align="center"><img src="e-commerce/Case23/02/Output.png" width="180"><br><sub>헤드폰 착용 모델</sub></td>
+  </tr>
+</table>
+
+#### 예시 3: [럭셔리 제품 에디토리얼 포스터](https://x.com/iamaiistudio/status/2066236402766066106) (커뮤니티, 작성자 [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> 최근 공개된 GPT Image 2 게시물에서 가져온 커뮤니티 레퍼런스입니다. 원문 트윗에는 출력 이미지만 공유되었습니다.
+
+**관찰된 프롬프트:**
+
+```text
+[attach a luxury product photo]
+BRAND: [enter your brand name]
+
+Design a single high-end editorial poster. Preserve the product exactly as shown, unaltered. Identify the brand and position its authentic official logo with correct proportions and a subtle print texture in the most fitting location. Include a complementary attractive model naturally wearing or holding the product. Deep rich colors, HDR quality, premium studio lighting, clean minimal background, ample negative space, ultra-sharp 8K output. No additional text or watermarks.
+```
+
+<table>
+  <tr>
+    <th>출력</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case23/03/Output-01.jpg" width="320"><br><sub>럭셔리 에디토리얼 포스터 결과</sub></td>
   </tr>
 </table>
 
@@ -1310,6 +1403,40 @@ Generate a model sales image set, background is a fashion studio.
   <tr>
     <td align="center"><img src="e-commerce/Case31/02/Output-03.png" width="200"><br><sub>스튜디오 촬영 3</sub></td>
     <td align="center"><img src="e-commerce/Case31/02/Output-04.png" width="200"><br><sub>스튜디오 촬영 4</sub></td>
+  </tr>
+</table>
+
+#### 예시 3: [풋볼 저지 에디토리얼 세트](https://x.com/Taaruk_/status/2066103716223357044) (커뮤니티, 작성자 [@Taaruk_](https://x.com/Taaruk_))
+
+> [!TIP]
+> 최근 공개된 GPT Image 2 게시물에서 가져온 커뮤니티 레퍼런스입니다. 원문 트윗에는 출력 이미지들만 공유되었습니다.
+
+**관찰된 프롬프트:**
+
+```text
+Luxury sports fashion campaign, Cristiano Ronaldo inspired editorial photoshoot, standing confidently in a minimalist beige studio, wearing a black Portugal national team jersey with a bold red textured vertical stripe, athletic physique, hands behind back, serious expression, premium football lifestyle aesthetic, high-fashion sportswear photography, clean neutral backdrop, soft cinematic lighting, luxury magazine cover style, Nike-inspired campaign, ultra realistic skin texture, sharp focus, professional studio photography, muted earth-tone color palette, modern luxury branding, 85mm lens, shallow depth of field, photorealistic, 8K, editorial masterpiece.
+
+Additional shots:
+1. Full-body standing portrait, centered composition, confident pose.
+2. Close-up chest detail shot highlighting jersey texture, number 7, luxury silver chain, premium fabric details.
+3. Seated portrait on modern black designer chair, relaxed yet powerful posture, fashion campaign aesthetic.
+4. Product display shot featuring jersey draped over chair with matching tracksuit and sneakers, luxury sports catalog photography.
+
+Style keywords:
+minimalist luxury, football icon, premium sportswear campaign, modern editorial, Vogue Men, GQ Sports, cinematic studio lighting, high-end fashion photography, realistic textures, luxury athlete branding, clean composition, commercial advertising quality.
+```
+
+<table>
+  <tr>
+    <th colspan="2">출력</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case31/03/Output-01.jpg" width="220"><br><sub>스튜디오 포트레이트</sub></td>
+    <td align="center"><img src="e-commerce/Case31/03/Output-02.jpg" width="220"><br><sub>저지 디테일 클로즈업</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case31/03/Output-03.jpg" width="220"><br><sub>착석 캠페인 포트레이트</sub></td>
+    <td align="center"><img src="e-commerce/Case31/03/Output-04.jpg" width="220"><br><sub>제품 디스플레이 레이아웃</sub></td>
   </tr>
 </table>
 

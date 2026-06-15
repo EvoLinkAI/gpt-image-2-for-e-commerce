@@ -55,6 +55,7 @@
 
 ## 📰 Новости
 
+- **15 июня 2026:** Добавили пять референсов промптов GPT Image 2 от сообщества в разделы A+ детальных визуалов, кастомных продуктовых фонов, сцен с человеком и продажных наборов для фэшн-студии; также создали первый индекс дедупликации `data/ingested_tweets.json` для этого репозитория.
 - **7 мая 2026:** Перепозиционировали библиотеку промптов вокруг **GPT Image 2 для e-commerce**, добавили раздел Быстрого старта и Пакетной генерации через API Evolink.
 - **5 мая 2026:** Расширили категории изображений листингов, примерки на модели и витрин товаров до полного набора паттернов промптов e-commerce агента.
 - **30 апреля 2026:** Добавили полные категории промптов для изображений листингов, редактирования моделей, витрин товаров, сцен взаимодействия и креативов social commerce.
@@ -347,6 +348,26 @@ This is a {product_description}. Generate A+ detail visuals for {country} in {la
     <td align="center"><img src="e-commerce/Case3/03/Output-04.png" width="150"><br><sub>A+ Деталь 3</sub></td>
     <td align="center"><img src="e-commerce/Case3/03/Output-05.png" width="150"><br><sub>A+ Деталь 4</sub></td>
     <td align="center"><img src="e-commerce/Case3/03/Output-06.png" width="150"><br><sub>A+ Сводка</sub></td>
+  </tr>
+</table>
+
+#### Пример 4: [Взрыв-схема Sony A7](https://x.com/iamaiistudio/status/2066085004116193571) (Сообщество, автор [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> Пример сообщества из недавнего публичного поста о GPT Image 2. В исходном твите было только итоговое изображение.
+
+**Наблюдаемый промпт:**
+
+```
+Detailed exploded-view diagram of a Sony A7 mirrorless camera, with all internal components separated and clearly visible, each part labeled with its name. Technical product illustration style, clean white background, precise and informative layout.
+```
+
+<table>
+  <tr>
+    <th>Выход</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case3/04/Output-01.jpg" width="260"><br><sub>Взрыв-схема товара</sub></td>
   </tr>
 </table>
 
@@ -1085,6 +1106,55 @@ Replace the background of the product in the image: {background_description}.
   </tr>
 </table>
 
+#### Пример 3: [Рекламный креатив Solaris Sunscreen Shield](https://x.com/iamrealsnow/status/2066200217347854445) (Сообщество, автор [@iamrealsnow](https://x.com/iamrealsnow))
+
+> [!TIP]
+> Пример сообщества из недавнего публичного поста о GPT Image 2. В исходном твите были только итоговые изображения.
+
+**Наблюдаемый промпт:**
+
+```text
+SUNSCREEN AD, "THE INVISIBLE SHIELD"
+
+Luxury skincare advertising masterpiece, a colossal premium sunscreen bottle standing on a pristine tropical shoreline at golden hour, powerful beams of sunlight crashing down from the sky and splitting apart upon contact with a transparent protective energy dome radiating from the sunscreen, millions of sparkling UV particles dissolving into golden dust before reaching flawless skin, crystal clear ocean reflections, flowing water suspended in mid air around the product, microscopic droplets catching cinematic sunlight, ultra realistic textures revealing every detail of the bottle surface, luxury beauty campaign aesthetics, dramatic volumetric lighting, glowing atmospheric haze, premium white and gold color palette, futuristic protection technology visualized as elegant light waves, hyper detailed environment, commercial photography perfection, award winning advertising design, photorealistic rendering, 16K ultra resolution, global skincare brand campaign, masterpiece quality.
+
+Text Overlay:
+SUNSCREEN
+
+Tagline:
+"Protect Every Ray. Reveal Every Glow.
+```
+
+<table>
+  <tr>
+    <th colspan="2">Выход</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/03/Output-01.jpg" width="220"><br><sub>Концепт защитного купола</sub></td>
+    <td align="center"><img src="e-commerce/Case20/03/Output-02.jpg" width="220"><br><sub>Главный вариант в золотой час</sub></td>
+  </tr>
+</table>
+
+#### Пример 4: [Тематическая сетка скелетон-часов](https://x.com/Gdgtify/status/2066129525784694882) (Сообщество, автор [@Gdgtify](https://x.com/Gdgtify))
+
+> [!TIP]
+> Пример сообщества из недавнего публичного поста о GPT Image 2. В исходном твите было только итоговое изображение.
+
+**Наблюдаемый промпт:**
+
+```text
+2x2 grid, do this for 4 stunning themes, 16:9 [luxury_watch_cad_system] base_chassis: "hyper-luxury skeletonized tourbillon watch" conceptual_theme: "[$theme, e.g., the samurai shogun]" <mechanism_generation> - ai inference: do not just paint the watch. build the gears, hands, and face using elements from the [$theme]. - example: if ocean, the gears look like coral patterns and the hands are trident spears. if space, the center is a glowing meteorite. - materials: sapphire crystal, forged carbon, rose gold, glowing tritium tubes. </mechanism_generation> <photography> a macro product shot of the watch face. extreme close-up. lighting: dark background, sharp rim lighting catching the metallic edges of the gears. resolution: 8k, razor-sharp focus on the tourbillon movement. vibe: impossibly expensive, intricately engineered, a masterpiece of micro-mechanics. </photography>
+```
+
+<table>
+  <tr>
+    <th>Выход</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/04/Output-01.jpg" width="340"><br><sub>Сетка роскошных часов в четырёх темах</sub></td>
+  </tr>
+</table>
+
 ### Кейс 6: Фон товара по референсу
 
 **Вход:** Загрузите изображение товара и референсное изображение фона.
@@ -1184,6 +1254,29 @@ Add a human model to this product scene. The model should be {person_description
     <td align="center"><img src="e-commerce/Case23/01/Output-01.png" width="180"><br><sub>Модель в ципао</sub></td>
     <td align="center"><img src="e-commerce/Case23/02/Input.webp" width="180"><br><sub>Красно-серебр. наушники</sub></td>
     <td align="center"><img src="e-commerce/Case23/02/Output.png" width="180"><br><sub>Модель в наушниках</sub></td>
+  </tr>
+</table>
+
+#### Пример 3: [Роскошный редакционный постер товара](https://x.com/iamaiistudio/status/2066236402766066106) (Сообщество, автор [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> Пример сообщества из недавнего публичного поста о GPT Image 2. В исходном твите было только итоговое изображение.
+
+**Наблюдаемый промпт:**
+
+```text
+[attach a luxury product photo]
+BRAND: [enter your brand name]
+
+Design a single high-end editorial poster. Preserve the product exactly as shown, unaltered. Identify the brand and position its authentic official logo with correct proportions and a subtle print texture in the most fitting location. Include a complementary attractive model naturally wearing or holding the product. Deep rich colors, HDR quality, premium studio lighting, clean minimal background, ample negative space, ultra-sharp 8K output. No additional text or watermarks.
+```
+
+<table>
+  <tr>
+    <th>Выход</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case23/03/Output-01.jpg" width="320"><br><sub>Роскошный редакционный постер</sub></td>
   </tr>
 </table>
 
@@ -1310,6 +1403,40 @@ Generate a model sales image set, background is a fashion studio.
   <tr>
     <td align="center"><img src="e-commerce/Case31/02/Output-03.png" width="200"><br><sub>Студийная съёмка 3</sub></td>
     <td align="center"><img src="e-commerce/Case31/02/Output-04.png" width="200"><br><sub>Студийная съёмка 4</sub></td>
+  </tr>
+</table>
+
+#### Пример 3: [Редакционный сет с футбольной формой](https://x.com/Taaruk_/status/2066103716223357044) (Сообщество, автор [@Taaruk_](https://x.com/Taaruk_))
+
+> [!TIP]
+> Пример сообщества из недавнего публичного поста о GPT Image 2. В исходном твите были только итоговые изображения.
+
+**Наблюдаемый промпт:**
+
+```text
+Luxury sports fashion campaign, Cristiano Ronaldo inspired editorial photoshoot, standing confidently in a minimalist beige studio, wearing a black Portugal national team jersey with a bold red textured vertical stripe, athletic physique, hands behind back, serious expression, premium football lifestyle aesthetic, high-fashion sportswear photography, clean neutral backdrop, soft cinematic lighting, luxury magazine cover style, Nike-inspired campaign, ultra realistic skin texture, sharp focus, professional studio photography, muted earth-tone color palette, modern luxury branding, 85mm lens, shallow depth of field, photorealistic, 8K, editorial masterpiece.
+
+Additional shots:
+1. Full-body standing portrait, centered composition, confident pose.
+2. Close-up chest detail shot highlighting jersey texture, number 7, luxury silver chain, premium fabric details.
+3. Seated portrait on modern black designer chair, relaxed yet powerful posture, fashion campaign aesthetic.
+4. Product display shot featuring jersey draped over chair with matching tracksuit and sneakers, luxury sports catalog photography.
+
+Style keywords:
+minimalist luxury, football icon, premium sportswear campaign, modern editorial, Vogue Men, GQ Sports, cinematic studio lighting, high-end fashion photography, realistic textures, luxury athlete branding, clean composition, commercial advertising quality.
+```
+
+<table>
+  <tr>
+    <th colspan="2">Выход</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case31/03/Output-01.jpg" width="220"><br><sub>Студийный портрет</sub></td>
+    <td align="center"><img src="e-commerce/Case31/03/Output-02.jpg" width="220"><br><sub>Крупный план деталей джерси</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case31/03/Output-03.jpg" width="220"><br><sub>Сидячий рекламный портрет</sub></td>
+    <td align="center"><img src="e-commerce/Case31/03/Output-04.jpg" width="220"><br><sub>Раскладка демонстрации товара</sub></td>
   </tr>
 </table>
 

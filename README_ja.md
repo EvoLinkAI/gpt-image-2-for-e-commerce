@@ -55,6 +55,7 @@ Evolink で試す：[GPT Image 2 ワークフロー](https://evolink.ai/gpt-imag
 
 ## 📰 更新履歴
 
+- **2026年6月15日：** A+ 詳細ビジュアル、カスタム商品背景、人物と商品のシーン、ファッションスタジオ販売セットにまたがるコミュニティ発の GPT Image 2 プロンプト参照を5件追加し、このリポジトリ初の重複排除インデックス `data/ingested_tweets.json` も作成。
 - **2026年5月7日：** リポジトリを **GPT Image 2 for E-commerce** をテーマに再構成し、「クイックスタート」と「Evolink API による一括生成」セクションを追加。
 - **2026年5月5日：** 電商 Agent プロンプトパターン全体に合わせて、メイン画像・モデル試着・商品ショーケースの3カテゴリを拡充。
 - **2026年4月30日：** メイン画像・モデル編集・商品ショーケース・インタラクションシーン・ソーシャルコマース・クリエイティブの完全プロンプト分類を追加。
@@ -347,6 +348,26 @@ This is a {product_description}. Generate A+ detail visuals for {country} in {la
     <td align="center"><img src="e-commerce/Case3/03/Output-04.png" width="150"><br><sub>A+ 詳細 3</sub></td>
     <td align="center"><img src="e-commerce/Case3/03/Output-05.png" width="150"><br><sub>A+ 詳細 4</sub></td>
     <td align="center"><img src="e-commerce/Case3/03/Output-06.png" width="150"><br><sub>A+ 総括</sub></td>
+  </tr>
+</table>
+
+#### 例 4：[Sony A7 分解図](https://x.com/iamaiistudio/status/2066085004116193571)（コミュニティ、投稿者 [@iamaiistudio](https://x.com/iamaiistudio)）
+
+> [!TIP]
+> 最近公開された GPT Image 2 のコミュニティ参考例です。元ツイートでは出力画像のみが共有されていました。
+
+**観測されたプロンプト：**
+
+```
+Detailed exploded-view diagram of a Sony A7 mirrorless camera, with all internal components separated and clearly visible, each part labeled with its name. Technical product illustration style, clean white background, precise and informative layout.
+```
+
+<table>
+  <tr>
+    <th>出力</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case3/04/Output-01.jpg" width="260"><br><sub>分解図プロダクトダイアグラム</sub></td>
   </tr>
 </table>
 
@@ -1085,6 +1106,55 @@ Replace the background of the product in the image: {background_description}.
   </tr>
 </table>
 
+#### 例 3：[Solaris 日焼け止めシールド広告](https://x.com/iamrealsnow/status/2066200217347854445)（コミュニティ、投稿者 [@iamrealsnow](https://x.com/iamrealsnow)）
+
+> [!TIP]
+> 最近公開された GPT Image 2 のコミュニティ参考例です。元ツイートでは出力画像のみが共有されていました。
+
+**観測されたプロンプト：**
+
+```text
+SUNSCREEN AD, "THE INVISIBLE SHIELD"
+
+Luxury skincare advertising masterpiece, a colossal premium sunscreen bottle standing on a pristine tropical shoreline at golden hour, powerful beams of sunlight crashing down from the sky and splitting apart upon contact with a transparent protective energy dome radiating from the sunscreen, millions of sparkling UV particles dissolving into golden dust before reaching flawless skin, crystal clear ocean reflections, flowing water suspended in mid air around the product, microscopic droplets catching cinematic sunlight, ultra realistic textures revealing every detail of the bottle surface, luxury beauty campaign aesthetics, dramatic volumetric lighting, glowing atmospheric haze, premium white and gold color palette, futuristic protection technology visualized as elegant light waves, hyper detailed environment, commercial photography perfection, award winning advertising design, photorealistic rendering, 16K ultra resolution, global skincare brand campaign, masterpiece quality.
+
+Text Overlay:
+SUNSCREEN
+
+Tagline:
+"Protect Every Ray. Reveal Every Glow.
+```
+
+<table>
+  <tr>
+    <th colspan="2">出力</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/03/Output-01.jpg" width="220"><br><sub>防護ドーム・コンセプト</sub></td>
+    <td align="center"><img src="e-commerce/Case20/03/Output-02.jpg" width="220"><br><sub>ゴールデンアワーのヒーローバリエーション</sub></td>
+  </tr>
+</table>
+
+#### 例 4：[テーマ別スケルトンウォッチ・グリッド](https://x.com/Gdgtify/status/2066129525784694882)（コミュニティ、投稿者 [@Gdgtify](https://x.com/Gdgtify)）
+
+> [!TIP]
+> 最近公開された GPT Image 2 のコミュニティ参考例です。元ツイートでは出力画像のみが共有されていました。
+
+**観測されたプロンプト：**
+
+```text
+2x2 grid, do this for 4 stunning themes, 16:9 [luxury_watch_cad_system] base_chassis: "hyper-luxury skeletonized tourbillon watch" conceptual_theme: "[$theme, e.g., the samurai shogun]" <mechanism_generation> - ai inference: do not just paint the watch. build the gears, hands, and face using elements from the [$theme]. - example: if ocean, the gears look like coral patterns and the hands are trident spears. if space, the center is a glowing meteorite. - materials: sapphire crystal, forged carbon, rose gold, glowing tritium tubes. </mechanism_generation> <photography> a macro product shot of the watch face. extreme close-up. lighting: dark background, sharp rim lighting catching the metallic edges of the gears. resolution: 8k, razor-sharp focus on the tourbillon movement. vibe: impossibly expensive, intricately engineered, a masterpiece of micro-mechanics. </photography>
+```
+
+<table>
+  <tr>
+    <th>出力</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/04/Output-01.jpg" width="340"><br><sub>4テーマの高級時計グリッド</sub></td>
+  </tr>
+</table>
+
 ### ケース 6：参照画像で商品背景生成
 
 **入力：** 商品画像と参照背景画像をアップロード。
@@ -1184,6 +1254,29 @@ Add a human model to this product scene. The model should be {person_description
     <td align="center"><img src="e-commerce/Case23/01/Output-01.png" width="180"><br><sub>チャイナドレス・モデル登場</sub></td>
     <td align="center"><img src="e-commerce/Case23/02/Input.webp" width="180"><br><sub>赤×シルバー・ヘッドホン</sub></td>
     <td align="center"><img src="e-commerce/Case23/02/Output.png" width="180"><br><sub>ヘッドホン装着・女性モデル</sub></td>
+  </tr>
+</table>
+
+#### 例 3：[ラグジュアリー商品エディトリアルポスター](https://x.com/iamaiistudio/status/2066236402766066106)（コミュニティ、投稿者 [@iamaiistudio](https://x.com/iamaiistudio)）
+
+> [!TIP]
+> 最近公開された GPT Image 2 のコミュニティ参考例です。元ツイートでは出力画像のみが共有されていました。
+
+**観測されたプロンプト：**
+
+```text
+[attach a luxury product photo]
+BRAND: [enter your brand name]
+
+Design a single high-end editorial poster. Preserve the product exactly as shown, unaltered. Identify the brand and position its authentic official logo with correct proportions and a subtle print texture in the most fitting location. Include a complementary attractive model naturally wearing or holding the product. Deep rich colors, HDR quality, premium studio lighting, clean minimal background, ample negative space, ultra-sharp 8K output. No additional text or watermarks.
+```
+
+<table>
+  <tr>
+    <th>出力</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case23/03/Output-01.jpg" width="320"><br><sub>ラグジュアリー・エディトリアルポスター出力</sub></td>
   </tr>
 </table>
 
@@ -1310,6 +1403,40 @@ Generate a model sales image set, background is a fashion studio.
   <tr>
     <td align="center"><img src="e-commerce/Case31/02/Output-03.png" width="200"><br><sub>スタジオ撮影 3</sub></td>
     <td align="center"><img src="e-commerce/Case31/02/Output-04.png" width="200"><br><sub>スタジオ撮影 4</sub></td>
+  </tr>
+</table>
+
+#### 例 3：[フットボールジャージー・エディトリアルセット](https://x.com/Taaruk_/status/2066103716223357044)（コミュニティ、投稿者 [@Taaruk_](https://x.com/Taaruk_)）
+
+> [!TIP]
+> 最近公開された GPT Image 2 のコミュニティ参考例です。元ツイートでは出力画像のみが共有されていました。
+
+**観測されたプロンプト：**
+
+```text
+Luxury sports fashion campaign, Cristiano Ronaldo inspired editorial photoshoot, standing confidently in a minimalist beige studio, wearing a black Portugal national team jersey with a bold red textured vertical stripe, athletic physique, hands behind back, serious expression, premium football lifestyle aesthetic, high-fashion sportswear photography, clean neutral backdrop, soft cinematic lighting, luxury magazine cover style, Nike-inspired campaign, ultra realistic skin texture, sharp focus, professional studio photography, muted earth-tone color palette, modern luxury branding, 85mm lens, shallow depth of field, photorealistic, 8K, editorial masterpiece.
+
+Additional shots:
+1. Full-body standing portrait, centered composition, confident pose.
+2. Close-up chest detail shot highlighting jersey texture, number 7, luxury silver chain, premium fabric details.
+3. Seated portrait on modern black designer chair, relaxed yet powerful posture, fashion campaign aesthetic.
+4. Product display shot featuring jersey draped over chair with matching tracksuit and sneakers, luxury sports catalog photography.
+
+Style keywords:
+minimalist luxury, football icon, premium sportswear campaign, modern editorial, Vogue Men, GQ Sports, cinematic studio lighting, high-end fashion photography, realistic textures, luxury athlete branding, clean composition, commercial advertising quality.
+```
+
+<table>
+  <tr>
+    <th colspan="2">出力</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case31/03/Output-01.jpg" width="220"><br><sub>スタジオポートレート</sub></td>
+    <td align="center"><img src="e-commerce/Case31/03/Output-02.jpg" width="220"><br><sub>ジャージー細部クローズアップ</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case31/03/Output-03.jpg" width="220"><br><sub>着座キャンペーンポートレート</sub></td>
+    <td align="center"><img src="e-commerce/Case31/03/Output-04.jpg" width="220"><br><sub>商品ディスプレイレイアウト</sub></td>
   </tr>
 </table>
 
