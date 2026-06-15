@@ -27,11 +27,13 @@
 
 Turn an ecommerce prompt recipe into a GPT Image 2 API call:
 
-- [Open the GPT Image 2 model page](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
-- [Read GPT Image 2 API docs](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
-- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
-- [Browse the GPT Image 2 prompt library](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)
-- [Install the GPT Image 2 agent skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
+<p align="center">
+  <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><strong>Model Page</strong></a> &nbsp;·&nbsp;
+  <a href="https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><strong>Docs</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce"><strong>API Key</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"><strong>GPT Image Prompts</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/gpt-image-2-gen-skill"><strong>Skill</strong></a>
+</p>
 
 ```bash
 export EVOLINK_API_KEY="your_key_here"
