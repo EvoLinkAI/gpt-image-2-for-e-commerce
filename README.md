@@ -23,6 +23,29 @@
 
 </div>
 
+## EvoLink Quick Start
+
+Turn an ecommerce prompt recipe into a GPT Image 2 API call:
+
+- [Open the GPT Image 2 model page](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+- [Read GPT Image 2 API docs](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce)
+- [Browse the GPT Image 2 prompt library](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)
+- [Install the GPT Image 2 agent skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
+
+```bash
+export EVOLINK_API_KEY="your_key_here"
+
+curl --request POST \
+  --url https://api.evolink.ai/v1/images/generations \
+  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "model": "gpt-image-2",
+    "prompt": "A premium marketplace main image for a stainless steel water bottle on a clean white background, realistic reflections, sharp product edges, commercial lighting"
+  }'
+```
+
 # How to Use GPT Image 2 for E-commerce
 
 > A prompt cookbook for creating e-commerce images with **GPT Image 2** — listing photos, model try-on, product showcases, interaction scenes, and social commerce creatives.
