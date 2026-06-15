@@ -53,19 +53,10 @@ If you find it useful, please give us a Star ⭐
 2. **Upload your product photo** and **copy the prompt** from that case — replace `{placeholders}` with your product, language, country, platform, and selling points.
 3. **Run it on GPT Image 2** — either through the [Evolink workflow UI](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce) for one-off creatives, or via the [Evolink API](#-batch-generation-via-evolink-api) for bulk SKUs and multi-language rollouts.
 
-## 📰 News
-
-- **June 15, 2026:** Added five community GPT Image 2 prompt references across A+ detail visuals, custom product backgrounds, human-product scenes, and fashion studio sales sets; also created the first `data/ingested_tweets.json` dedup index for this repo.
-- **May 7, 2026:** Repositioned the prompt library around **GPT Image 2 for e-commerce**, with a Quick Start and a Batch Generation via Evolink API section.
-- **May 5, 2026:** Expanded the listing image, model try-on, and product showcase categories to align with the full set of ecommerce agent prompt patterns.
-- **April 30, 2026:** Added complete prompt categories for listing images, model editing, product showcases, interaction scenes, and social commerce creatives.
-- **April 30, 2026:** First English-first repository scaffold for ecommerce image prompt workflows.
-
 ## 📑 Menu
 
 - [🍌 Introduction](#-introduction)
 - [⚡ Quick Start](#-quick-start)
-- [📰 News](#-news)
 - [📑 Menu](#-menu)
 - [🖼️ Ecommerce Listing Image Prompts](#️-ecommerce-listing-image-prompts)
   - [Case 1: Marketplace Listing Image Set](#case-1-marketplace-listing-image-set)

@@ -53,19 +53,10 @@ Wenn es nützlich ist, gib uns bitte einen Star ⭐
 2. **Lade dein Produktfoto hoch** und **kopiere den Prompt** aus diesem Case — ersetze `{placeholders}` durch dein Produkt, Sprache, Land, Plattform und Verkaufsargumente.
 3. **Führe ihn auf GPT Image 2 aus** — entweder über die [Evolink-Workflow-UI](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce) für einzelne Creatives oder über die [Evolink-API](#-batch-generierung-über-die-evolink-api) für Massen-SKUs und mehrsprachige Rollouts.
 
-## 📰 News
-
-- **15. Juni 2026:** Fünf Community-Referenzen für GPT Image 2 Prompts ergänzt, verteilt auf A+-Detail-Visuals, benutzerdefinierte Produkt-Hintergründe, Mensch-Produkt-Szenen und Fashion-Studio-Verkaufssets; außerdem den ersten Dedup-Index `data/ingested_tweets.json` für dieses Repository angelegt.
-- **7. Mai 2026:** Die Prompt-Bibliothek wurde rund um **GPT Image 2 für E-Commerce** neu positioniert, mit Schnellstart und Batch-Generierung über die Evolink-API.
-- **5. Mai 2026:** Die Kategorien Listing-Bild, Model-Anprobe und Produktpräsentation wurden erweitert, um sich mit dem vollständigen Set der E-Commerce-Agent-Prompt-Muster zu decken.
-- **30. April 2026:** Vollständige Prompt-Kategorien hinzugefügt für Listing-Bilder, Model-Bearbeitung, Produktpräsentationen, Interaktionsszenen und Social-Commerce-Creatives.
-- **30. April 2026:** Erstes English-first-Repository-Gerüst für E-Commerce-Bild-Prompt-Workflows.
-
 ## 📑 Inhaltsverzeichnis
 
 - [🍌 Einführung](#-einführung)
 - [⚡ Schnellstart](#-schnellstart)
-- [📰 News](#-news)
 - [📑 Inhaltsverzeichnis](#-inhaltsverzeichnis)
 - [🖼️ E-Commerce-Listing-Bild-Prompts](#️-e-commerce-listing-bild-prompts)
   - [Case 1: Marketplace-Listing-Bildset](#case-1-marketplace-listing-bildset)
