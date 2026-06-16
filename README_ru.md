@@ -371,6 +371,36 @@ Detailed exploded-view diagram of a Sony A7 mirrorless camera, with all internal
   </tr>
 </table>
 
+#### Пример 5: [Архитектурная страница каталога товара](https://x.com/iamaiistudio/status/2066447564132745574) (Сообщество, автор [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> Пример сообщества из недавнего публичного поста о GPT Image 2. В исходном твите были и промпт, и итоговое изображение.
+
+**Наблюдаемый промпт:**
+
+```text
+Create a vertical 3:4 product design catalog page with a warm neutral paper-like background.
+
+Top section - lifestyle hero shot: place the product (use the uploaded image as the exact reference, preserving its form, proportions, materials, and identity without redesign) center-dominant with generous whitespace. Setting is a minimal architectural interior with a textured plaster wall and subtle concrete/stone floor. Lighting is natural sunlight angled from the side, soft but casting high-contrast shadows. Render in editorial lifestyle photography style, high realism, warm and muted color grading.
+
+Bottom section - technical specification panel laid out in a clean modular grid:
+- Bottom left and center: orthographic architectural line drawings showing front view, side view, and three-quarter cutaway/profile view. Lines in muted red or sepia, fine technical weight, with minimal editorial measurement and construction callouts.
+- Bottom right: 3-4 material swatch samples derived from the product's actual materials (fabric, leather, metal, wood, or plastic as applicable), in square or rectangular format with small editorial captions.
+
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal - architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
+```
+
+<table>
+  <tr>
+    <th>Выход</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case3/05/Output-01.jpg" width="260"><br><sub>Каталожная страница с техническим блоком</sub></td>
+  </tr>
+</table>
+
 ### Кейс 4: Массовая генерация листингов Amazon
 
 > [!NOTE]
@@ -1586,6 +1616,76 @@ Generate a food sales image set.
   <tr>
     <td align="center"><img src="e-commerce/Case35/02/Output-03.png" width="200"><br><sub>Продажное фото 3</sub></td>
     <td align="center"><img src="e-commerce/Case35/02/Output-04.png" width="200"><br><sub>Продажное фото 4</sub></td>
+  </tr>
+</table>
+
+#### Пример 3: [Бренд-кампания кофе Obsidian](https://x.com/iamaiistudio/status/2066523210808484228) (Сообщество, автор [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> Пример сообщества из недавнего публичного поста о GPT Image 2. В исходном твите были и промпт, и итоговое изображение.
+
+**Наблюдаемый промпт:**
+
+```text
+Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display - steam rising, beans scattered. Shot 2: Full product range - coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
+```
+
+<table>
+  <tr>
+    <th>Выход</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case35/03/Output-01.jpg" width="320"><br><sub>Борд кофейной кампании из четырёх кадров</sub></td>
+  </tr>
+</table>
+
+#### Пример 4: [Постер бутылки Oatmilk Brownie](https://x.com/Shorelyn_/status/2066386292217467241) (Сообщество, автор [@Shorelyn_](https://x.com/Shorelyn_))
+
+> [!TIP]
+> Пример сообщества из недавнего публичного поста о GPT Image 2. В исходном твите было несколько изображений; здесь показан соответствующий ключевой постер.
+
+**Наблюдаемый промпт:**
+
+```text
+Premium commercial 3D advertising poster, vertical 4:5 format.
+
+Hero product perfectly centered: Starbucks Frappuccino Oatmilk Dark Chocolate Brownie bottle, floating above a glossy sculptural pedestal.
+
+Massive luxury typography in the background:
+
+"INDULGE THE DARK SIDE"
+
+oversized bold editorial font, partially hidden behind the bottle, layered depth effect.
+
+Additional typography:
+
+"Rich Dark Chocolate. Smooth Oatmilk."
+
+Small premium copy:
+
+"Every Sip Feels Like Dessert."
+
+Environment inspired by the product itself:
+
+flowing ribbons of creamy oatmilk, glossy dark chocolate streams, floating brownie cubes, oat flakes, purple botanical leaves from the packaging design.
+
+Color palette extracted from the label:
+
+deep royal purple, cream beige, dark chocolate brown, warm oat tones.
+
+Luxury graphic design elements:
+
+editorial typography, floating sticker labels, minimal barcode, micro typography, premium packaging callouts, subtle geometric shapes, modern commercial layout.
+
+Studio cinematic lighting, soft key light, purple rim light, volumetric glow, floating particles, realistic glass reflections, hyper-realistic PBR materials, ultra-sharp label readability, shallow depth of field, advertising campaign quality, Behance featured project quality, 8K commercial render, high-end beverage branding, premium food photography aesthetic.
+```
+
+<table>
+  <tr>
+    <th>Выход</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case35/04/Output-01.jpg" width="260"><br><sub>Ключевой рекламный постер бутылки</sub></td>
   </tr>
 </table>
 

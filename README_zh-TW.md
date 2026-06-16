@@ -371,6 +371,36 @@ Detailed exploded-view diagram of a Sony A7 mirrorless camera, with all internal
   </tr>
 </table>
 
+#### 示例 5：[建築感產品目錄頁](https://x.com/iamaiistudio/status/2066447564132745574)（社群案例，作者 [@iamaiistudio](https://x.com/iamaiistudio)）
+
+> [!TIP]
+> 來自近期公開 GPT Image 2 帖子的社群參考。原始推文分享了提示詞和輸出圖像。
+
+**觀察到的提示詞：**
+
+```text
+Create a vertical 3:4 product design catalog page with a warm neutral paper-like background.
+
+Top section - lifestyle hero shot: place the product (use the uploaded image as the exact reference, preserving its form, proportions, materials, and identity without redesign) center-dominant with generous whitespace. Setting is a minimal architectural interior with a textured plaster wall and subtle concrete/stone floor. Lighting is natural sunlight angled from the side, soft but casting high-contrast shadows. Render in editorial lifestyle photography style, high realism, warm and muted color grading.
+
+Bottom section - technical specification panel laid out in a clean modular grid:
+- Bottom left and center: orthographic architectural line drawings showing front view, side view, and three-quarter cutaway/profile view. Lines in muted red or sepia, fine technical weight, with minimal editorial measurement and construction callouts.
+- Bottom right: 3-4 material swatch samples derived from the product's actual materials (fabric, leather, metal, wood, or plastic as applicable), in square or rectangular format with small editorial captions.
+
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal - architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
+```
+
+<table>
+  <tr>
+    <th>輸出</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case3/05/Output-01.jpg" width="260"><br><sub>帶技術面板的目錄頁</sub></td>
+  </tr>
+</table>
+
 ### 案例 4：批次生成亞馬遜套圖
 
 > [!NOTE]
@@ -1586,6 +1616,76 @@ minimalist luxury, football icon, premium sportswear campaign, modern editorial,
   <tr>
     <td align="center"><img src="e-commerce/Case35/02/Output-03.png" width="200"><br><sub>帶貨圖 3</sub></td>
     <td align="center"><img src="e-commerce/Case35/02/Output-04.png" width="200"><br><sub>帶貨圖 4</sub></td>
+  </tr>
+</table>
+
+#### 示例 3：[Obsidian 咖啡品牌廣告企劃](https://x.com/iamaiistudio/status/2066523210808484228)（社群案例，作者 [@iamaiistudio](https://x.com/iamaiistudio)）
+
+> [!TIP]
+> 來自近期公開 GPT Image 2 帖子的社群參考。原始推文分享了提示詞和輸出圖像。
+
+**觀察到的提示詞：**
+
+```text
+Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display - steam rising, beans scattered. Shot 2: Full product range - coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
+```
+
+<table>
+  <tr>
+    <th>輸出</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case35/03/Output-01.jpg" width="320"><br><sub>四聯咖啡品牌廣告板</sub></td>
+  </tr>
+</table>
+
+#### 示例 4：[燕麥奶布朗尼瓶裝海報](https://x.com/Shorelyn_/status/2066386292217467241)（社群案例，作者 [@Shorelyn_](https://x.com/Shorelyn_)）
+
+> [!TIP]
+> 來自近期公開 GPT Image 2 帖子的社群參考。原始推文分享了多張圖像，這裡展示對應的主視覺海報。
+
+**觀察到的提示詞：**
+
+```text
+Premium commercial 3D advertising poster, vertical 4:5 format.
+
+Hero product perfectly centered: Starbucks Frappuccino Oatmilk Dark Chocolate Brownie bottle, floating above a glossy sculptural pedestal.
+
+Massive luxury typography in the background:
+
+"INDULGE THE DARK SIDE"
+
+oversized bold editorial font, partially hidden behind the bottle, layered depth effect.
+
+Additional typography:
+
+"Rich Dark Chocolate. Smooth Oatmilk."
+
+Small premium copy:
+
+"Every Sip Feels Like Dessert."
+
+Environment inspired by the product itself:
+
+flowing ribbons of creamy oatmilk, glossy dark chocolate streams, floating brownie cubes, oat flakes, purple botanical leaves from the packaging design.
+
+Color palette extracted from the label:
+
+deep royal purple, cream beige, dark chocolate brown, warm oat tones.
+
+Luxury graphic design elements:
+
+editorial typography, floating sticker labels, minimal barcode, micro typography, premium packaging callouts, subtle geometric shapes, modern commercial layout.
+
+Studio cinematic lighting, soft key light, purple rim light, volumetric glow, floating particles, realistic glass reflections, hyper-realistic PBR materials, ultra-sharp label readability, shallow depth of field, advertising campaign quality, Behance featured project quality, 8K commercial render, high-end beverage branding, premium food photography aesthetic.
+```
+
+<table>
+  <tr>
+    <th>輸出</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case35/04/Output-01.jpg" width="260"><br><sub>瓶裝飲品主視覺廣告海報</sub></td>
   </tr>
 </table>
 
