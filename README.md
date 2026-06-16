@@ -72,7 +72,7 @@ If you find it useful, please give us a Star ⭐
 <a href='https://docs.evolink.ai'><img src='https://img.shields.io/badge/📘 Docs-Evolink-blue' height="25"></a>
 <a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
 
-## ⚡ Quick Start
+## How to Use These Prompts
 
 1. **Pick a case** below that matches your e-commerce goal (listing main image, model try-on, multi-angle product, A+ detail visuals, etc.).
 2. **Upload your product photo** and **copy the prompt** from that case — replace `{placeholders}` with your product, language, country, platform, and selling points.
@@ -81,7 +81,7 @@ If you find it useful, please give us a Star ⭐
 ## 📑 Menu
 
 - [🍌 Introduction](#-introduction)
-- [⚡ Quick Start](#-quick-start)
+- [How to Use These Prompts](#how-to-use-these-prompts)
 - [📑 Menu](#-menu)
 - [🖼️ Ecommerce Listing Image Prompts](#️-ecommerce-listing-image-prompts)
   - [Case 1: Marketplace Listing Image Set](#case-1-marketplace-listing-image-set)
