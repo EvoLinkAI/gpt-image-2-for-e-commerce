@@ -79,6 +79,46 @@
       "case_anchor": "#example-4-oatmilk-brownie-bottle-poster-community",
       "image_dir": "e-commerce/Case35/04",
       "added_at": "2026-06-16T00:00:00+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/mehvishs25/status/2067439082175873060",
+      "author_handle": "mehvishs25",
+      "title": "Reference Shopper Product Scene",
+      "category": "Product Interaction Prompts / Case 3: Reference Character Product Interaction",
+      "readme_file": "README.md",
+      "case_anchor": "#example-3-reference-shopper-product-scene-community",
+      "image_dir": "e-commerce/Case24/03",
+      "added_at": "2026-06-18T02:55:23.517996+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067413876564795743",
+      "author_handle": "iamaiistudio",
+      "title": "Minimalist Serum Still Life",
+      "category": "Product Showcase Prompts / Case 5: Background Replacement with Custom Description",
+      "readme_file": "README.md",
+      "case_anchor": "#example-5-minimalist-serum-still-life-community",
+      "image_dir": "e-commerce/Case20/05",
+      "added_at": "2026-06-18T02:55:23.517996+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067399156596175345",
+      "author_handle": "iamaiistudio",
+      "title": "Reverse Disintegration Product Ad",
+      "category": "Ecommerce Listing Image Prompts / Case 3: A+ Product Detail Visuals",
+      "readme_file": "README.md",
+      "case_anchor": "#example-6-reverse-disintegration-product-ad-community",
+      "image_dir": "e-commerce/Case3/06",
+      "added_at": "2026-06-18T02:55:23.517996+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067100447698207223",
+      "author_handle": "iamaiistudio",
+      "title": "Velvet Bite Chocolate Campaign",
+      "category": "Social Commerce Prompts / Case 5: General Food Sales Creative Set",
+      "readme_file": "README.md",
+      "case_anchor": "#example-5-velvet-bite-chocolate-campaign-community",
+      "image_dir": "e-commerce/Case35/05",
+      "added_at": "2026-06-18T02:55:23.517996+00:00"
     }
   ]
 }

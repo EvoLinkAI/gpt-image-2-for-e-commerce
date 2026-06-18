@@ -401,6 +401,26 @@ Overall mood: design catalog / product design journal - architectural, premium, 
   </tr>
 </table>
 
+#### 예시 6: [역방향 분해 재조립 제품 광고](https://x.com/iamaiistudio/status/2067399156596175345) (커뮤니티, 작성자 [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> 최근 공개된 GPT Image 2 게시물에서 가져온 커뮤니티 레퍼런스입니다. 원문 트윗에는 프롬프트와 여러 출력 변형이 함께 공유되었고, 여기에는 대표적인 시계 구도를 실었습니다.
+
+**관찰된 프롬프트:**
+
+```text
+[PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
+```
+
+<table>
+  <tr>
+    <th>출력</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case3/06/Output-01.jpg" width="320"><br><sub>공중에서 재조립되는 제품 콘셉트</sub></td>
+  </tr>
+</table>
+
 ### 케이스 4: 아마존 리스팅 일괄 생성
 
 > [!NOTE]
@@ -1185,6 +1205,26 @@ Tagline:
   </tr>
 </table>
 
+#### 예시 5: [미니멀 세럼 스틸라이프](https://x.com/iamaiistudio/status/2067413876564795743) (커뮤니티, 작성자 [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> 최근 공개된 GPT Image 2 게시물에서 가져온 커뮤니티 레퍼런스입니다. 원문 트윗에는 프롬프트와 여러 출력 변형이 함께 공유되었고, 여기에는 깔끔한 히어로 스틸라이프를 실었습니다.
+
+**관찰된 프롬프트:**
+
+```text
+Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
+```
+
+<table>
+  <tr>
+    <th>출력</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/05/Output-01.jpg" width="320"><br><sub>미니멀 세럼 스틸라이프</sub></td>
+  </tr>
+</table>
+
 ### 케이스 6: 참조 기반 제품 배경
 
 **입력:** 제품 이미지와 참조 배경 이미지를 업로드하세요.
@@ -1350,6 +1390,40 @@ Add the human model from image 2 into the product scene from image 1, with this 
     <td align="center"><img src="e-commerce/Case24/02/Input-01.jpg" width="180"><br><sub>홈 로킹체어</sub></td>
     <td align="center"><img src="e-commerce/Case24/02/Input-02.jpg" width="180"><br><sub>화이트 셔츠 남성 모델</sub></td>
     <td align="center"><img src="e-commerce/Case24/02/Output.png" width="180"><br><sub>로킹체어의 남성 모델</sub></td>
+  </tr>
+</table>
+
+#### 예시 3: [참조 쇼퍼 제품 씬](https://x.com/mehvishs25/status/2067439082175873060) (커뮤니티, 작성자 [@mehvishs25](https://x.com/mehvishs25))
+
+> [!TIP]
+> 최근 공개된 GPT Image 2 게시물에서 가져온 커뮤니티 레퍼런스입니다. 원문 트윗에는 프롬프트와 출력 이미지가 함께 공유되었고, 참조 인물의 정체성을 유지한 채 리테일 상품 비교 씬으로 옮기는 방식을 보여줍니다.
+
+**관찰된 프롬프트:**
+
+```text
+Photorealistic candid lifestyle photograph of the same woman as the reference image, preserving her exact facial identity, facial proportions, skin tone, and recognizable features. She is casually shopping inside a modern convenience store, captured in an authentic everyday moment rather than a posed photoshoot.
+
+Medium-full body side-angle composition. She stands in a brightly illuminated aisle, comparing two beauty or wellness products while reading packaging details with a focused expression. One hand holds a sleek bottle close to her face while the other carries a second product she is considering.
+
+Her dark hair is styled in a relaxed high bun with a few loose strands framing her face. Slim gold hoop earrings, subtle glossy lips, natural makeup, and oversized black sunglasses resting on her head.
+
+Outfit: a bold, fitted black off-shoulder ribbed top paired with a charcoal gray mini skort and sheer black tights, creating a chic city-girl aesthetic. She carries a large luxury-inspired monogram shoulder bag and wears black ankle boots.
+
+Modern convenience store environment in Southeast Asia with narrow aisles, brightly stocked shelves filled with colorful skincare, beverages, snacks, and household essentials. Fluorescent ceiling panels cast soft, diffused light across the scene.
+
+Natural candid body language, realistic posture, genuine shopping behavior, authentic retail atmosphere, unposed documentary aesthetic. Soft depth of field with subtle background blur while keeping the subject sharply detailed.
+
+Shot with a 35mm lens at eye level, ultra-realistic RAW photography quality, realistic skin texture, accurate fabric details, natural colors, soft shadows, crisp focus, 4K detail.
+
+Vertical 4:5 composition, subject positioned slightly left of center, facing the shelves on the right side of the frame, immersive everyday shopping scene, contemporary urban lifestyle editorial feel without looking staged.
+```
+
+<table>
+  <tr>
+    <th>출력</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case24/03/Output-01.jpg" width="280"><br><sub>참조 쇼퍼 상품 비교 장면</sub></td>
   </tr>
 </table>
 
@@ -1686,6 +1760,43 @@ Studio cinematic lighting, soft key light, purple rim light, volumetric glow, fl
   </tr>
   <tr>
     <td align="center"><img src="e-commerce/Case35/04/Output-01.jpg" width="260"><br><sub>초콜릿 오트밀크 히어로 포스터</sub></td>
+  </tr>
+</table>
+
+#### 예시 5: [벨벳 바이트 초콜릿 캠페인](https://x.com/iamaiistudio/status/2067100447698207223) (커뮤니티, 작성자 [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> 최근 공개된 GPT Image 2 게시물에서 가져온 커뮤니티 레퍼런스입니다. 원문 트윗에는 프롬프트와 여러 캠페인 프레임이 함께 공유되었고, 여기에는 정사각형 히어로 광고 한 장을 실었습니다.
+
+**관찰된 프롬프트:**
+
+```text
+Design three premium square product ads for a fictional luxury chocolate brand named Velvet Bite.
+
+Each ad features a dark chocolate bar with consistent brand packaging: matte black wrapper, gold foil accents, elegant serif typography, and high-end editorial-style photography.
+
+Give each ad its own distinct flavor world through a unique color palette, props, lighting, and atmosphere:
+
+Blood Orange Noir
+Dark chocolate with citrus notes, warm orange tones, dramatic shadows, gold foil detail, and an opulent luxury aesthetic.
+
+Salted Pistachio Muse
+Dark chocolate with pistachio, soft cream-toned background, green accent elements, graceful and refined composition.
+
+Raspberry Ember
+Dark chocolate with raspberry, deep crimson backdrop, moody atmospheric lighting, rich and indulgent feel.
+
+Every ad must include: a strong bold headline, brief supporting copy, the Velvet Bite bar as the hero product, flavor-matched ingredients styled around the bar, and a CTA reading "Shop the drop."
+
+The overall campaign should feel polished, cohesive, and premium, with all three ads clearly belonging to the same brand identity.
+```
+
+<table>
+  <tr>
+    <th>출력</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case35/05/Output-01.jpg" width="320"><br><sub>럭셔리 초콜릿 캠페인 포스터</sub></td>
   </tr>
 </table>
 

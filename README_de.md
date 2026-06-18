@@ -392,6 +392,26 @@ Overall mood: design catalog / product design journal - architectural, premium, 
   </tr>
 </table>
 
+#### Beispiel 6: [Produktanzeige mit umgekehrter Disintegration](https://x.com/iamaiistudio/status/2067399156596175345) (Community, von [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> Community-Referenz aus einem aktuellen öffentlichen GPT Image 2 Post. Im Quell-Tweet wurden der Prompt und mehrere Ausgabevarianten geteilt; hier ist eine repräsentative Uhrenkomposition zu sehen.
+
+**Beobachteter Prompt:**
+
+```text
+[PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
+```
+
+<table>
+  <tr>
+    <th>Ausgabe</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case3/06/Output-01.jpg" width="320"><br><sub>Schwebendes Produkt-Reassemblierungs-Konzept</sub></td>
+  </tr>
+</table>
+
 ### Case 4: Massen-Amazon-Listing-Generierung
 
 > [!NOTE]
@@ -1176,6 +1196,26 @@ Tagline:
   </tr>
 </table>
 
+#### Beispiel 5: [Minimalistisches Serum-Stillleben](https://x.com/iamaiistudio/status/2067413876564795743) (Community, von [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> Community-Referenz aus einem aktuellen öffentlichen GPT Image 2 Post. Im Quell-Tweet wurden der Prompt und mehrere Ausgabevarianten geteilt; hier ist das cleane Hero-Stillleben zu sehen.
+
+**Beobachteter Prompt:**
+
+```text
+Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
+```
+
+<table>
+  <tr>
+    <th>Ausgabe</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case20/05/Output-01.jpg" width="320"><br><sub>Minimalistisches Serum-Stillleben</sub></td>
+  </tr>
+</table>
+
 ### Case 6: Referenzbasierter Produkt-Hintergrund
 
 **Eingabe:** Lade das Produktbild und ein Referenz-Hintergrundbild hoch.
@@ -1341,6 +1381,40 @@ Add the human model from image 2 into the product scene from image 1, with this 
     <td align="center"><img src="e-commerce/Case24/02/Input-01.jpg" width="180"><br><sub>Schaukelstuhl zu Hause</sub></td>
     <td align="center"><img src="e-commerce/Case24/02/Input-02.jpg" width="180"><br><sub>Modell weißes Hemd</sub></td>
     <td align="center"><img src="e-commerce/Case24/02/Output.png" width="180"><br><sub>Modell im Schaukelstuhl</sub></td>
+  </tr>
+</table>
+
+#### Beispiel 3: [Referenz-Shopper-Produktszene](https://x.com/mehvishs25/status/2067439082175873060) (Community, von [@mehvishs25](https://x.com/mehvishs25))
+
+> [!TIP]
+> Community-Referenz aus einem aktuellen öffentlichen GPT Image 2 Post. Im Quell-Tweet wurden der Prompt und die Ausgabebilder geteilt; gezeigt wird, wie eine beibehaltene Referenzidentität in eine Retail-Produkvergleichsszene übertragen werden kann.
+
+**Beobachteter Prompt:**
+
+```text
+Photorealistic candid lifestyle photograph of the same woman as the reference image, preserving her exact facial identity, facial proportions, skin tone, and recognizable features. She is casually shopping inside a modern convenience store, captured in an authentic everyday moment rather than a posed photoshoot.
+
+Medium-full body side-angle composition. She stands in a brightly illuminated aisle, comparing two beauty or wellness products while reading packaging details with a focused expression. One hand holds a sleek bottle close to her face while the other carries a second product she is considering.
+
+Her dark hair is styled in a relaxed high bun with a few loose strands framing her face. Slim gold hoop earrings, subtle glossy lips, natural makeup, and oversized black sunglasses resting on her head.
+
+Outfit: a bold, fitted black off-shoulder ribbed top paired with a charcoal gray mini skort and sheer black tights, creating a chic city-girl aesthetic. She carries a large luxury-inspired monogram shoulder bag and wears black ankle boots.
+
+Modern convenience store environment in Southeast Asia with narrow aisles, brightly stocked shelves filled with colorful skincare, beverages, snacks, and household essentials. Fluorescent ceiling panels cast soft, diffused light across the scene.
+
+Natural candid body language, realistic posture, genuine shopping behavior, authentic retail atmosphere, unposed documentary aesthetic. Soft depth of field with subtle background blur while keeping the subject sharply detailed.
+
+Shot with a 35mm lens at eye level, ultra-realistic RAW photography quality, realistic skin texture, accurate fabric details, natural colors, soft shadows, crisp focus, 4K detail.
+
+Vertical 4:5 composition, subject positioned slightly left of center, facing the shelves on the right side of the frame, immersive everyday shopping scene, contemporary urban lifestyle editorial feel without looking staged.
+```
+
+<table>
+  <tr>
+    <th>Ausgabe</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case24/03/Output-01.jpg" width="280"><br><sub>Referenz-Shopper-Vergleichsszene</sub></td>
   </tr>
 </table>
 
@@ -1677,6 +1751,43 @@ Studio cinematic lighting, soft key light, purple rim light, volumetric glow, fl
   </tr>
   <tr>
     <td align="center"><img src="e-commerce/Case35/04/Output-01.jpg" width="260"><br><sub>Hero-Poster für Schoko-Hafermilch</sub></td>
+  </tr>
+</table>
+
+#### Beispiel 5: [Velvet Bite Schokoladenkampagne](https://x.com/iamaiistudio/status/2067100447698207223) (Community, von [@iamaiistudio](https://x.com/iamaiistudio))
+
+> [!TIP]
+> Community-Referenz aus einem aktuellen öffentlichen GPT Image 2 Post. Im Quell-Tweet wurden der Prompt und mehrere Kampagnen-Frames geteilt; hier ist eine quadratische Hero-Anzeige zu sehen.
+
+**Beobachteter Prompt:**
+
+```text
+Design three premium square product ads for a fictional luxury chocolate brand named Velvet Bite.
+
+Each ad features a dark chocolate bar with consistent brand packaging: matte black wrapper, gold foil accents, elegant serif typography, and high-end editorial-style photography.
+
+Give each ad its own distinct flavor world through a unique color palette, props, lighting, and atmosphere:
+
+Blood Orange Noir
+Dark chocolate with citrus notes, warm orange tones, dramatic shadows, gold foil detail, and an opulent luxury aesthetic.
+
+Salted Pistachio Muse
+Dark chocolate with pistachio, soft cream-toned background, green accent elements, graceful and refined composition.
+
+Raspberry Ember
+Dark chocolate with raspberry, deep crimson backdrop, moody atmospheric lighting, rich and indulgent feel.
+
+Every ad must include: a strong bold headline, brief supporting copy, the Velvet Bite bar as the hero product, flavor-matched ingredients styled around the bar, and a CTA reading "Shop the drop."
+
+The overall campaign should feel polished, cohesive, and premium, with all three ads clearly belonging to the same brand identity.
+```
+
+<table>
+  <tr>
+    <th>Ausgabe</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="e-commerce/Case35/05/Output-01.jpg" width="320"><br><sub>Luxuriöses Poster einer Schokoladenkampagne</sub></td>
   </tr>
 </table>
 
