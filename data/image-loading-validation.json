@@ -451,5 +451,27 @@
       "prompts_unchanged": true
     }
   ],
-  "github_browser_after": null
+  "github_browser_after": {
+    "checked_at": "2026-09-09T16:33:08.329168+00:00",
+    "method": "Computer Use in Chrome on real GitHub pages; read-only rendered image completion and naturalWidth inspection; screenshots checked; no request interception or local media substitution",
+    "verified_readme_commit": "5fd8450ce8b979ea862ff66f826e283ec8804dd6",
+    "pages": [
+      {
+        "url": "https://github.com/EvoLinkAI/gpt-image-2.5-for-e-commerce/tree/codex/fix-github-image-loading",
+        "locale": "en",
+        "total": 324,
+        "loaded": 324,
+        "failed": 0,
+        "pending": 0
+      },
+      {
+        "url": "https://github.com/EvoLinkAI/gpt-image-2.5-for-e-commerce/blob/codex/fix-github-image-loading/README_zh-CN.md",
+        "locale": "zh-CN",
+        "total": 324,
+        "loaded": 324,
+        "failed": 0,
+        "pending": 0
+      }
+    ]
+  }
 }
