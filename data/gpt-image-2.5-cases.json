@@ -1,0 +1,49 @@
+{
+  "model": "GPT Image 2.5",
+  "source": "Owner-supplied EvoLink examples",
+  "date": "2026-09-09",
+  "reference_image": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/3f93f078be25efbc86b244fccd38cb771601cce6e2af182252bd0ce2df35739b.png",
+  "banner": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/0c24174093e85c9572f7df4cf99d175d1d177b3dd92874ea4491938527925e50.png",
+  "cases": [
+    {
+      "id": "gpt-image-25-case-1",
+      "title": "Change the Scene, Keep the Product",
+      "prompt": "Edit the supplied real product photograph. Replace only the surrounding scene with {scene_description}. Keep the product itself unchanged: preserve its exact shape, proportions, yellow packaging, cap, logo, label text, material and visible details. Match the new background lighting and contact shadows naturally. Do not redesign, relabel, duplicate or obscure the product.",
+      "images": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1fce6dd6ef96719f1df31ca877454dcb01faa9c258f58196a35b5bffb3d82743.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bbe9236ef819e9d482d893771869c8e74f3f5f5bb1e3481dd5f5f620eb60988d.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/aaa7d06817e79603fccbd4b219485e4cd596d50b2a5656adb6972da61b59b42b.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/efeef5411f7748670a6a2ae6189a16f9ff0ee54618813a1a5333d94d1cf8e1b2.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/6009fe4530420b44da15762282751ccfcc5086e3b6e329761c8b655bc67edbbe.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c757a80035c30c48246e098a9b561aa1f210e513a2271ad91a7e36f3db876e6c.png"
+      ]
+    },
+    {
+      "id": "gpt-image-25-case-2",
+      "title": "UGC-style Product Promotion",
+      "prompt": "Using the supplied white-background product photo as the product reference, create a UGC-style skincare promotion image for {target_market}. Show an adult creator naturally holding the same product in a believable everyday setting. Preserve the exact product packaging, color, proportions, logo and label. Use a casual phone-camera composition and natural lighting. If text is needed, use only {approved_copy} in {language}. Do not invent testimonials, certifications or product benefits.",
+      "images": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8e0e663162b920f28780f5c46404f132ba2e34028555408fb804fea4c74603f1.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f0e3dbe5097ba1c18fe764591311102b7290d322a1f8b049694d3de78c70071f.png"
+      ]
+    },
+    {
+      "id": "gpt-image-25-case-3",
+      "title": "E-commerce Visuals for Different Language Markets",
+      "prompt": "Create an e-commerce image for {target_market} in {language}, using the supplied white-background product photo as the reference. Preserve the product shape, color, packaging, logo and label. Build a clear {asset_type} layout with a prominent product, readable local-language typography and {approved_product_copy}. Adapt the composition to the target market. Use only supplied product facts; do not invent specifications, ingredient claims or endorsements.",
+      "images": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/0b9d8ff48c3c5e48ce36489c3d75463dac55e5ba0b218283623344fb75b6cb80.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/facfce223e33fa0e6dc6773fbea0a4a1c2593d91baf39851cbeece2b42448301.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bc7bf015ea516a24816d4f9b4e8843c16558e111d015915c4ae34b0fcb6814c4.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/06def513aa80fde85224889643526696dbe9606d86a5218e44a66c39d3169054.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b99e9cec366d21cbb8dc64eaeafedac936ae26987a7a2b3b08f7791b7dffb4d8.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/eca76c9cd01907e890967c88bc8b7bfd1d20c2889fa38a78f1abc696f6b6e589.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/3afa89d0b3103a9c3d85070fd04a800df0a50fc1ec81c2939bad08048452978a.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/fb192cdd63f7eb550d1f47582d33e0ad4a12620a4fcd49357e7d39e1094a61e2.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/961028b39fc2ad2eb4a067499d32ba83ca08612f3beaca3c02e9dafcf5a3245b.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5b08a565c98121dbc963b49209c06da123e950eebd8c91be0f4470573e5dc18b.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9659d2e8d76ab4b7cbb7dff0b13b735d49df1735d0f2ef04f9cea60d1bb3a78a.png"
+      ]
+    }
+  ]
+}
