@@ -1,0 +1,4429 @@
+{
+  "checked_at": "2026-09-09T12:21:01.514813+00:00",
+  "branch": "codex/gpt-image-2.5",
+  "scope": "Local content migration and R2 media publication; GitHub branch not pushed",
+  "readmes": {
+    "locales": [
+      {
+        "file": "README.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      },
+      {
+        "file": "README_de.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      },
+      {
+        "file": "README_es.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      },
+      {
+        "file": "README_fr.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      },
+      {
+        "file": "README_ja.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      },
+      {
+        "file": "README_ko.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      },
+      {
+        "file": "README_pt.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      },
+      {
+        "file": "README_ru.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      },
+      {
+        "file": "README_tr.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      },
+      {
+        "file": "README_zh-CN.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      },
+      {
+        "file": "README_zh-TW.md",
+        "retained_original_case_sections": 30,
+        "new_case_sections": 3,
+        "images": 328,
+        "unique_images": 314,
+        "new_owner_images": 20,
+        "original_prompt_blocks_preserved": 41,
+        "passed": true
+      }
+    ],
+    "all_passed": true,
+    "banner_original_sha256": "0c24174093e85c9572f7df4cf99d175d1d177b3dd92874ea4491938527925e50",
+    "all_internal_anchors_passed": true
+  },
+  "r2_summary": {
+    "expected": 317,
+    "checked": 317,
+    "passed": 317,
+    "failures": []
+  },
+  "r2_readbacks": [
+    {
+      "sha256": "335c168c1cd53a1d0f6e003f2320402016b9e8b6ad8d8af63f3f3e14c033d622",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/335c168c1cd53a1d0f6e003f2320402016b9e8b6ad8d8af63f3f3e14c033d622.png",
+      "status": 200,
+      "bytes": 193077,
+      "content_type": "image/png",
+      "dimensions": [
+        700,
+        700
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "7ef3d8195f23fdf1f8530295d572b775651e1f411e8c9ce47451425b8f842e13",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/7ef3d8195f23fdf1f8530295d572b775651e1f411e8c9ce47451425b8f842e13.png",
+      "status": 200,
+      "bytes": 1196776,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "86a070394f6b5fc0ac1db066c711ab96506ecd8f87542606cc1ba4cb1fcd08d1",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/86a070394f6b5fc0ac1db066c711ab96506ecd8f87542606cc1ba4cb1fcd08d1.png",
+      "status": 200,
+      "bytes": 991010,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "abd955fa6de9ba917c9c1c7ba338b9ba8e6406caab1b47bcdeaf4d44d6529a9d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/abd955fa6de9ba917c9c1c7ba338b9ba8e6406caab1b47bcdeaf4d44d6529a9d.webp",
+      "status": 200,
+      "bytes": 80786,
+      "content_type": "image/webp",
+      "dimensions": [
+        2500,
+        1406
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8275adf45f02827f5ddd48c0a0ca4855d2d9d8474ca9d70f195133ace9d39f76",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8275adf45f02827f5ddd48c0a0ca4855d2d9d8474ca9d70f195133ace9d39f76.png",
+      "status": 200,
+      "bytes": 1140141,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9c0fafe0aab05ee089c1161441e99b275c12263d3e53c928d798b7f3a27bf78c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9c0fafe0aab05ee089c1161441e99b275c12263d3e53c928d798b7f3a27bf78c.png",
+      "status": 200,
+      "bytes": 1280690,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "08d2b08ef1c672a8a6c487e917b02ed08177db10a0139c48cbe0130e7258f86a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/08d2b08ef1c672a8a6c487e917b02ed08177db10a0139c48cbe0130e7258f86a.png",
+      "status": 200,
+      "bytes": 938445,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "a34b05e52bf78ba4d699e47cb620f0a304a074bee242d6f5fa128d3eab6910ab",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a34b05e52bf78ba4d699e47cb620f0a304a074bee242d6f5fa128d3eab6910ab.png",
+      "status": 200,
+      "bytes": 1938493,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "3c5571be53dd315ebbdbc0e9b2d8ab656ee7d82ec4f09e43bc7b2a1f461edb00",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/3c5571be53dd315ebbdbc0e9b2d8ab656ee7d82ec4f09e43bc7b2a1f461edb00.png",
+      "status": 200,
+      "bytes": 1226458,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "eb361d8308002734363d49ed59c1d0c9c824e7ed8914c3d1c5ec16cdaf1b5407",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/eb361d8308002734363d49ed59c1d0c9c824e7ed8914c3d1c5ec16cdaf1b5407.png",
+      "status": 200,
+      "bytes": 1057726,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "92f2c86913524d4c01d7ae3b32598c6dc29494261c213d5197330b6d76dd66ef",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/92f2c86913524d4c01d7ae3b32598c6dc29494261c213d5197330b6d76dd66ef.png",
+      "status": 200,
+      "bytes": 1946542,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "e2f258ca13c963b1de383163d620e8b93c5bd5db9aa61c1c4c1795f0ff460954",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/e2f258ca13c963b1de383163d620e8b93c5bd5db9aa61c1c4c1795f0ff460954.png",
+      "status": 200,
+      "bytes": 1547395,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "2c51c84e00c951155eac7663bb45d6528d58de728bf7687bef8b9445ea914fac",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/2c51c84e00c951155eac7663bb45d6528d58de728bf7687bef8b9445ea914fac.png",
+      "status": 200,
+      "bytes": 1501163,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "ada1d36442becbf5074bb05dbb8f4f4434c166a065152bd2ae800ba5143e5c77",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ada1d36442becbf5074bb05dbb8f4f4434c166a065152bd2ae800ba5143e5c77.png",
+      "status": 200,
+      "bytes": 1482391,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "71e66bc70d95e5e4e60edb489ebcb84f14b3de490472c16f81f8ffd7aaf82e5c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/71e66bc70d95e5e4e60edb489ebcb84f14b3de490472c16f81f8ffd7aaf82e5c.png",
+      "status": 200,
+      "bytes": 1396064,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5f0a4a6bc58d4508decddeab6a6e916891e061396723b3aa9bf34586713bf4a2",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5f0a4a6bc58d4508decddeab6a6e916891e061396723b3aa9bf34586713bf4a2.png",
+      "status": 200,
+      "bytes": 1969111,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "b1a1c97b1c72073a59a4b0becfe99587f7dcedff921c07ed52d071e3ebc7433e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b1a1c97b1c72073a59a4b0becfe99587f7dcedff921c07ed52d071e3ebc7433e.png",
+      "status": 200,
+      "bytes": 1475901,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "32100ae4fe11ff209fc75f8981a6c4471ac872c7024acffe4cb77b7ff1466348",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/32100ae4fe11ff209fc75f8981a6c4471ac872c7024acffe4cb77b7ff1466348.jpg",
+      "status": 200,
+      "bytes": 4265,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        202,
+        250
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "857ec7c7e9724edce66656fc888cc5c55eb7c71843ac6f269edc7dde9ad38ff5",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/857ec7c7e9724edce66656fc888cc5c55eb7c71843ac6f269edc7dde9ad38ff5.png",
+      "status": 200,
+      "bytes": 2277884,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "d976bd35abce3828a8eaeb1f07d0a6ef9fd72f7e033f4d4a408fa0a553084f16",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d976bd35abce3828a8eaeb1f07d0a6ef9fd72f7e033f4d4a408fa0a553084f16.png",
+      "status": 200,
+      "bytes": 1465182,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "006e1e78dcf6b9034fbd36b0915e866598e4aa39603ed2ed41e0df947966a2a5",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/006e1e78dcf6b9034fbd36b0915e866598e4aa39603ed2ed41e0df947966a2a5.png",
+      "status": 200,
+      "bytes": 1273253,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "847bb960984808853bb0f5fb786df208ee51bef032f7e10c53d587fd287a8648",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/847bb960984808853bb0f5fb786df208ee51bef032f7e10c53d587fd287a8648.jpeg",
+      "status": 200,
+      "bytes": 10118,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        196,
+        257
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9cf8bd307f7f0660af25fc2ccfb4b7212a12a25c2a9cb3a73c6b560753beed96",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9cf8bd307f7f0660af25fc2ccfb4b7212a12a25c2a9cb3a73c6b560753beed96.jpeg",
+      "status": 200,
+      "bytes": 4092,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        183,
+        275
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5e97ccc029ee066cb29ec80d8759b4273165291c309d067c61d525b8f1148cc5",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5e97ccc029ee066cb29ec80d8759b4273165291c309d067c61d525b8f1148cc5.png",
+      "status": 200,
+      "bytes": 1753453,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "aad3b5435a672c2a57a21bf0270cb638c2e33eb249736b7416dbe0a7ce47fd29",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/aad3b5435a672c2a57a21bf0270cb638c2e33eb249736b7416dbe0a7ce47fd29.png",
+      "status": 200,
+      "bytes": 1531439,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "fb803c75bac50f0d5c72e9e0f16731e7a887b1f8714ed1d9dae34a88b4ff7c77",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/fb803c75bac50f0d5c72e9e0f16731e7a887b1f8714ed1d9dae34a88b4ff7c77.png",
+      "status": 200,
+      "bytes": 1757977,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "d1836e71173a8a81daebf6836cd86d605a02b46ed3f7be204495b534706d1e41",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d1836e71173a8a81daebf6836cd86d605a02b46ed3f7be204495b534706d1e41.png",
+      "status": 200,
+      "bytes": 1564289,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "fa46f8b49786ad42b4417e1171c1f2af0a9c65c32a6eedd434be882cb1549aec",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/fa46f8b49786ad42b4417e1171c1f2af0a9c65c32a6eedd434be882cb1549aec.png",
+      "status": 200,
+      "bytes": 2101973,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "cd41fa26c05b725d2a2b4e952895176abcf24cb85fc2f794da29f78082fd2a66",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/cd41fa26c05b725d2a2b4e952895176abcf24cb85fc2f794da29f78082fd2a66.png",
+      "status": 200,
+      "bytes": 1413619,
+      "content_type": "image/png",
+      "dimensions": [
+        900,
+        898
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c1ef5cc5c49f8449f9e5a7bd37013456c87c1ff850b563dc16ab2e4cfe0cfdc5",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c1ef5cc5c49f8449f9e5a7bd37013456c87c1ff850b563dc16ab2e4cfe0cfdc5.png",
+      "status": 200,
+      "bytes": 2613549,
+      "content_type": "image/png",
+      "dimensions": [
+        1432,
+        1426
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5948115ddac4ab0f54ea56f9c1eeb1eaf86d2f3aa6c24904ed67937c75c1d9bb",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5948115ddac4ab0f54ea56f9c1eeb1eaf86d2f3aa6c24904ed67937c75c1d9bb.png",
+      "status": 200,
+      "bytes": 2409049,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1e79078f6afbb5307c8937e60c98308e6ba9ad42b9e66342485acda9030d231e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1e79078f6afbb5307c8937e60c98308e6ba9ad42b9e66342485acda9030d231e.png",
+      "status": 200,
+      "bytes": 1800495,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "74e385f8a25f173bb9421d643179beb65837fbd96272ab46466d6e8682879f3e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/74e385f8a25f173bb9421d643179beb65837fbd96272ab46466d6e8682879f3e.png",
+      "status": 200,
+      "bytes": 1941213,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "ebd9e9704fea694d4bb9286050327d8c88659c109bd17bfb3f2ab7b4a6f0cf16",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ebd9e9704fea694d4bb9286050327d8c88659c109bd17bfb3f2ab7b4a6f0cf16.png",
+      "status": 200,
+      "bytes": 1957656,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9690cb4cbac6048e012deffa8b3f1caf6fd010e289cd1a7ef7bf44bea1e66f1f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9690cb4cbac6048e012deffa8b3f1caf6fd010e289cd1a7ef7bf44bea1e66f1f.png",
+      "status": 200,
+      "bytes": 1873021,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "2577cf1373abcb51e55a753c7f313f2e3861190ca06f1169c1ef8c0fb462a242",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/2577cf1373abcb51e55a753c7f313f2e3861190ca06f1169c1ef8c0fb462a242.png",
+      "status": 200,
+      "bytes": 1951598,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "08f2c01ab19c4b90e988bc71f6e5fe1dc34bc650dafeeda93065bfdbabcb55af",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/08f2c01ab19c4b90e988bc71f6e5fe1dc34bc650dafeeda93065bfdbabcb55af.png",
+      "status": 200,
+      "bytes": 2486980,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "05d0eaf1ddda47a9d44b4091f7f3a052af5a3dfd8e4b121eb92d23cd70f590fc",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/05d0eaf1ddda47a9d44b4091f7f3a052af5a3dfd8e4b121eb92d23cd70f590fc.png",
+      "status": 200,
+      "bytes": 2361997,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "bd28d6a26027d02f28f8272ea41c67b6070d3c9d956a85d1f15ee026463240d6",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bd28d6a26027d02f28f8272ea41c67b6070d3c9d956a85d1f15ee026463240d6.png",
+      "status": 200,
+      "bytes": 3715,
+      "content_type": "image/png",
+      "dimensions": [
+        225,
+        225
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8bccb5de7aeed81564d1239234cd96feecc0064f58f6aff3ef3cf679234a1e1e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8bccb5de7aeed81564d1239234cd96feecc0064f58f6aff3ef3cf679234a1e1e.png",
+      "status": 200,
+      "bytes": 3186203,
+      "content_type": "image/png",
+      "dimensions": [
+        1432,
+        1422
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "004facca97e9a310813f3bc5a304c4d2d24794c248e525ceb9f29805cd43a35a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/004facca97e9a310813f3bc5a304c4d2d24794c248e525ceb9f29805cd43a35a.png",
+      "status": 200,
+      "bytes": 2154567,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "61838fced011261944d5efd27b220fffbea620f298ce6cddb72191c899d39491",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/61838fced011261944d5efd27b220fffbea620f298ce6cddb72191c899d39491.jpg",
+      "status": 200,
+      "bytes": 4047,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        225,
+        225
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "322485d79293967a754ac6330fc25ffbeae564538b49d380087200000602c10d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/322485d79293967a754ac6330fc25ffbeae564538b49d380087200000602c10d.jpg",
+      "status": 200,
+      "bytes": 8094,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        259,
+        194
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "fe716c2de625f773d026975437cfa2a632557568bcbd533a664975d7ceb8875d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/fe716c2de625f773d026975437cfa2a632557568bcbd533a664975d7ceb8875d.png",
+      "status": 200,
+      "bytes": 3013933,
+      "content_type": "image/png",
+      "dimensions": [
+        1426,
+        1428
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "431a985c44daf21cadee2524a35c2d8fc7845de8210adfcb14256f5204e83e00",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/431a985c44daf21cadee2524a35c2d8fc7845de8210adfcb14256f5204e83e00.png",
+      "status": 200,
+      "bytes": 2341327,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "ae6c99d86821ce26047ba8f708c17d112b32175f80732a2e8c780e4199777a5f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ae6c99d86821ce26047ba8f708c17d112b32175f80732a2e8c780e4199777a5f.png",
+      "status": 200,
+      "bytes": 2401034,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "d8440ea253f75fb133f3a65e75f5ae44d65bf936167711ea08fd309a3a9923f0",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d8440ea253f75fb133f3a65e75f5ae44d65bf936167711ea08fd309a3a9923f0.jpg",
+      "status": 200,
+      "bytes": 5231,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        201,
+        251
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "305083eb1d774dd1c2ec423f9cacb1e73d672b5887d65dc018cd3eb7caf75ce6",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/305083eb1d774dd1c2ec423f9cacb1e73d672b5887d65dc018cd3eb7caf75ce6.jpg",
+      "status": 200,
+      "bytes": 3226,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        239,
+        211
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "808221681eeca320bbed9b283c82e60f2632941472849a9cfff66bb49a06963e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/808221681eeca320bbed9b283c82e60f2632941472849a9cfff66bb49a06963e.jpg",
+      "status": 200,
+      "bytes": 7372,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        225,
+        225
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5305167c22e58bb9b0518737b3512d57f0ef28a8ec8d87324e51b9237843b19a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5305167c22e58bb9b0518737b3512d57f0ef28a8ec8d87324e51b9237843b19a.png",
+      "status": 200,
+      "bytes": 2390842,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "efb8791c7dc31549d85ab057caa3e2653fa7f478b10932b87cc37780f94e03ea",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/efb8791c7dc31549d85ab057caa3e2653fa7f478b10932b87cc37780f94e03ea.png",
+      "status": 200,
+      "bytes": 917255,
+      "content_type": "image/png",
+      "dimensions": [
+        1920,
+        1100
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1641b7f275ac2478e42f1fbc794b6bd93fcddaef1a75733da9d3ee47f67e2e58",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1641b7f275ac2478e42f1fbc794b6bd93fcddaef1a75733da9d3ee47f67e2e58.png",
+      "status": 200,
+      "bytes": 4331181,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "0de7b9b1d92fbec8b49553be09b7bd03dad0a7a4987ccf88e0857e0355797c25",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/0de7b9b1d92fbec8b49553be09b7bd03dad0a7a4987ccf88e0857e0355797c25.jpeg",
+      "status": 200,
+      "bytes": 6441,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        275,
+        183
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "df52da945255d49e6e485965cd4ac3296cb757630eb3255256fda56da10a12ba",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/df52da945255d49e6e485965cd4ac3296cb757630eb3255256fda56da10a12ba.png",
+      "status": 200,
+      "bytes": 4143921,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "de2b6469b1bc5988190145ed4e09597d7e1745e6edf1606f533b8c52a6765213",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/de2b6469b1bc5988190145ed4e09597d7e1745e6edf1606f533b8c52a6765213.png",
+      "status": 200,
+      "bytes": 2557986,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "accbc78189eee3321bf0503e55f16c060bc1c898dbaa3aef46f4272209be8576",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/accbc78189eee3321bf0503e55f16c060bc1c898dbaa3aef46f4272209be8576.png",
+      "status": 200,
+      "bytes": 6781366,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1e79e13e93ebc9665d582724137106325821aab5f36aa3702dcbd6e6aeaf6fd9",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1e79e13e93ebc9665d582724137106325821aab5f36aa3702dcbd6e6aeaf6fd9.png",
+      "status": 200,
+      "bytes": 5290532,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "934535df49c3743f3807557859929275034fce3f027b4a32833c4c512225025a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/934535df49c3743f3807557859929275034fce3f027b4a32833c4c512225025a.png",
+      "status": 200,
+      "bytes": 5643349,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "6ba1f2c74a52be5585053e3ddc2fbc82d2a99dfd9edb187c34cd395066e63e68",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/6ba1f2c74a52be5585053e3ddc2fbc82d2a99dfd9edb187c34cd395066e63e68.png",
+      "status": 200,
+      "bytes": 1676957,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "e18248125f50299bad0b5f98412b432b1d90086f7e1c62b313165a006f0d859a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/e18248125f50299bad0b5f98412b432b1d90086f7e1c62b313165a006f0d859a.png",
+      "status": 200,
+      "bytes": 1827234,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "7f11357bbc79130f6e8f967da416a037cd12b1000d18cda632aa1aed1231eaec",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/7f11357bbc79130f6e8f967da416a037cd12b1000d18cda632aa1aed1231eaec.png",
+      "status": 200,
+      "bytes": 2248192,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "ece1aa0e0c9ae8abb8e034c807aa0a01e21ea6da0a5e1d65c3970a5ffa6a9b71",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ece1aa0e0c9ae8abb8e034c807aa0a01e21ea6da0a5e1d65c3970a5ffa6a9b71.png",
+      "status": 200,
+      "bytes": 5250646,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "4fdd4ffdc44f46b2684e303ac588465086bfee62428c1962c9c40cc1ce22fd54",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4fdd4ffdc44f46b2684e303ac588465086bfee62428c1962c9c40cc1ce22fd54.png",
+      "status": 200,
+      "bytes": 2102330,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8753d5e0f95e5f679c5a86f7a76439169667a9c47c63ec12cbc0bec468447073",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8753d5e0f95e5f679c5a86f7a76439169667a9c47c63ec12cbc0bec468447073.png",
+      "status": 200,
+      "bytes": 1578482,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f07b43fbf55d5109da2b7a0eb56197d8f85e113be6c7e2392c4404b756af7872",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f07b43fbf55d5109da2b7a0eb56197d8f85e113be6c7e2392c4404b756af7872.png",
+      "status": 200,
+      "bytes": 1856511,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "259150462249ad42b9ef07515fa0f4de7761021ec2ad088496068a926f9f0f69",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/259150462249ad42b9ef07515fa0f4de7761021ec2ad088496068a926f9f0f69.png",
+      "status": 200,
+      "bytes": 1314854,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5f29f4d833f1fa453a5595fc583b916840409e1f7fc62c7ffa611bc6db3055e3",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5f29f4d833f1fa453a5595fc583b916840409e1f7fc62c7ffa611bc6db3055e3.png",
+      "status": 200,
+      "bytes": 1275546,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1e462ff922daee93c7f665d799e1a66b80e6e7ac24ba7b95f4a6dcd5c5794e4f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1e462ff922daee93c7f665d799e1a66b80e6e7ac24ba7b95f4a6dcd5c5794e4f.png",
+      "status": 200,
+      "bytes": 1292264,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "68cabb628527a26600bd444f381fa104f82d3d6230ce6312e2bc3a7b09f33acf",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/68cabb628527a26600bd444f381fa104f82d3d6230ce6312e2bc3a7b09f33acf.png",
+      "status": 200,
+      "bytes": 6367210,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9ca8e6e3d7934759e9273ba322d3becfaecaff2bc5cc39d145d81129e6c1ff3e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9ca8e6e3d7934759e9273ba322d3becfaecaff2bc5cc39d145d81129e6c1ff3e.png",
+      "status": 200,
+      "bytes": 1349981,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "ccb5279288644bbc29e1c03ddaae99da93e09f52db7f26ea72db946d4ee421be",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ccb5279288644bbc29e1c03ddaae99da93e09f52db7f26ea72db946d4ee421be.jpg",
+      "status": 200,
+      "bytes": 221747,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        667,
+        1000
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "d7511aff85de01bb51cfeadca05726dc9cb278f556f5c64f41663dda6349efe9",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d7511aff85de01bb51cfeadca05726dc9cb278f556f5c64f41663dda6349efe9.png",
+      "status": 200,
+      "bytes": 1337757,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "47dd8322b2748ffaae8a328334b978d4728c941e53d2f4cf2b5b539f30e73738",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/47dd8322b2748ffaae8a328334b978d4728c941e53d2f4cf2b5b539f30e73738.png",
+      "status": 200,
+      "bytes": 3064896,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "a9bb96ad7ca53e0e5282308670f2f6bfdae65d64037bd026457d91194a0bed55",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a9bb96ad7ca53e0e5282308670f2f6bfdae65d64037bd026457d91194a0bed55.png",
+      "status": 200,
+      "bytes": 4647119,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "aa6113dd10aba0b2eb08a548c0ba0d00d69ceba9dd4227451e42e24b40b69220",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/aa6113dd10aba0b2eb08a548c0ba0d00d69ceba9dd4227451e42e24b40b69220.png",
+      "status": 200,
+      "bytes": 1409432,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1199a7d06f3658c51fc686fc4d191847d9d304879ea17df54655cb06c606e925",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1199a7d06f3658c51fc686fc4d191847d9d304879ea17df54655cb06c606e925.png",
+      "status": 200,
+      "bytes": 1910640,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "af7ff651b77ff4b1278fc5db255bc6b30524e923bee7b6cfb898ce83a402650b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/af7ff651b77ff4b1278fc5db255bc6b30524e923bee7b6cfb898ce83a402650b.png",
+      "status": 200,
+      "bytes": 2265040,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "dfcd12f7ef96ecdd4633a9f8117545c046c364805839d4397473adf19567ea2c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/dfcd12f7ef96ecdd4633a9f8117545c046c364805839d4397473adf19567ea2c.png",
+      "status": 200,
+      "bytes": 2323913,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "16c5213954022509054bfa00f9a862423f701e33778c96098543fdbea1e31ae7",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/16c5213954022509054bfa00f9a862423f701e33778c96098543fdbea1e31ae7.jpg",
+      "status": 200,
+      "bytes": 2931,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        225,
+        225
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "92940ec5d5790c732f2bb0780bf6fb615497f424e88551ae2cf8337587350682",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/92940ec5d5790c732f2bb0780bf6fb615497f424e88551ae2cf8337587350682.png",
+      "status": 200,
+      "bytes": 2211006,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "d70bf3569894dfb6def88ce02b1a91bf2f37fd4103349cc04798e45e90aa4f7d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d70bf3569894dfb6def88ce02b1a91bf2f37fd4103349cc04798e45e90aa4f7d.png",
+      "status": 200,
+      "bytes": 2372469,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "30e0ddb5c2d87b567dc69e5a1f8a5af6053007036344c9d0e1ee8af38c1d8dd4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/30e0ddb5c2d87b567dc69e5a1f8a5af6053007036344c9d0e1ee8af38c1d8dd4.png",
+      "status": 200,
+      "bytes": 1805888,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "42208c5dd247f147dc731fe9aed61f8b7dbe1643e23ab128bd18de770608e8f2",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/42208c5dd247f147dc731fe9aed61f8b7dbe1643e23ab128bd18de770608e8f2.webp",
+      "status": 200,
+      "bytes": 236610,
+      "content_type": "image/webp",
+      "dimensions": [
+        1280,
+        1281
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "4de9feb47803d4e54389eb1f5b30612890451e2d6a373ad01001a66de23c90ee",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4de9feb47803d4e54389eb1f5b30612890451e2d6a373ad01001a66de23c90ee.png",
+      "status": 200,
+      "bytes": 81509,
+      "content_type": "image/png",
+      "dimensions": [
+        450,
+        450
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "3bbadfc3c17420476dae9643799c2070c02f73c96144643f36a3fe453de7494b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/3bbadfc3c17420476dae9643799c2070c02f73c96144643f36a3fe453de7494b.png",
+      "status": 200,
+      "bytes": 2880337,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "661929cff5b8f704dffa44c06668f4eb1b7b168dceff0402715f3689aa42fd14",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/661929cff5b8f704dffa44c06668f4eb1b7b168dceff0402715f3689aa42fd14.png",
+      "status": 200,
+      "bytes": 1929450,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "4fa794c5bba5294610ccfb309eb4f8672685a2cd7a32e92bdbbfc28c95f15d8f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4fa794c5bba5294610ccfb309eb4f8672685a2cd7a32e92bdbbfc28c95f15d8f.png",
+      "status": 200,
+      "bytes": 1009932,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "a0d4b348349f5f3e495dd6de9765a74da4b9c77292d48aea79b71d286527e7c1",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a0d4b348349f5f3e495dd6de9765a74da4b9c77292d48aea79b71d286527e7c1.png",
+      "status": 200,
+      "bytes": 1439704,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "83e6815903906d4635c503d6f1dcaccbbcd10c6f170c51a5cc8a7bc9c06c026f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/83e6815903906d4635c503d6f1dcaccbbcd10c6f170c51a5cc8a7bc9c06c026f.png",
+      "status": 200,
+      "bytes": 1906319,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "375453f2285e48b75b922e92ddf5ae023d545b344cef0e684d64fc011ff43d0e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/375453f2285e48b75b922e92ddf5ae023d545b344cef0e684d64fc011ff43d0e.png",
+      "status": 200,
+      "bytes": 2259978,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f460e0615c3235d6e36ce63e582ba337edd50929614cbd6c5149a02fee5499ef",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f460e0615c3235d6e36ce63e582ba337edd50929614cbd6c5149a02fee5499ef.png",
+      "status": 200,
+      "bytes": 2393823,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5a238724af356c23c7584f81668cb2d93c5ae1c6eb91202c5c00fa96fe3b460a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5a238724af356c23c7584f81668cb2d93c5ae1c6eb91202c5c00fa96fe3b460a.png",
+      "status": 200,
+      "bytes": 1640622,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9ede0cdb4a7d50b59fd7c573ce4d1fc8a2277c2f6d0e28125e4be554ce5db498",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9ede0cdb4a7d50b59fd7c573ce4d1fc8a2277c2f6d0e28125e4be554ce5db498.png",
+      "status": 200,
+      "bytes": 2200054,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "a8ab1c787449400fd366254b2f1ad873330928836fa6e76e90c77bfa0d5ab9af",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a8ab1c787449400fd366254b2f1ad873330928836fa6e76e90c77bfa0d5ab9af.png",
+      "status": 200,
+      "bytes": 1544158,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "31d7234495b8582c6a8e6a746c58d8a9449a77f6b8e8bd1844abed1f6d295e87",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/31d7234495b8582c6a8e6a746c58d8a9449a77f6b8e8bd1844abed1f6d295e87.png",
+      "status": 200,
+      "bytes": 18999,
+      "content_type": "image/png",
+      "dimensions": [
+        225,
+        225
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "ad87810324b6185552b3b3a335442bf0f8afc2062da8b7c3d0bf3813a8b1a9a8",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ad87810324b6185552b3b3a335442bf0f8afc2062da8b7c3d0bf3813a8b1a9a8.png",
+      "status": 200,
+      "bytes": 1644433,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "55172c707fe26fa3471757feeb84aecda0c8c25fa15df652718a123708141ef3",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/55172c707fe26fa3471757feeb84aecda0c8c25fa15df652718a123708141ef3.png",
+      "status": 200,
+      "bytes": 1512550,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "b00aac5da60b090e161a58a0822e7a26e7dcc80834f0a69a8a3e84e4538284f9",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b00aac5da60b090e161a58a0822e7a26e7dcc80834f0a69a8a3e84e4538284f9.png",
+      "status": 200,
+      "bytes": 1838006,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "395e6cfcd23568fca781fac48d1b2dd782500cada2d5dbe2855635c3988f4223",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/395e6cfcd23568fca781fac48d1b2dd782500cada2d5dbe2855635c3988f4223.png",
+      "status": 200,
+      "bytes": 1432662,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f9d1d04eb5f417da2af7ed5c79b1d3c37c3e9d7e27566b81543064ffaf58abf1",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f9d1d04eb5f417da2af7ed5c79b1d3c37c3e9d7e27566b81543064ffaf58abf1.png",
+      "status": 200,
+      "bytes": 167997,
+      "content_type": "image/png",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "18cd22a32fb65869ff9e85a0d37163837f6c4077e261c6527c3157c05a2b14b4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/18cd22a32fb65869ff9e85a0d37163837f6c4077e261c6527c3157c05a2b14b4.png",
+      "status": 200,
+      "bytes": 1284310,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9bd32778935d36b98fe76194ff29dc5b45e155548b49a8cd6cfad64f9d2b03f6",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9bd32778935d36b98fe76194ff29dc5b45e155548b49a8cd6cfad64f9d2b03f6.png",
+      "status": 200,
+      "bytes": 1333887,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "778f09ae357683afa634fd4d51260de86efbadadee5916562884f7e1f8d86a41",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/778f09ae357683afa634fd4d51260de86efbadadee5916562884f7e1f8d86a41.png",
+      "status": 200,
+      "bytes": 1444820,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f7179658ba8f641d41f2d7a8f481f553e98106194a97304247d9549a6b5b2532",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f7179658ba8f641d41f2d7a8f481f553e98106194a97304247d9549a6b5b2532.png",
+      "status": 200,
+      "bytes": 1445137,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "62d3d10189af3511cd827330e475ca986f9b28085ae833f0d117ac9ef496df2b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/62d3d10189af3511cd827330e475ca986f9b28085ae833f0d117ac9ef496df2b.png",
+      "status": 200,
+      "bytes": 1501270,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "95efdbabe06f6598f4e7c77356cd5bea8a6757c3d94c8a36ec209227c7049664",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/95efdbabe06f6598f4e7c77356cd5bea8a6757c3d94c8a36ec209227c7049664.jpg",
+      "status": 200,
+      "bytes": 2877,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        277,
+        182
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "787a4c3af43f7f3376711e11f5e9aa722350b97a8429e1e21dad0a8bc97e495c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/787a4c3af43f7f3376711e11f5e9aa722350b97a8429e1e21dad0a8bc97e495c.png",
+      "status": 200,
+      "bytes": 1323282,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "666b483ce861e93c1f347fa10c5397870e2498e08e1fd37f7625978dee0efb48",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/666b483ce861e93c1f347fa10c5397870e2498e08e1fd37f7625978dee0efb48.png",
+      "status": 200,
+      "bytes": 1390433,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9cc65b62005351a4570dacf16ff05476965c67984a968fc7d74fdbf5bb9a6225",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9cc65b62005351a4570dacf16ff05476965c67984a968fc7d74fdbf5bb9a6225.png",
+      "status": 200,
+      "bytes": 1521389,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "56e22af6d84c15e5d5e3ad43984ae9fe6401078bdbb017e76ad3b7237e75db9f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/56e22af6d84c15e5d5e3ad43984ae9fe6401078bdbb017e76ad3b7237e75db9f.png",
+      "status": 200,
+      "bytes": 1422986,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "79e21e9dd801142658544851418bea9255b22c69f3c606dfdcc1ac52e7b3df00",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/79e21e9dd801142658544851418bea9255b22c69f3c606dfdcc1ac52e7b3df00.jpg",
+      "status": 200,
+      "bytes": 215196,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        800,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "6a16883ee2a80bbb82d801d33ecef849858dc929cf6615f1314a0467f2a19534",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/6a16883ee2a80bbb82d801d33ecef849858dc929cf6615f1314a0467f2a19534.png",
+      "status": 200,
+      "bytes": 1426453,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "b50957bd8792b1fc635363b3cc6e7038b9d6e26a4b7c90e8331dea82932c928c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b50957bd8792b1fc635363b3cc6e7038b9d6e26a4b7c90e8331dea82932c928c.png",
+      "status": 200,
+      "bytes": 1391667,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "41d55697398f0d338d3f08eb8c07707e0ec43fe799ed9216b4756af80a013b99",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/41d55697398f0d338d3f08eb8c07707e0ec43fe799ed9216b4756af80a013b99.jpg",
+      "status": 200,
+      "bytes": 304454,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        1199,
+        675
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "4a8161c87c1d9e4fe7de90cbcedf55ea08b88277d2e8d1ed17f2cfee5f8e985c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4a8161c87c1d9e4fe7de90cbcedf55ea08b88277d2e8d1ed17f2cfee5f8e985c.png",
+      "status": 200,
+      "bytes": 1511254,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "82bb71c99865bbc3a8cc98336df8add6465679ae17fa34dbd88ca76b8fa14f8f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/82bb71c99865bbc3a8cc98336df8add6465679ae17fa34dbd88ca76b8fa14f8f.jpg",
+      "status": 200,
+      "bytes": 85626,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c20caa792b1b84cf82d3e2cd851f3e7bb7ff1dca8e939f956be217cc612a0185",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c20caa792b1b84cf82d3e2cd851f3e7bb7ff1dca8e939f956be217cc612a0185.jpg",
+      "status": 200,
+      "bytes": 30532,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        587,
+        360
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "b8333e4d753db8d43f6d88bd3fccb5afe7c5e5cbc031ff8aec4a957354594884",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b8333e4d753db8d43f6d88bd3fccb5afe7c5e5cbc031ff8aec4a957354594884.jpg",
+      "status": 200,
+      "bytes": 5977,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        291,
+        173
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5d25a09c8e81465b51de2246271ec0ba308aab03f64f6aa06125b0292f5e7b40",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5d25a09c8e81465b51de2246271ec0ba308aab03f64f6aa06125b0292f5e7b40.png",
+      "status": 200,
+      "bytes": 1451664,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "00dc31d91f4cdc36d39163868cac381611cf6c25b18808239b4745a0bf745725",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/00dc31d91f4cdc36d39163868cac381611cf6c25b18808239b4745a0bf745725.jpg",
+      "status": 200,
+      "bytes": 189888,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        800,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "dd7beb890609dde605a470e9087ad5baa8b933f24c62dd886bd07ab57f1538c5",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/dd7beb890609dde605a470e9087ad5baa8b933f24c62dd886bd07ab57f1538c5.jpg",
+      "status": 200,
+      "bytes": 10836,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        300,
+        168
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "0d811afd3c05b50a4d8668237ab0d421ab2daa8b64af45a2762b6e87f2a88de5",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/0d811afd3c05b50a4d8668237ab0d421ab2daa8b64af45a2762b6e87f2a88de5.jpg",
+      "status": 200,
+      "bytes": 9130,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        300,
+        168
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "874972e70b12a6b170eb21e2b3a5521f8388bb3f4cf6304092ffdd12caf8ef5d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/874972e70b12a6b170eb21e2b3a5521f8388bb3f4cf6304092ffdd12caf8ef5d.jpg",
+      "status": 200,
+      "bytes": 4520,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        195,
+        258
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "28a6a008a8f4a1e6fc7682d1189e42158e9ca2893181cf639e0f1d59a6bee4a1",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/28a6a008a8f4a1e6fc7682d1189e42158e9ca2893181cf639e0f1d59a6bee4a1.jpg",
+      "status": 200,
+      "bytes": 3589,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        259,
+        194
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5cfd225f7b03a921f37a3be2ec65024d71872efb0f1524ba5e1defd2fadd0226",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5cfd225f7b03a921f37a3be2ec65024d71872efb0f1524ba5e1defd2fadd0226.webp",
+      "status": 200,
+      "bytes": 15306,
+      "content_type": "image/webp",
+      "dimensions": [
+        1080,
+        810
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c1eb7bcb0e00c3029bb7d803d8459a95e4c121dbd398502527b36c7bba037027",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c1eb7bcb0e00c3029bb7d803d8459a95e4c121dbd398502527b36c7bba037027.png",
+      "status": 200,
+      "bytes": 4899032,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f7c4850164b84c984f77f54c48a1aa16da192e1b259ff09638450bc82a8f64d8",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f7c4850164b84c984f77f54c48a1aa16da192e1b259ff09638450bc82a8f64d8.jpg",
+      "status": 200,
+      "bytes": 160859,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "bbdde6a0c54d1df065e5364de28dd7516d2788b7491bf42b1f5c82150cb15cca",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bbdde6a0c54d1df065e5364de28dd7516d2788b7491bf42b1f5c82150cb15cca.png",
+      "status": 200,
+      "bytes": 1840730,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "12abbc51f4e8277394ec67c361e4d166700e59cec04dfe32340667f61311b395",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/12abbc51f4e8277394ec67c361e4d166700e59cec04dfe32340667f61311b395.jpg",
+      "status": 200,
+      "bytes": 5689,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        194,
+        259
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "b65b1bd5e2291ed161fde0daa04073eca64bcd3e32e29e0f2ef919ea8ca3366b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b65b1bd5e2291ed161fde0daa04073eca64bcd3e32e29e0f2ef919ea8ca3366b.jpg",
+      "status": 200,
+      "bytes": 13170,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        284,
+        177
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "a6841f9d772de98214fe9ff420dd426cd3877d245b2d81e3640415dc00b154db",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a6841f9d772de98214fe9ff420dd426cd3877d245b2d81e3640415dc00b154db.png",
+      "status": 200,
+      "bytes": 5053249,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "374b10df87fb13c3635c7773eb81b17281e1fa583c76d97b2532dc3a4bd3dcd0",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/374b10df87fb13c3635c7773eb81b17281e1fa583c76d97b2532dc3a4bd3dcd0.jpg",
+      "status": 200,
+      "bytes": 4415,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        198,
+        255
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "4254140c3635f3bb1d95c93b5df17e3646761a562891e7c4f090c83740be3936",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4254140c3635f3bb1d95c93b5df17e3646761a562891e7c4f090c83740be3936.png",
+      "status": 200,
+      "bytes": 5009991,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "adddd17579bf6eebd60749c32dd08ffa8ab18e0a163260f843e768c6b3c0860a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/adddd17579bf6eebd60749c32dd08ffa8ab18e0a163260f843e768c6b3c0860a.png",
+      "status": 200,
+      "bytes": 4982862,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8b364ed8dfcb067e76e45de6b8e8e6b6a104104bf94602c0ebbf07cde2ee29b4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8b364ed8dfcb067e76e45de6b8e8e6b6a104104bf94602c0ebbf07cde2ee29b4.webp",
+      "status": 200,
+      "bytes": 977446,
+      "content_type": "image/webp",
+      "dimensions": [
+        3000,
+        3000
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "ecf5c907c383a209617cbdbefd7198f1b92f2704a7cb94b6f5d82fc600811629",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ecf5c907c383a209617cbdbefd7198f1b92f2704a7cb94b6f5d82fc600811629.png",
+      "status": 200,
+      "bytes": 4654468,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "2a4c9646919ebe0af94181d6d79a412287068aa90b983cca7a6259bd09767e77",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/2a4c9646919ebe0af94181d6d79a412287068aa90b983cca7a6259bd09767e77.jpg",
+      "status": 200,
+      "bytes": 241947,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        960,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "92143434370d73d873561ac12cfcdb2663458d499bb53242cc154a85fa5c670b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/92143434370d73d873561ac12cfcdb2663458d499bb53242cc154a85fa5c670b.png",
+      "status": 200,
+      "bytes": 2196445,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "73ec3e879395f6991323b0ae80d1f70de070853a9469a9dd4ed2a9fd557dc50f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/73ec3e879395f6991323b0ae80d1f70de070853a9469a9dd4ed2a9fd557dc50f.jpg",
+      "status": 200,
+      "bytes": 6174,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        217,
+        232
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8c8f0f0456d3f60280f3292d9b1634ca3b1de14e84181560cd5cda66869361fc",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8c8f0f0456d3f60280f3292d9b1634ca3b1de14e84181560cd5cda66869361fc.jpg",
+      "status": 200,
+      "bytes": 6043,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        225,
+        224
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "4468efdf9057debcfd6ca4ae65748f59c2cbfd38e871797dc79126dbe247a7fa",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4468efdf9057debcfd6ca4ae65748f59c2cbfd38e871797dc79126dbe247a7fa.png",
+      "status": 200,
+      "bytes": 4648958,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f11af68373f132d55702187737c127f514fb92b7a8c7b7b15d740677671118a7",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f11af68373f132d55702187737c127f514fb92b7a8c7b7b15d740677671118a7.png",
+      "status": 200,
+      "bytes": 1683676,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "490351a548f80359a8acc3eaf80e26beee39d31ff936ae87c36f4b769c7b3101",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/490351a548f80359a8acc3eaf80e26beee39d31ff936ae87c36f4b769c7b3101.png",
+      "status": 200,
+      "bytes": 4807648,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1aa0efe1c0caaa76637e3bdfde77dc8d05d11ab135adee87c390d011d99abc5d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1aa0efe1c0caaa76637e3bdfde77dc8d05d11ab135adee87c390d011d99abc5d.png",
+      "status": 200,
+      "bytes": 2962480,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "02f0a5d5cc0ff63626241dc356a9d83c16a97a57ca51b8cec5f8353e6c029449",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/02f0a5d5cc0ff63626241dc356a9d83c16a97a57ca51b8cec5f8353e6c029449.png",
+      "status": 200,
+      "bytes": 496767,
+      "content_type": "image/png",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f508805c799e5fc8bf0e539ffa387d1e145153e812fbd33693475e19ef61499c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f508805c799e5fc8bf0e539ffa387d1e145153e812fbd33693475e19ef61499c.png",
+      "status": 200,
+      "bytes": 2032127,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "dd860d3d15560b8ecb36faa29f467abc7bdc71049386ccf282f227409c137f77",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/dd860d3d15560b8ecb36faa29f467abc7bdc71049386ccf282f227409c137f77.png",
+      "status": 200,
+      "bytes": 1785130,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "a6ac59f48e4845ab530681a6d5561ed451566c2690c71a0723c22be44c57f261",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a6ac59f48e4845ab530681a6d5561ed451566c2690c71a0723c22be44c57f261.png",
+      "status": 200,
+      "bytes": 2145983,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "6d56fe1bc3ba7c10e4fb6010dc76e9b03b393445c3ebfce48fe9d12d711029bd",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/6d56fe1bc3ba7c10e4fb6010dc76e9b03b393445c3ebfce48fe9d12d711029bd.png",
+      "status": 200,
+      "bytes": 1961822,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9c96d61d01457519bb4c3a97b3d84eb9bb5c3daf7abb21351ef44dc9877bc157",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9c96d61d01457519bb4c3a97b3d84eb9bb5c3daf7abb21351ef44dc9877bc157.png",
+      "status": 200,
+      "bytes": 2006115,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "53fb3c9f1e61bcc4b9ce48a76e2e945a86eeb757b0440c19c5e07e5181a2cf05",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/53fb3c9f1e61bcc4b9ce48a76e2e945a86eeb757b0440c19c5e07e5181a2cf05.png",
+      "status": 200,
+      "bytes": 1506188,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "a3a1b4d78cf33fb785d9dc01cf6ca1ff4a27cb16a33b3db1dde00f0db5930e4e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a3a1b4d78cf33fb785d9dc01cf6ca1ff4a27cb16a33b3db1dde00f0db5930e4e.png",
+      "status": 200,
+      "bytes": 5827898,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "30eab8f81efecdd70975fc20a5c29ccc8edbf4f28daef040c1b3e13e69f21f33",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/30eab8f81efecdd70975fc20a5c29ccc8edbf4f28daef040c1b3e13e69f21f33.png",
+      "status": 200,
+      "bytes": 1479971,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f680897089ad712fc627d1c8d15f97dda0ceb76ca74aa7a564e9762d07080a76",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f680897089ad712fc627d1c8d15f97dda0ceb76ca74aa7a564e9762d07080a76.png",
+      "status": 200,
+      "bytes": 1164052,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "02c3c668aaea8d3a4a323522c224ddd9c928394421decd6f7c24b48751124d55",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/02c3c668aaea8d3a4a323522c224ddd9c928394421decd6f7c24b48751124d55.png",
+      "status": 200,
+      "bytes": 1372359,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        1600
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "ecde108d0d839353c2f5a8ba5cba594ed01c080a2d12e5d9fe00e93be61f154a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ecde108d0d839353c2f5a8ba5cba594ed01c080a2d12e5d9fe00e93be61f154a.png",
+      "status": 200,
+      "bytes": 977383,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1aa4d40f4b1dba6fb49b85a76a5e2a90f78d8a1cb0f27e3ebbdf4a4cf3d4c007",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1aa4d40f4b1dba6fb49b85a76a5e2a90f78d8a1cb0f27e3ebbdf4a4cf3d4c007.png",
+      "status": 200,
+      "bytes": 1805085,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1fdee45a43b464454477a4e3248322e49dcc18ff123a05b6e5696f7b281be3c4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1fdee45a43b464454477a4e3248322e49dcc18ff123a05b6e5696f7b281be3c4.png",
+      "status": 200,
+      "bytes": 1562145,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "e5d76f62f82f03405291f5c9ad854975b37cb93e623bc275945b06d64d14c14d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/e5d76f62f82f03405291f5c9ad854975b37cb93e623bc275945b06d64d14c14d.png",
+      "status": 200,
+      "bytes": 1731879,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "823c71509846b19a25da8d0c3bba52480981bd9542c21359fa6f392501337079",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/823c71509846b19a25da8d0c3bba52480981bd9542c21359fa6f392501337079.jpg",
+      "status": 200,
+      "bytes": 124316,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        896,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "d2f0a552a8fe31125197b1c63b52ebcc29fe84eba11c4c384e2da510b2363a9e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d2f0a552a8fe31125197b1c63b52ebcc29fe84eba11c4c384e2da510b2363a9e.png",
+      "status": 200,
+      "bytes": 1944969,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "03fa89075125c671221111f38876fd878f42c39fc7a0572da9afd1502fc03ea3",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/03fa89075125c671221111f38876fd878f42c39fc7a0572da9afd1502fc03ea3.jpg",
+      "status": 200,
+      "bytes": 198574,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        900,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "2b31504e899f1c7ac5c104648da133b4c0515b0ae0d685c8e9f31380949a99ee",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/2b31504e899f1c7ac5c104648da133b4c0515b0ae0d685c8e9f31380949a99ee.jpg",
+      "status": 200,
+      "bytes": 112136,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        1200,
+        904
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "cbbe981647b5e3f0fc587251d79d6821d88b4ca6397e92e18c33c3a1f30b6387",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/cbbe981647b5e3f0fc587251d79d6821d88b4ca6397e92e18c33c3a1f30b6387.png",
+      "status": 200,
+      "bytes": 270660,
+      "content_type": "image/png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "a8a419780ce0451aee7ec2e7f51a325bb6ed3403d37c4c7ce758e01af83c6b1a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a8a419780ce0451aee7ec2e7f51a325bb6ed3403d37c4c7ce758e01af83c6b1a.png",
+      "status": 200,
+      "bytes": 2030001,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "dffd48fc927e8a115b383aa782b6ba9175c32d679ffc3e64fe152b9f90b4aa5c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/dffd48fc927e8a115b383aa782b6ba9175c32d679ffc3e64fe152b9f90b4aa5c.png",
+      "status": 200,
+      "bytes": 1983573,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "ca99146cda5a4eb1a03cf53f446864cc3825682c8d5888eaab57395ab08dc8de",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ca99146cda5a4eb1a03cf53f446864cc3825682c8d5888eaab57395ab08dc8de.webp",
+      "status": 200,
+      "bytes": 64556,
+      "content_type": "image/webp",
+      "dimensions": [
+        655,
+        900
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "2ff8ff93f8d9f755e271299bf9a98d179305fc174ef1a22e5aa2fd8eaf1eb86f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/2ff8ff93f8d9f755e271299bf9a98d179305fc174ef1a22e5aa2fd8eaf1eb86f.png",
+      "status": 200,
+      "bytes": 1857567,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "56481d492b2e1663611936f60713dc9d909355f6d0c4fd3cbaf8be74bc866f74",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/56481d492b2e1663611936f60713dc9d909355f6d0c4fd3cbaf8be74bc866f74.png",
+      "status": 200,
+      "bytes": 1834964,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "47f5e5f140f00fe071e7b222f6d82083a5547ce27bc7046a54a799ff10ec42fd",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/47f5e5f140f00fe071e7b222f6d82083a5547ce27bc7046a54a799ff10ec42fd.png",
+      "status": 200,
+      "bytes": 1799474,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5843b9c5d60847f66d4dc291f3dd776c0cc7c385e51f035c653415ffdbe9cdee",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5843b9c5d60847f66d4dc291f3dd776c0cc7c385e51f035c653415ffdbe9cdee.jpg",
+      "status": 200,
+      "bytes": 146477,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        967,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "38c2e713fe195429dabc6ddf995bdcbb7d44f1f60d4cfc7babcefa1e5cac06e3",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/38c2e713fe195429dabc6ddf995bdcbb7d44f1f60d4cfc7babcefa1e5cac06e3.png",
+      "status": 200,
+      "bytes": 2096843,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "be8b6e656a2c26185d878019d92aa41ad254248ced0b7b2d8bd2eb0461bb0dec",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/be8b6e656a2c26185d878019d92aa41ad254248ced0b7b2d8bd2eb0461bb0dec.jpg",
+      "status": 200,
+      "bytes": 97069,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        966,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9b3fbc99787c86a6eb896aa8b0ef9924dc82cc488201c42706f78fbcca78d8d0",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9b3fbc99787c86a6eb896aa8b0ef9924dc82cc488201c42706f78fbcca78d8d0.png",
+      "status": 200,
+      "bytes": 1827110,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "a5ed293fdeadf475d1d919978ada6ca0c0ba7a93e34871cb081e0c1ae3d5ea31",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a5ed293fdeadf475d1d919978ada6ca0c0ba7a93e34871cb081e0c1ae3d5ea31.png",
+      "status": 200,
+      "bytes": 1794137,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "fa67c15d066f59f4631dd237ea60c656500b802cb7d8179a52ddd90e7ccb17fa",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/fa67c15d066f59f4631dd237ea60c656500b802cb7d8179a52ddd90e7ccb17fa.jpg",
+      "status": 200,
+      "bytes": 96249,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        967,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "d7709b5a0ad7b0380e0f56942377661e23a88fd2c07ccbb567c6e59dac00938a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d7709b5a0ad7b0380e0f56942377661e23a88fd2c07ccbb567c6e59dac00938a.jpg",
+      "status": 200,
+      "bytes": 7050,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        225,
+        225
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "bffa72b6da88cb42dd07cb992a4aaffbb3b5aacd6244992cbf41775ce960c2a5",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bffa72b6da88cb42dd07cb992a4aaffbb3b5aacd6244992cbf41775ce960c2a5.png",
+      "status": 200,
+      "bytes": 2232487,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "71dc16d471e77aea710a28023642c314b3dde13de5a5ed12f5cc3aa9cff89846",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/71dc16d471e77aea710a28023642c314b3dde13de5a5ed12f5cc3aa9cff89846.webp",
+      "status": 200,
+      "bytes": 49534,
+      "content_type": "image/webp",
+      "dimensions": [
+        800,
+        637
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "bb59fa74fc350a713197fd4542cba330e33a5ba477772313621bb97a1cbe9fe4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bb59fa74fc350a713197fd4542cba330e33a5ba477772313621bb97a1cbe9fe4.jpg",
+      "status": 200,
+      "bytes": 107663,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        969,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8596ea3b41c85eb892071578a2c3e2924948859fd0b79468a336a5068f117671",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8596ea3b41c85eb892071578a2c3e2924948859fd0b79468a336a5068f117671.png",
+      "status": 200,
+      "bytes": 2135399,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "de9eb7780fa4747486a3a6477f3504698563ec777a5d03b8ecea25f2dbef7954",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/de9eb7780fa4747486a3a6477f3504698563ec777a5d03b8ecea25f2dbef7954.jpg",
+      "status": 200,
+      "bytes": 6441,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        233,
+        216
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "80d22e6496071684ac09650e0cbe7648908afc510674b1239336c8a438c6dba9",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/80d22e6496071684ac09650e0cbe7648908afc510674b1239336c8a438c6dba9.png",
+      "status": 200,
+      "bytes": 2048888,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c949eebcaf4ed7f8cb3a6b3dfd6e45ee178aacaac9c400dbc1badc60e16dd019",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c949eebcaf4ed7f8cb3a6b3dfd6e45ee178aacaac9c400dbc1badc60e16dd019.png",
+      "status": 200,
+      "bytes": 2284981,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "76635368156044e6dc95f1589079fa8e2a7742c557d8ae3f273507219759869e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/76635368156044e6dc95f1589079fa8e2a7742c557d8ae3f273507219759869e.png",
+      "status": 200,
+      "bytes": 2024179,
+      "content_type": "image/png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c537aa02a596983b374e1125b47a2a3c2c7392b17236972687ac485ebaa39ae3",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c537aa02a596983b374e1125b47a2a3c2c7392b17236972687ac485ebaa39ae3.png",
+      "status": 200,
+      "bytes": 5317134,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "4778459586c9e8bd4256447fdf18862ce4e3a89c1c50ae5d11aa4343b3028b7b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4778459586c9e8bd4256447fdf18862ce4e3a89c1c50ae5d11aa4343b3028b7b.jpg",
+      "status": 200,
+      "bytes": 264288,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        2936,
+        1960
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f3f561fbb7c1c02d38bcaf8afd9756aff82ad528719cc530bd5e7e7cddece15e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f3f561fbb7c1c02d38bcaf8afd9756aff82ad528719cc530bd5e7e7cddece15e.png",
+      "status": 200,
+      "bytes": 2351752,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "2a4235ca07e4d5c3d8dbc80ba0958713c6334d02908d1baa3f97ccc331480e0f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/2a4235ca07e4d5c3d8dbc80ba0958713c6334d02908d1baa3f97ccc331480e0f.png",
+      "status": 200,
+      "bytes": 2364593,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "37cb78061fe8ce4fcb8ebc5abe1df630e966a23461d464826a23f4c38a912f43",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/37cb78061fe8ce4fcb8ebc5abe1df630e966a23461d464826a23f4c38a912f43.png",
+      "status": 200,
+      "bytes": 2612145,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "40720a2d7a9c72fac47d3f63d4a4a4a2b24720a5e5674fec9add53faf8e3b474",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/40720a2d7a9c72fac47d3f63d4a4a4a2b24720a5e5674fec9add53faf8e3b474.png",
+      "status": 200,
+      "bytes": 6325930,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "7f143513faaaed190f92eda962c061f1a14256c9d6d07e1d54700cb1342f9a86",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/7f143513faaaed190f92eda962c061f1a14256c9d6d07e1d54700cb1342f9a86.png",
+      "status": 200,
+      "bytes": 2204091,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "de50ce47421fb81344cd32bb6105fb57428e0d79419f73865ddead757ac47b5f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/de50ce47421fb81344cd32bb6105fb57428e0d79419f73865ddead757ac47b5f.jpg",
+      "status": 200,
+      "bytes": 4908,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        275,
+        183
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "18fac369946bdb7ed074d62e62f77377701233c10993466578ea0394e98265c8",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/18fac369946bdb7ed074d62e62f77377701233c10993466578ea0394e98265c8.png",
+      "status": 200,
+      "bytes": 2520511,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5649ec9bdbafdfc708f41773668a7a0c9e7c9cc18d7d3fecaee58712bab0574f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5649ec9bdbafdfc708f41773668a7a0c9e7c9cc18d7d3fecaee58712bab0574f.png",
+      "status": 200,
+      "bytes": 2557054,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "e3d4ea086c38b13af7d05342a6a835e5b4ec70927960378439c7686347dff151",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/e3d4ea086c38b13af7d05342a6a835e5b4ec70927960378439c7686347dff151.png",
+      "status": 200,
+      "bytes": 2162807,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "062c6c4a73f59ff5c1fb4ba5f3e1212c2d861858076b4b425212529ce4c50d80",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/062c6c4a73f59ff5c1fb4ba5f3e1212c2d861858076b4b425212529ce4c50d80.png",
+      "status": 200,
+      "bytes": 1442014,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "fa7f7a993dcb505ae2c6de3993cd16dab42246912e2a2e5830ef416e9adcd8e5",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/fa7f7a993dcb505ae2c6de3993cd16dab42246912e2a2e5830ef416e9adcd8e5.png",
+      "status": 200,
+      "bytes": 2136986,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "b4a07d840488d476681f7d54509c4dcc855ed3916ac2ddc28c265d2213441599",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b4a07d840488d476681f7d54509c4dcc855ed3916ac2ddc28c265d2213441599.png",
+      "status": 200,
+      "bytes": 2139335,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "05e452f09c5808029dfa97d80ce2d5df734113b98458e1039407f826c668c64d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/05e452f09c5808029dfa97d80ce2d5df734113b98458e1039407f826c668c64d.webp",
+      "status": 200,
+      "bytes": 20562,
+      "content_type": "image/webp",
+      "dimensions": [
+        320,
+        320
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "07b414f54b922706a6cbe89c05fc053994d213582860fd4c9d3527bcf2e9a113",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/07b414f54b922706a6cbe89c05fc053994d213582860fd4c9d3527bcf2e9a113.png",
+      "status": 200,
+      "bytes": 2028487,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "0882b5268af0fb1521c9379face23f9859fa34c39e4174ec40d6ed3c117d0d11",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/0882b5268af0fb1521c9379face23f9859fa34c39e4174ec40d6ed3c117d0d11.png",
+      "status": 200,
+      "bytes": 1997201,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "86d0cf79eda81c503f80d6c8a212be19ba4e4f26cf675d19ef9f04afc5f16ae9",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/86d0cf79eda81c503f80d6c8a212be19ba4e4f26cf675d19ef9f04afc5f16ae9.jpg",
+      "status": 200,
+      "bytes": 189819,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        800,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "326ebae0f0c0a86a84452541a5f0badff90aacea46fa8c359d56b33f723fe631",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/326ebae0f0c0a86a84452541a5f0badff90aacea46fa8c359d56b33f723fe631.jpg",
+      "status": 200,
+      "bytes": 135107,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        784,
+        1168
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c8750c65c55971fc9d651a1f29a0f8f1fbc30c30d25c4d9363d6b54a5248dd7a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c8750c65c55971fc9d651a1f29a0f8f1fbc30c30d25c4d9363d6b54a5248dd7a.jpg",
+      "status": 200,
+      "bytes": 193649,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "de15e16200de2e72ab31ac57e4b3e4364f9409133642d03d5f7e415103be9a4c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/de15e16200de2e72ab31ac57e4b3e4364f9409133642d03d5f7e415103be9a4c.png",
+      "status": 200,
+      "bytes": 2280214,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "2e83b353ccbec5f5c9c2ba7fb81081b7b914172dd6ac0a4fb5bc420b27e93e81",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/2e83b353ccbec5f5c9c2ba7fb81081b7b914172dd6ac0a4fb5bc420b27e93e81.png",
+      "status": 200,
+      "bytes": 5121300,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "384c9e217f4f814a662ddc93931d8876ec89f6c6397296d98f88ed8c58bb6cd1",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/384c9e217f4f814a662ddc93931d8876ec89f6c6397296d98f88ed8c58bb6cd1.png",
+      "status": 200,
+      "bytes": 2358020,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8a3f1d30b144ac324fe97bb076824270e1386107af5e687531558cfb24ea2d32",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8a3f1d30b144ac324fe97bb076824270e1386107af5e687531558cfb24ea2d32.png",
+      "status": 200,
+      "bytes": 2347363,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8178ad4e6a2545f46e15d320757b45f863f3884f6119e6c56a951d23ed64ebe4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8178ad4e6a2545f46e15d320757b45f863f3884f6119e6c56a951d23ed64ebe4.png",
+      "status": 200,
+      "bytes": 2056199,
+      "content_type": "image/png",
+      "dimensions": [
+        1552,
+        1548
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "253e1760f530130a111a2201362fe0a3da9e693f852db31ff7a04870a44b3e43",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/253e1760f530130a111a2201362fe0a3da9e693f852db31ff7a04870a44b3e43.png",
+      "status": 200,
+      "bytes": 2172142,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "309423f4e6cd2f71ad13ebea1696c1417d2a7a681387e34762dfe418995be72b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/309423f4e6cd2f71ad13ebea1696c1417d2a7a681387e34762dfe418995be72b.png",
+      "status": 200,
+      "bytes": 861705,
+      "content_type": "image/png",
+      "dimensions": [
+        1456,
+        1456
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c95fd5b1bcc3e54c6178070ae5b0c0162e32720866a0c9376193b4c2463d0921",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c95fd5b1bcc3e54c6178070ae5b0c0162e32720866a0c9376193b4c2463d0921.png",
+      "status": 200,
+      "bytes": 2445232,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "bc064205c43e54ab6181c5e53ecd3f94b2354d5fa66c096c063a57e44f5111b2",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bc064205c43e54ab6181c5e53ecd3f94b2354d5fa66c096c063a57e44f5111b2.png",
+      "status": 200,
+      "bytes": 2379076,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "16b63d240d3db17d83879d1974d8c098a1b0bef77d92184c5dde822a8c72ade4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/16b63d240d3db17d83879d1974d8c098a1b0bef77d92184c5dde822a8c72ade4.png",
+      "status": 200,
+      "bytes": 2528891,
+      "content_type": "image/png",
+      "dimensions": [
+        1552,
+        1548
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f73a6ce5d96991d94afd8d3f5b5c0048b99531b12cbc67b6deaa3724cc585140",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f73a6ce5d96991d94afd8d3f5b5c0048b99531b12cbc67b6deaa3724cc585140.png",
+      "status": 200,
+      "bytes": 1614252,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "fe24225ee30ecca6eb6bcbeb4f5fa2ba3ad73bb0fcb0682a8f64a07fb866273d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/fe24225ee30ecca6eb6bcbeb4f5fa2ba3ad73bb0fcb0682a8f64a07fb866273d.png",
+      "status": 200,
+      "bytes": 2161692,
+      "content_type": "image/png",
+      "dimensions": [
+        1558,
+        1554
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1e4741a29b9210c73cfec5d92fa90f18d539df10f452ecf544a59e660715feca",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1e4741a29b9210c73cfec5d92fa90f18d539df10f452ecf544a59e660715feca.png",
+      "status": 200,
+      "bytes": 3616317,
+      "content_type": "image/png",
+      "dimensions": [
+        1556,
+        1548
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8e1f43b7da05ab4f533be9971fed80b9bf3e2d9a3fd516c4f040634d2061335a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8e1f43b7da05ab4f533be9971fed80b9bf3e2d9a3fd516c4f040634d2061335a.png",
+      "status": 200,
+      "bytes": 1493465,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "e10ce7cd45dd79e731948c674201e41113e039bfa118fb91e34cd15462899923",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/e10ce7cd45dd79e731948c674201e41113e039bfa118fb91e34cd15462899923.png",
+      "status": 200,
+      "bytes": 2155784,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f63a191e06714a7f72c4b3b989bb14c2a06e034f5260b62d140cd14f1c17aad9",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f63a191e06714a7f72c4b3b989bb14c2a06e034f5260b62d140cd14f1c17aad9.png",
+      "status": 200,
+      "bytes": 2093585,
+      "content_type": "image/png",
+      "dimensions": [
+        1552,
+        1552
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c6c7ccebffec02b09b99f13e03b4935502b746021617242a836baf478ae1dc24",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c6c7ccebffec02b09b99f13e03b4935502b746021617242a836baf478ae1dc24.png",
+      "status": 200,
+      "bytes": 1546277,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "b217d7437dc741a7c273e37c85fe8448d321f283fcda03d128d20ee0d2514e24",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b217d7437dc741a7c273e37c85fe8448d321f283fcda03d128d20ee0d2514e24.png",
+      "status": 200,
+      "bytes": 2767207,
+      "content_type": "image/png",
+      "dimensions": [
+        1550,
+        1550
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "68c644ecb03c10664bd6cbf6d654418c48192acfeee91d834dc5dd2d90ce3f19",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/68c644ecb03c10664bd6cbf6d654418c48192acfeee91d834dc5dd2d90ce3f19.png",
+      "status": 200,
+      "bytes": 1847596,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "fb42b0da83fe3a4673ab6b7253c5d4b496bd323a68e1e77e68606a30c835233d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/fb42b0da83fe3a4673ab6b7253c5d4b496bd323a68e1e77e68606a30c835233d.png",
+      "status": 200,
+      "bytes": 1693505,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "67797d8dbc4dba01cc5d678016743b8fe04ca1c7edf39f4a9bc3163c1138af25",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/67797d8dbc4dba01cc5d678016743b8fe04ca1c7edf39f4a9bc3163c1138af25.png",
+      "status": 200,
+      "bytes": 1958696,
+      "content_type": "image/png",
+      "dimensions": [
+        1084,
+        1082
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "d2b21829edae696c75bea99d432adfe4380729d60da3f778598e92678629b5fc",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d2b21829edae696c75bea99d432adfe4380729d60da3f778598e92678629b5fc.png",
+      "status": 200,
+      "bytes": 1910953,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1cac78effb25168c1f051e6148c8f5f3ce7fd92be239c8a7d2ed896b1062d0f0",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1cac78effb25168c1f051e6148c8f5f3ce7fd92be239c8a7d2ed896b1062d0f0.png",
+      "status": 200,
+      "bytes": 3670549,
+      "content_type": "image/png",
+      "dimensions": [
+        1550,
+        1550
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c22682cf03fa61fa538a16921b3f78ebaea335b7c52f09e6a331efd06c920b86",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c22682cf03fa61fa538a16921b3f78ebaea335b7c52f09e6a331efd06c920b86.png",
+      "status": 200,
+      "bytes": 2079245,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "45c01100181589a4d2e8035b1b9c1bee789f7eba09122f47969b1dfe519374ac",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/45c01100181589a4d2e8035b1b9c1bee789f7eba09122f47969b1dfe519374ac.png",
+      "status": 200,
+      "bytes": 2647320,
+      "content_type": "image/png",
+      "dimensions": [
+        1550,
+        1542
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "dd2c60f832e8a6ff2512341677e9605f311031a8c4ae38f3c84fbe5d936bac2a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/dd2c60f832e8a6ff2512341677e9605f311031a8c4ae38f3c84fbe5d936bac2a.png",
+      "status": 200,
+      "bytes": 2007014,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1f9742c59585969b814eab7172a55573c236264a0a588d57d909867a12c73ed5",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1f9742c59585969b814eab7172a55573c236264a0a588d57d909867a12c73ed5.png",
+      "status": 200,
+      "bytes": 2568212,
+      "content_type": "image/png",
+      "dimensions": [
+        1550,
+        1554
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "3ab7af6cafddbf25182d01f8c18c53507a880b3db722d7804099471c6e177dfc",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/3ab7af6cafddbf25182d01f8c18c53507a880b3db722d7804099471c6e177dfc.png",
+      "status": 200,
+      "bytes": 92767,
+      "content_type": "image/png",
+      "dimensions": [
+        300,
+        400
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "db6d133fcdde87e095fee3e65f4e6770b2fa46b4f48b31ba4c9d5d9c9b61eb72",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/db6d133fcdde87e095fee3e65f4e6770b2fa46b4f48b31ba4c9d5d9c9b61eb72.png",
+      "status": 200,
+      "bytes": 4466386,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1edc0faf263415720651585ef05e2ce74b68a9a8e48e5bcfec056c4babb06b2e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1edc0faf263415720651585ef05e2ce74b68a9a8e48e5bcfec056c4babb06b2e.png",
+      "status": 200,
+      "bytes": 1633284,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "45cc8959d5b89075affa6cf78cf56ecb98c1d98f32a199d16fd942001a7bbd24",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/45cc8959d5b89075affa6cf78cf56ecb98c1d98f32a199d16fd942001a7bbd24.png",
+      "status": 200,
+      "bytes": 1818459,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "97ddc441d3c9afb7be70610a61949c71a7ec1ba50604539d5e5448b55e11ca09",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/97ddc441d3c9afb7be70610a61949c71a7ec1ba50604539d5e5448b55e11ca09.png",
+      "status": 200,
+      "bytes": 5526086,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9409b3d5a006043704a8310dff496ea85512620adbcae50a319789c2c7f1fb51",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9409b3d5a006043704a8310dff496ea85512620adbcae50a319789c2c7f1fb51.png",
+      "status": 200,
+      "bytes": 5285665,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "b6b6d2267e560f3c7c16ffe09400e59df9cda6e09fee2d70d319c24cf586f56f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b6b6d2267e560f3c7c16ffe09400e59df9cda6e09fee2d70d319c24cf586f56f.png",
+      "status": 200,
+      "bytes": 4631716,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "4da082f21714e6b5eeae2dd626936a3198a1d84a2c1752d84ae2273076c68fc2",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4da082f21714e6b5eeae2dd626936a3198a1d84a2c1752d84ae2273076c68fc2.png",
+      "status": 200,
+      "bytes": 5733873,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "3a75c92de6c2cc1b65a7e676e222f290af5a4b42dae0eb5d6ea67e39c3641edd",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/3a75c92de6c2cc1b65a7e676e222f290af5a4b42dae0eb5d6ea67e39c3641edd.png",
+      "status": 200,
+      "bytes": 2311345,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "06c6b6ca368fa00bf1eeefc8b42b13341597a1a11523286ff566be25422e5400",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/06c6b6ca368fa00bf1eeefc8b42b13341597a1a11523286ff566be25422e5400.png",
+      "status": 200,
+      "bytes": 5711149,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "3cdce4c1b0c3e1f1b06cb91a72e690b77703f962e4f3131e690999fabf2277b7",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/3cdce4c1b0c3e1f1b06cb91a72e690b77703f962e4f3131e690999fabf2277b7.png",
+      "status": 200,
+      "bytes": 2283350,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "fd1b7f8142dba3e5e1cff553e76b412e741ef72d0366d30b89ecee3f1cf21269",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/fd1b7f8142dba3e5e1cff553e76b412e741ef72d0366d30b89ecee3f1cf21269.png",
+      "status": 200,
+      "bytes": 1686763,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "b58e805d01bb86a023d975f4b5b9f77688f75ba9145ba5b6757d35e525ca7b1b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b58e805d01bb86a023d975f4b5b9f77688f75ba9145ba5b6757d35e525ca7b1b.png",
+      "status": 200,
+      "bytes": 2117713,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "e2503f06d22cd3c6db2b232e11f7e1b899395db0e40c55a155aba36e1796fcb9",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/e2503f06d22cd3c6db2b232e11f7e1b899395db0e40c55a155aba36e1796fcb9.png",
+      "status": 200,
+      "bytes": 1721408,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "cffb9c00ae3f327129da3a0e99a0923061c1f8301942c41240571243e0f415b1",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/cffb9c00ae3f327129da3a0e99a0923061c1f8301942c41240571243e0f415b1.png",
+      "status": 200,
+      "bytes": 1812931,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "93aa64b534f810cf3228036cf8224cc7e7086a6d41a2aa26cd20534c7a24be73",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/93aa64b534f810cf3228036cf8224cc7e7086a6d41a2aa26cd20534c7a24be73.png",
+      "status": 200,
+      "bytes": 1789092,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "19410daf35eabe336525604fcb03325cae5d3978d76dbaa49b36e572c5e18a09",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/19410daf35eabe336525604fcb03325cae5d3978d76dbaa49b36e572c5e18a09.png",
+      "status": 200,
+      "bytes": 5371215,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "bd2c5ec84fef9b44587f65e68871d7aea54007274c32d77af98710165c617a67",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bd2c5ec84fef9b44587f65e68871d7aea54007274c32d77af98710165c617a67.png",
+      "status": 200,
+      "bytes": 28727,
+      "content_type": "image/png",
+      "dimensions": [
+        225,
+        225
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "f39e43aff62404919556369423bf58cb63e0dd1407cd4760daa445bb95c5d54b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f39e43aff62404919556369423bf58cb63e0dd1407cd4760daa445bb95c5d54b.png",
+      "status": 200,
+      "bytes": 879044,
+      "content_type": "image/png",
+      "dimensions": [
+        736,
+        1390
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "daa70e989b8834b10347af842ad45e3ad433689a0a55f519baf4b142daf4e1b4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/daa70e989b8834b10347af842ad45e3ad433689a0a55f519baf4b142daf4e1b4.png",
+      "status": 200,
+      "bytes": 2178889,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "bbd4b6554abcb52942239f199fe44634e2ef5e0e782bd890a244500574844644",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bbd4b6554abcb52942239f199fe44634e2ef5e0e782bd890a244500574844644.png",
+      "status": 200,
+      "bytes": 5260709,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "301786145260c231972cf5e0b3b98c5f0f894498e4499579fa3993e87a23057e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/301786145260c231972cf5e0b3b98c5f0f894498e4499579fa3993e87a23057e.webp",
+      "status": 200,
+      "bytes": 51310,
+      "content_type": "image/webp",
+      "dimensions": [
+        748,
+        997
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "7be4e1099f0c087569f26603f7e23f98b0ea287f094d4a8a2d65ac64efc527c2",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/7be4e1099f0c087569f26603f7e23f98b0ea287f094d4a8a2d65ac64efc527c2.png",
+      "status": 200,
+      "bytes": 3282119,
+      "content_type": "image/png",
+      "dimensions": [
+        1554,
+        1554
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "38cbe4e585341c60f1a439a6273cddb4e0feeb8440bb92bd75ddb587847ab78d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/38cbe4e585341c60f1a439a6273cddb4e0feeb8440bb92bd75ddb587847ab78d.jpg",
+      "status": 200,
+      "bytes": 78874,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        960,
+        1141
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "cc182dba9a3a86258d781521fb7d37ff2b7fbab6bf47d111f0524e0ebcdb706f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/cc182dba9a3a86258d781521fb7d37ff2b7fbab6bf47d111f0524e0ebcdb706f.png",
+      "status": 200,
+      "bytes": 1708610,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1b4584cd29127ee4b41febe9c87c3c6b3c05a747f2647a428a4fb0b955d23d88",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1b4584cd29127ee4b41febe9c87c3c6b3c05a747f2647a428a4fb0b955d23d88.png",
+      "status": 200,
+      "bytes": 1763959,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c5f2b29cd6e699a10619d49dfa8a4b3d6164893a14bb767b39eb978e57b1b914",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c5f2b29cd6e699a10619d49dfa8a4b3d6164893a14bb767b39eb978e57b1b914.png",
+      "status": 200,
+      "bytes": 2400439,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "4fda84a993e897bf00d521b62a60b2d9578546f162e57bbbbd227eb1904322cd",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4fda84a993e897bf00d521b62a60b2d9578546f162e57bbbbd227eb1904322cd.png",
+      "status": 200,
+      "bytes": 2270080,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "3a089af3669973419de2ff10c33e7deb86bcba2d599ee66d052018b34ec01a67",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/3a089af3669973419de2ff10c33e7deb86bcba2d599ee66d052018b34ec01a67.png",
+      "status": 200,
+      "bytes": 1630822,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "96e634e86688d0a3d1fac4c32ac0457154651a3fdbaeb143030430b223e66a9a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/96e634e86688d0a3d1fac4c32ac0457154651a3fdbaeb143030430b223e66a9a.png",
+      "status": 200,
+      "bytes": 1679529,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "141e070f5263bacc440427e632db37dd82814e99739198b216c34172a056d6df",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/141e070f5263bacc440427e632db37dd82814e99739198b216c34172a056d6df.png",
+      "status": 200,
+      "bytes": 4762098,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9fbb63c0d6de834e90642b35c7f7d52066db8cef6a03fb45acbfd70b1dde084f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9fbb63c0d6de834e90642b35c7f7d52066db8cef6a03fb45acbfd70b1dde084f.png",
+      "status": 200,
+      "bytes": 1570648,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1d6e2a2ef12733c01454fd50ccd02e2ea90ac75b0429559aae3d729eb2f14dda",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1d6e2a2ef12733c01454fd50ccd02e2ea90ac75b0429559aae3d729eb2f14dda.png",
+      "status": 200,
+      "bytes": 1641351,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c2e0c8ccb03f60d5c8c03f116d0092474ec5e4ca3ac7c17bda9e77177e607fbc",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c2e0c8ccb03f60d5c8c03f116d0092474ec5e4ca3ac7c17bda9e77177e607fbc.png",
+      "status": 200,
+      "bytes": 1667564,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5df638aa38fc03321c60c78048d3500aad07eef5ce27679e947acf49ef80536d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5df638aa38fc03321c60c78048d3500aad07eef5ce27679e947acf49ef80536d.jpg",
+      "status": 200,
+      "bytes": 275243,
+      "content_type": "image/jpeg",
+      "dimensions": [
+        2294,
+        1280
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c1b898bab68b403fddf7eec329e68a4895e67feab04e32d8bddcb1d79e6106be",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c1b898bab68b403fddf7eec329e68a4895e67feab04e32d8bddcb1d79e6106be.png",
+      "status": 200,
+      "bytes": 5554370,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "3f93f078be25efbc86b244fccd38cb771601cce6e2af182252bd0ce2df35739b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/3f93f078be25efbc86b244fccd38cb771601cce6e2af182252bd0ce2df35739b.png",
+      "status": 200,
+      "bytes": 922819,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "bbe9236ef819e9d482d893771869c8e74f3f5f5bb1e3481dd5f5f620eb60988d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bbe9236ef819e9d482d893771869c8e74f3f5f5bb1e3481dd5f5f620eb60988d.png",
+      "status": 200,
+      "bytes": 1470538,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "cd39fbb656eb1ce87c8cfb1a5cb873e097ee176c8f8ef7109acea1868beec65e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/cd39fbb656eb1ce87c8cfb1a5cb873e097ee176c8f8ef7109acea1868beec65e.png",
+      "status": 200,
+      "bytes": 1948195,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "6009fe4530420b44da15762282751ccfcc5086e3b6e329761c8b655bc67edbbe",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/6009fe4530420b44da15762282751ccfcc5086e3b6e329761c8b655bc67edbbe.png",
+      "status": 200,
+      "bytes": 1808291,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8d115a1c0be4d96b358e2d1444562990c5ddaf7055ca59ebe88848d28b7395c3",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8d115a1c0be4d96b358e2d1444562990c5ddaf7055ca59ebe88848d28b7395c3.png",
+      "status": 200,
+      "bytes": 7259743,
+      "content_type": "image/png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "961028b39fc2ad2eb4a067499d32ba83ca08612f3beaca3c02e9dafcf5a3245b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/961028b39fc2ad2eb4a067499d32ba83ca08612f3beaca3c02e9dafcf5a3245b.png",
+      "status": 200,
+      "bytes": 1230168,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "efeef5411f7748670a6a2ae6189a16f9ff0ee54618813a1a5333d94d1cf8e1b2",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/efeef5411f7748670a6a2ae6189a16f9ff0ee54618813a1a5333d94d1cf8e1b2.png",
+      "status": 200,
+      "bytes": 1772995,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "fb192cdd63f7eb550d1f47582d33e0ad4a12620a4fcd49357e7d39e1094a61e2",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/fb192cdd63f7eb550d1f47582d33e0ad4a12620a4fcd49357e7d39e1094a61e2.png",
+      "status": 200,
+      "bytes": 1030708,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c757a80035c30c48246e098a9b561aa1f210e513a2271ad91a7e36f3db876e6c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c757a80035c30c48246e098a9b561aa1f210e513a2271ad91a7e36f3db876e6c.png",
+      "status": 200,
+      "bytes": 1907499,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "3afa89d0b3103a9c3d85070fd04a800df0a50fc1ec81c2939bad08048452978a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/3afa89d0b3103a9c3d85070fd04a800df0a50fc1ec81c2939bad08048452978a.png",
+      "status": 200,
+      "bytes": 1209488,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9659d2e8d76ab4b7cbb7dff0b13b735d49df1735d0f2ef04f9cea60d1bb3a78a",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9659d2e8d76ab4b7cbb7dff0b13b735d49df1735d0f2ef04f9cea60d1bb3a78a.png",
+      "status": 200,
+      "bytes": 1266232,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "1fce6dd6ef96719f1df31ca877454dcb01faa9c258f58196a35b5bffb3d82743",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1fce6dd6ef96719f1df31ca877454dcb01faa9c258f58196a35b5bffb3d82743.png",
+      "status": 200,
+      "bytes": 2264953,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "5b08a565c98121dbc963b49209c06da123e950eebd8c91be0f4470573e5dc18b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5b08a565c98121dbc963b49209c06da123e950eebd8c91be0f4470573e5dc18b.png",
+      "status": 200,
+      "bytes": 1298924,
+      "content_type": "image/png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "0b9d8ff48c3c5e48ce36489c3d75463dac55e5ba0b218283623344fb75b6cb80",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/0b9d8ff48c3c5e48ce36489c3d75463dac55e5ba0b218283623344fb75b6cb80.png",
+      "status": 200,
+      "bytes": 1202359,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "8e0e663162b920f28780f5c46404f132ba2e34028555408fb804fea4c74603f1",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8e0e663162b920f28780f5c46404f132ba2e34028555408fb804fea4c74603f1.png",
+      "status": 200,
+      "bytes": 1934032,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "aaa7d06817e79603fccbd4b219485e4cd596d50b2a5656adb6972da61b59b42b",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/aaa7d06817e79603fccbd4b219485e4cd596d50b2a5656adb6972da61b59b42b.png",
+      "status": 200,
+      "bytes": 2163005,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "bc7bf015ea516a24816d4f9b4e8843c16558e111d015915c4ae34b0fcb6814c4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bc7bf015ea516a24816d4f9b4e8843c16558e111d015915c4ae34b0fcb6814c4.png",
+      "status": 200,
+      "bytes": 2192702,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "632a4166db121cbc74659105383a3e0ecbb52ac5f33cea7dd43dc6daaf932a52",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/632a4166db121cbc74659105383a3e0ecbb52ac5f33cea7dd43dc6daaf932a52.svg",
+      "status": 200,
+      "bytes": 1308,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "f22a35c1fedd773917da4636ade57318a04da68c62e712d0ba332d7feee8af84",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f22a35c1fedd773917da4636ade57318a04da68c62e712d0ba332d7feee8af84.svg",
+      "status": 200,
+      "bytes": 1284,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "f0e3dbe5097ba1c18fe764591311102b7290d322a1f8b049694d3de78c70071f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/f0e3dbe5097ba1c18fe764591311102b7290d322a1f8b049694d3de78c70071f.png",
+      "status": 200,
+      "bytes": 2466023,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "be0b35053d336e9bef3e1025d0c1e9d6a6bbc1faca0a52360df2afb14023d6e7",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/be0b35053d336e9bef3e1025d0c1e9d6a6bbc1faca0a52360df2afb14023d6e7.svg",
+      "status": 200,
+      "bytes": 1265,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "b99e9cec366d21cbb8dc64eaeafedac936ae26987a7a2b3b08f7791b7dffb4d8",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b99e9cec366d21cbb8dc64eaeafedac936ae26987a7a2b3b08f7791b7dffb4d8.png",
+      "status": 200,
+      "bytes": 1663601,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "facfce223e33fa0e6dc6773fbea0a4a1c2593d91baf39851cbeece2b42448301",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/facfce223e33fa0e6dc6773fbea0a4a1c2593d91baf39851cbeece2b42448301.png",
+      "status": 200,
+      "bytes": 2042524,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "05040ab55dc8c63104ffc3dbc377d878e3e0ca6c7d303fc24f56eb57aa1631ce",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/05040ab55dc8c63104ffc3dbc377d878e3e0ca6c7d303fc24f56eb57aa1631ce.svg",
+      "status": 200,
+      "bytes": 1363,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "651976983313db363537124f174a001a972ceb3b85b2bd56f1a082d8864b2ccb",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/651976983313db363537124f174a001a972ceb3b85b2bd56f1a082d8864b2ccb.svg",
+      "status": 200,
+      "bytes": 1355,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "59378b5b6f8faec8fc98d4d89cb41afc9d74092aefeae96aa9f8bb9d40783eee",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/59378b5b6f8faec8fc98d4d89cb41afc9d74092aefeae96aa9f8bb9d40783eee.svg",
+      "status": 200,
+      "bytes": 2535,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "e76ed4a5d4635124ed7c26adf15de5eba6df48c8740838ff6ccd3bd6b3c94532",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/e76ed4a5d4635124ed7c26adf15de5eba6df48c8740838ff6ccd3bd6b3c94532.svg",
+      "status": 200,
+      "bytes": 1338,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "4e61f72d0dd72f7a20a14c244496d884661130c58a71aa86ca779afa57a15411",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4e61f72d0dd72f7a20a14c244496d884661130c58a71aa86ca779afa57a15411.svg",
+      "status": 200,
+      "bytes": 1348,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "c8ae3522d89f7df322b8a7a05589e01eb85fbcf11f9525275d1995321f6c8c1c",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c8ae3522d89f7df322b8a7a05589e01eb85fbcf11f9525275d1995321f6c8c1c.svg",
+      "status": 200,
+      "bytes": 1306,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "0c24174093e85c9572f7df4cf99d175d1d177b3dd92874ea4491938527925e50",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/0c24174093e85c9572f7df4cf99d175d1d177b3dd92874ea4491938527925e50.png",
+      "status": 200,
+      "bytes": 1682138,
+      "content_type": "image/png",
+      "dimensions": [
+        1983,
+        793
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "e30d7a87713fe5edee46c6f9446a445ef5269254d6bfbe6f3055d6070863c1a3",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/e30d7a87713fe5edee46c6f9446a445ef5269254d6bfbe6f3055d6070863c1a3.svg",
+      "status": 200,
+      "bytes": 1363,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "9147d286266dcc597d447f12b0dff2a4190acdbe53b38d17e5e3b111ab7fb8d4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9147d286266dcc597d447f12b0dff2a4190acdbe53b38d17e5e3b111ab7fb8d4.svg",
+      "status": 200,
+      "bytes": 1280,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "44020e566d7f3440fbb06af5777cec4ea56e85e4a01a86e55d3881c9bf82b2ab",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/44020e566d7f3440fbb06af5777cec4ea56e85e4a01a86e55d3881c9bf82b2ab.svg",
+      "status": 200,
+      "bytes": 1341,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "184aea90e0f7a891e4f3b32e2bc2007ce5028c5ec0c3690c56b7751a43f3b9d9",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/184aea90e0f7a891e4f3b32e2bc2007ce5028c5ec0c3690c56b7751a43f3b9d9.png",
+      "status": 200,
+      "bytes": 2574228,
+      "content_type": "image/png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "a3b82546916a92d618397fcb91b72acdaae99c368a68847e29acdace0f1312c3",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a3b82546916a92d618397fcb91b72acdaae99c368a68847e29acdace0f1312c3.svg",
+      "status": 200,
+      "bytes": 1363,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "71c116effd0e23678af50034024ae175c5a87b91b7efeebb3b199ddf9152527f",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/71c116effd0e23678af50034024ae175c5a87b91b7efeebb3b199ddf9152527f.svg",
+      "status": 200,
+      "bytes": 1337,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "95031898ae48c8f599cc0c85ecede77b74551f0cc2e8a2b834eda3bd1a555b20",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/95031898ae48c8f599cc0c85ecede77b74551f0cc2e8a2b834eda3bd1a555b20.svg",
+      "status": 200,
+      "bytes": 1376,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "5571741d737d44e1916416a68e054ea7a41b9e1ae5427c7e67ad1388fb5a4db8",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/5571741d737d44e1916416a68e054ea7a41b9e1ae5427c7e67ad1388fb5a4db8.svg",
+      "status": 200,
+      "bytes": 1426,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "93602026b7fdbf1ebbf03df643aacc93b2885c5f6435baf1dac880076a6867f4",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/93602026b7fdbf1ebbf03df643aacc93b2885c5f6435baf1dac880076a6867f4.svg",
+      "status": 200,
+      "bytes": 1381,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "c7cc7ef3c9360cb9876c5d6ef4909dd04ecbb3a23a7d1a5232a39bc01c57555e",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c7cc7ef3c9360cb9876c5d6ef4909dd04ecbb3a23a7d1a5232a39bc01c57555e.svg",
+      "status": 200,
+      "bytes": 1323,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "0007f462b74f40ea65135f7914b982736a32873484a02cfede6dc5036adbbe50",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/0007f462b74f40ea65135f7914b982736a32873484a02cfede6dc5036adbbe50.svg",
+      "status": 200,
+      "bytes": 1308,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "1505795510e0a7a22471e512aecb0949e1e3dda00554bc76d5377be9df9c5261",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1505795510e0a7a22471e512aecb0949e1e3dda00554bc76d5377be9df9c5261.svg",
+      "status": 200,
+      "bytes": 1363,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "eb52fd565e3f829d2c2962538cdadc480f52e88bf15177d8c92a3944181973b1",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/eb52fd565e3f829d2c2962538cdadc480f52e88bf15177d8c92a3944181973b1.svg",
+      "status": 200,
+      "bytes": 1323,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "4e303f24bd257a5ae06a33be6e7d8eb767b03a8a7280ffc1216e46d614a3d0de",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4e303f24bd257a5ae06a33be6e7d8eb767b03a8a7280ffc1216e46d614a3d0de.avif",
+      "status": 200,
+      "bytes": 3910,
+      "content_type": "image/avif",
+      "dimensions": [
+        626,
+        626
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "9f9713a3baabe43050a016c1954809c5cdc5f5429e18174fe5aa29431cb4b306",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9f9713a3baabe43050a016c1954809c5cdc5f5429e18174fe5aa29431cb4b306.svg",
+      "status": 200,
+      "bytes": 1345,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "d588f1ad949c8b254e36f7f73562667ccb1672fef3a80e52d4fd4014d80d4704",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d588f1ad949c8b254e36f7f73562667ccb1672fef3a80e52d4fd4014d80d4704.avif",
+      "status": 200,
+      "bytes": 9294,
+      "content_type": "image/avif",
+      "dimensions": [
+        740,
+        493
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "c7fe13e13443367e35a20dc840362b7862867fdd870f07870c3d18b3b0333e7d",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c7fe13e13443367e35a20dc840362b7862867fdd870f07870c3d18b3b0333e7d.svg",
+      "status": 200,
+      "bytes": 1331,
+      "content_type": "image/svg+xml",
+      "dimensions": null,
+      "passed": true
+    },
+    {
+      "sha256": "eca76c9cd01907e890967c88bc8b7bfd1d20c2889fa38a78f1abc696f6b6e589",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/eca76c9cd01907e890967c88bc8b7bfd1d20c2889fa38a78f1abc696f6b6e589.png",
+      "status": 200,
+      "bytes": 1735912,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    },
+    {
+      "sha256": "06def513aa80fde85224889643526696dbe9606d86a5218e44a66c39d3169054",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/06def513aa80fde85224889643526696dbe9606d86a5218e44a66c39d3169054.png",
+      "status": 200,
+      "bytes": 2023321,
+      "content_type": "image/png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "passed": true
+    }
+  ],
+  "external_links": {
+    "unique_urls": 28,
+    "results": [
+      {
+        "url": "https://evolink.ai/dashboard/keys",
+        "status": 200,
+        "final_url": "https://evolink.ai/dashboard/keys",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce",
+        "status": 200,
+        "final_url": "https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://evolink.ai/docs/en/api-manual/image-series/gpt-image-2.5/gpt-image-2.5-image-generation?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce",
+        "status": 200,
+        "final_url": "https://evolink.ai/docs/en/api-manual/image-series/gpt-image-2.5/gpt-image-2.5-image-generation?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://evolink.ai/gpt-image-2-5-sunburst?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce",
+        "status": 200,
+        "final_url": "https://evolink.ai/gpt-image-2-5-sunburst?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+        "status": 200,
+        "final_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce",
+        "status": 200,
+        "final_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-2-for-e-commerce",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://github.com/EvoLinkAI/gpt-image-2-gen-skill",
+        "status": 200,
+        "final_url": "https://github.com/EvoLinkAI/gpt-image-2-gen-skill",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/Gdgtify",
+        "status": 200,
+        "final_url": "https://x.com/Gdgtify",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/Gdgtify/status/2066129525784694882",
+        "status": 200,
+        "final_url": "https://x.com/Gdgtify/status/2066129525784694882",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/Shorelyn_",
+        "status": 200,
+        "final_url": "https://x.com/Shorelyn_",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/Shorelyn_/status/2066386292217467241",
+        "status": 200,
+        "final_url": "https://x.com/Shorelyn_/status/2066386292217467241",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/Taaruk_",
+        "status": 200,
+        "final_url": "https://x.com/Taaruk_",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/iamaiistudio/status/2066085004116193571",
+        "status": 200,
+        "final_url": "https://x.com/iamaiistudio/status/2066085004116193571",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/iamaiistudio/status/2066236402766066106",
+        "status": 200,
+        "final_url": "https://x.com/iamaiistudio/status/2066236402766066106",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/iamaiistudio/status/2066447564132745574",
+        "status": 200,
+        "final_url": "https://x.com/iamaiistudio/status/2066447564132745574",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/iamaiistudio/status/2066523210808484228",
+        "status": 200,
+        "final_url": "https://x.com/iamaiistudio/status/2066523210808484228",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/iamaiistudio/status/2067399156596175345",
+        "status": 200,
+        "final_url": "https://x.com/iamaiistudio/status/2067399156596175345",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/iamaiistudio/status/2067413876564795743",
+        "status": 200,
+        "final_url": "https://x.com/iamaiistudio/status/2067413876564795743",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/iamrealsnow",
+        "status": 200,
+        "final_url": "https://x.com/iamrealsnow",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/iamrealsnow/status/2066200217347854445",
+        "status": 200,
+        "final_url": "https://x.com/iamrealsnow/status/2066200217347854445",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/mehvishs25",
+        "status": 200,
+        "final_url": "https://x.com/mehvishs25",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/mehvishs25/status/2067439082175873060",
+        "status": 200,
+        "final_url": "https://x.com/mehvishs25/status/2067439082175873060",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://evolink.ai/docs/en/api-manual/image-series/gpt-image-2.5/gpt-image-2.5-image-generation",
+        "status": 200,
+        "final_url": "https://evolink.ai/docs/en/api-manual/image-series/gpt-image-2.5/gpt-image-2.5-image-generation",
+        "exit_code": 28,
+        "classification": "passed"
+      },
+      {
+        "url": "https://github.com/EvoLinkAI",
+        "status": 200,
+        "final_url": "https://github.com/EvoLinkAI",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://www.star-history.com/",
+        "status": 200,
+        "final_url": "https://www.star-history.com/",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/Taaruk_/status/2066103716223357044",
+        "status": 200,
+        "final_url": "https://x.com/Taaruk_/status/2066103716223357044",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/iamaiistudio",
+        "status": 200,
+        "final_url": "https://x.com/iamaiistudio",
+        "exit_code": 0,
+        "classification": "passed"
+      },
+      {
+        "url": "https://x.com/iamaiistudio/status/2067100447698207223",
+        "status": 200,
+        "final_url": "https://x.com/iamaiistudio/status/2067100447698207223",
+        "exit_code": 0,
+        "classification": "passed"
+      }
+    ]
+  },
+  "browser_segments": [
+    {
+      "file": "README_zh-CN",
+      "mode": "Segmented browser rendering from exact uploaded-byte cache; public R2 bytes verified separately",
+      "segments": [
+        {
+          "segment": "top",
+          "visible": 18,
+          "decoded": 18,
+          "failed": []
+        },
+        {
+          "segment": "featured",
+          "visible": 1,
+          "decoded": 1,
+          "failed": []
+        },
+        {
+          "segment": "scene",
+          "visible": 4,
+          "decoded": 4,
+          "failed": []
+        },
+        {
+          "segment": "ugc",
+          "visible": 8,
+          "decoded": 8,
+          "failed": []
+        },
+        {
+          "segment": "markets",
+          "visible": 5,
+          "decoded": 5,
+          "failed": []
+        }
+      ],
+      "anchors": []
+    },
+    {
+      "file": "README",
+      "mode": "Segmented browser rendering from exact uploaded-byte cache; public R2 bytes verified separately",
+      "segments": [
+        {
+          "segment": "top",
+          "visible": 18,
+          "decoded": 18,
+          "failed": []
+        },
+        {
+          "segment": "featured",
+          "visible": 1,
+          "decoded": 1,
+          "failed": []
+        },
+        {
+          "segment": "scene",
+          "visible": 4,
+          "decoded": 4,
+          "failed": []
+        },
+        {
+          "segment": "ugc",
+          "visible": 8,
+          "decoded": 8,
+          "failed": []
+        },
+        {
+          "segment": "markets",
+          "visible": 5,
+          "decoded": 5,
+          "failed": []
+        }
+      ],
+      "anchors": []
+    }
+  ],
+  "api_smoke": {
+    "model": "gpt-image-2.5-flare",
+    "status": "completed",
+    "task_id": "task-unified-1788954926-8rlmrsb6",
+    "usage": {
+      "cost": {
+        "credits": 0.3584,
+        "usd": 0.0053,
+        "cny": 0.036
+      },
+      "credits_used": 0.3584,
+      "image_cached_input_tokens": 0,
+      "image_input_tokens": 0,
+      "image_output_tokens": 196,
+      "text_cached_input_tokens": 0,
+      "text_input_tokens": 64,
+      "total_tokens": 260
+    },
+    "tested_modes": [
+      "text-to-image"
+    ],
+    "docs_source": "https://evolink.ai/docs/en/api-manual/image-series/gpt-image-2.5/gpt-image-2.5-image-generation"
+  },
+  "readme_sha256": {
+    "README_ja.md": "140d07673b61f32577ef9f0957b54f58c1a8ed05d8f0f2c174a812e2e10bc9ff",
+    "README_ru.md": "7bc102f1f3f8ff146398e9c58f4cc5c44237adbb1651a820199da8ceb44f7376",
+    "README_zh-TW.md": "fbdb933958b66b93a153672458c45a743a1773800fe4a72faac5fe9be0bae8a1",
+    "README_pt.md": "f9cd27bd6ae22056777f028f9d89e4c577972bb196f8211dd003b60427640adb",
+    "README_zh-CN.md": "f7edfad56e6aeb4339754689a61ec6f464b4e36e335cb104e9fa039fe3cc1814",
+    "README_ko.md": "67df7532f53c58423a709f56f5c9cbdeb4484972237a97dccab4121e9a46bcb9",
+    "README.md": "c3c57d7cd16008eaaeb11286e08f65d6d8e5ed32d8df8bd586432160f1c07d71",
+    "README_es.md": "dc7a284ed3d16fe8dc21c34682029d0442cb9e8ecd65b4d0407b61bea7091c7a",
+    "README_tr.md": "c3cd685e7038fb03189bc8821bb5d7aae12d45f353542fb2d0302d79605df1f6",
+    "README_fr.md": "d104a1e5d8df2ef7147fcc3dd56780e9649f134dd6d598a295a9283fd1dbe72e",
+    "README_de.md": "45402cb46cb796cc153e97a73eece8f5d907f318aafe970e4ffd09c1ad3731f2"
+  },
+  "layout_cleanup": {
+    "checked_at": "2026-09-09T12:52:58.772600+00:00",
+    "readmes": {
+      "locales": [
+        {
+          "file": "README.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        },
+        {
+          "file": "README_de.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        },
+        {
+          "file": "README_es.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        },
+        {
+          "file": "README_fr.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        },
+        {
+          "file": "README_ja.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        },
+        {
+          "file": "README_ko.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        },
+        {
+          "file": "README_pt.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        },
+        {
+          "file": "README_ru.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        },
+        {
+          "file": "README_tr.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        },
+        {
+          "file": "README_zh-CN.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        },
+        {
+          "file": "README_zh-TW.md",
+          "retained_original_case_sections": 30,
+          "new_case_sections": 3,
+          "images": 324,
+          "unique_images": 310,
+          "new_owner_images": 20,
+          "original_prompt_blocks_preserved": 41,
+          "passed": true
+        }
+      ],
+      "all_passed": true,
+      "banner_original_sha256": "0c24174093e85c9572f7df4cf99d175d1d177b3dd92874ea4491938527925e50",
+      "all_internal_anchors_passed": true
+    },
+    "removed_intro_cta_paragraphs": 22,
+    "removed_inline_badge_instances": 44,
+    "evolink_quick_start": "Last section of README.md; shortcut text navigation removed"
+  },
+  "language_sync": {
+    "checked_at": "2026-09-09T14:29:10.158818+00:00",
+    "source": "README.md",
+    "all_passed": true,
+    "locales": [
+      {
+        "file": "README.md",
+        "sha256": "dacd30347cbb39ef581338c5e9e3e153ab5329f9820a11849bccd64f35204f6e",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      },
+      {
+        "file": "README_de.md",
+        "sha256": "3e75a4f5a9e76909e9c1080d79955cba910807a51e0392942a92f24aedcc6f0b",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      },
+      {
+        "file": "README_es.md",
+        "sha256": "28867b3625510f03b2442ad5a3b1746f09066a857e7b7e861004fc1272b44364",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      },
+      {
+        "file": "README_fr.md",
+        "sha256": "c8ecdb0af8fe294a3b515cc69907b84f6b6d6a8927a0d462b9c69fef1ed73744",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      },
+      {
+        "file": "README_ja.md",
+        "sha256": "cd15420d5348f58f3e48d9053b1163da480a773ec4de7cf513b11989436a24d4",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      },
+      {
+        "file": "README_ko.md",
+        "sha256": "7c91f2350d3998a453a2818b45835af7c5473a9592651c72ff9f4459e7c4334e",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      },
+      {
+        "file": "README_pt.md",
+        "sha256": "55aa6e3bbfd16eb476662ed6fdd316c6e8623aa2e959500a4ef25470d47ef979",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      },
+      {
+        "file": "README_ru.md",
+        "sha256": "c425f6d08a86dc31a8ffb0e5564a1650338d42e5215e87397858b7aabbb12440",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      },
+      {
+        "file": "README_tr.md",
+        "sha256": "45491abd9d64857da29d8cd0ca7da42e88f262a103a1a402b88c5e8b27fcf720",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      },
+      {
+        "file": "README_zh-CN.md",
+        "sha256": "898d152f40c892c90dffadb6c4cb43e6a56a5a536fdd59282b8df56c49c9884b",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      },
+      {
+        "file": "README_zh-TW.md",
+        "sha256": "2a859d7d3702e518d689170fb59b6e35a23ff3e94e97e35fd6b2576188c66159",
+        "same_heading_structure": true,
+        "same_image_order": true,
+        "same_link_destinations": true,
+        "same_API_code": true,
+        "case_prompts_preserved": true,
+        "acknowledgements": 7,
+        "broken_anchors": []
+      }
+    ]
+  }
+}
