@@ -606,9 +606,9 @@ Translate the text in all images into {target_language}.
   </tr>
   <tr>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/db6d133fcdde87e095fee3e65f4e6770b2fa46b4f48b31ba4c9d5d9c9b61eb72.png" width="140"><br><sub>Traducida 1</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/06c6b6ca368fa00bf1eeefc8b42b13341597a1a11523286ff566be25422e5400.png" width="140"><br><sub>Traducida 2</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9409b3d5a006043704a8310dff496ea85512620adbcae50a319789c2c7f1fb51.png" width="140"><br><sub>Traducida 3</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/97ddc441d3c9afb7be70610a61949c71a7ec1ba50604539d5e5448b55e11ca09.png" width="140"><br><sub>Traducida 4</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/b430a9d66a7806dd1f9cf76382edb293d8479d52e3dd550b52ed3572494a5ffc.webp" width="140"><br><sub>Traducida 2</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/76b1604b2aa14e4989d7fab0f0e16e9f8a1229ca4bd4a79469ac3750f67dbcf4.webp" width="140"><br><sub>Traducida 3</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/3a750709a797c9c0e72f7a684b43fe75d6a3246cf0719534ce04e0ea8387f452.webp" width="140"><br><sub>Traducida 4</sub></td>
   </tr>
 </table>
 
@@ -629,9 +629,9 @@ Translate the text in all images into {target_language}.
   </tr>
   <tr>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b6b6d2267e560f3c7c16ffe09400e59df9cda6e09fee2d70d319c24cf586f56f.png" width="140"><br><sub>Traducida 1</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/19410daf35eabe336525604fcb03325cae5d3978d76dbaa49b36e572c5e18a09.png" width="140"><br><sub>Traducida 2</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bbd4b6554abcb52942239f199fe44634e2ef5e0e782bd890a244500574844644.png" width="140"><br><sub>Traducida 3</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4da082f21714e6b5eeae2dd626936a3198a1d84a2c1752d84ae2273076c68fc2.png" width="140"><br><sub>Traducida 4</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/78a54331a8a70de0d26342cb9cae73e4bdc5f616c7dbfd60b6d16b5ece915482.webp" width="140"><br><sub>Traducida 2</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/b3b762bfa1a5abbc380f49467ccf3454fef9adaa70c3286f74f5a83c7c4fb869.webp" width="140"><br><sub>Traducida 3</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/b4352e7e1bcf5c8d309e88b2a2f81e92b759187212c556095cbc478dd0fb22b8.webp" width="140"><br><sub>Traducida 4</sub></td>
   </tr>
 </table>
 
@@ -723,7 +723,7 @@ Generate a pet dog wearing this garment.
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/38cbe4e585341c60f1a439a6273cddb4e0feeb8440bb92bd75ddb587847ab78d.jpg" width="140"><br><sub>Camiseta ciclismo</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/141e070f5263bacc440427e632db37dd82814e99739198b216c34172a056d6df.png" width="140"><br><sub>Modelo masculino</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/301786145260c231972cf5e0b3b98c5f0f894498e4499579fa3993e87a23057e.webp" width="140"><br><sub>Punto media cremallera</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c1b898bab68b403fddf7eec329e68a4895e67feab04e32d8bddcb1d79e6106be.png" width="140"><br><sub>Modelo femenino</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/df28768f1a66d1678513c3df30eb297cd6c8923b5ee1ed274bda097bfb435630.webp" width="140"><br><sub>Modelo femenino</sub></td>
   </tr>
 </table>
 
@@ -768,7 +768,7 @@ Expand the model into more poses.
   </tr>
   <tr>
     <td align="center">
-      <img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8d115a1c0be4d96b358e2d1444562990c5ddaf7055ca59ebe88848d28b7395c3.png" width="160"><br>
+      <img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/df28768f1a66d1678513c3df30eb297cd6c8923b5ee1ed274bda097bfb435630.webp" width="160"><br>
       <sub>Modelo original</sub>
     </td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1d6e2a2ef12733c01454fd50ccd02e2ea90ac75b0429559aae3d729eb2f14dda.png" width="150"><br><sub>Postura frontal</sub></td>
@@ -950,9 +950,9 @@ A model wearing this {accessory_type}, {additional_requirements}.
   </tr>
   <tr>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bd28d6a26027d02f28f8272ea41c67b6070d3c9d956a85d1f15ee026463240d6.png" width="180"><br><sub>Collar de jade</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/accbc78189eee3321bf0503e55f16c060bc1c898dbaa3aef46f4272209be8576.png" width="180"><br><sub>Puesto en modelo</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/110af45257e449bb24fe3fbdc0e562c8d715e6038cc94c6e3b5dea1be77a2d55.webp" width="180"><br><sub>Puesto en modelo</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/61838fced011261944d5efd27b220fffbea620f298ce6cddb72191c899d39491.jpg" width="180"><br><sub>Aros dorados</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/934535df49c3743f3807557859929275034fce3f027b4a32833c4c512225025a.png" width="180"><br><sub>Puesto en modelo</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/7b4668d7afc405dd48781e89688610ddb481218b9db9dbb3f35905e49d1b40d4.webp" width="180"><br><sub>Puesto en modelo</sub></td>
   </tr>
 </table>
 
@@ -978,7 +978,7 @@ Apply these nails to hands.
   </tr>
   <tr>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/322485d79293967a754ac6330fc25ffbeae564538b49d380087200000602c10d.jpg" width="180"><br><sub>Muestras uñas rosas</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1e79e13e93ebc9665d582724137106325821aab5f36aa3702dcbd6e6aeaf6fd9.png" width="180"><br><sub>Aplicado en mano</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/dd4682a18d052e1ecdb1f97ebe105c76e838f473736ac436d5d12ccc578cee20.webp" width="180"><br><sub>Aplicado en mano</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d8440ea253f75fb133f3a65e75f5ae44d65bf936167711ea08fd309a3a9923f0.jpg" width="180"><br><sub>Muestras multicolor</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/df52da945255d49e6e485965cd4ac3296cb757630eb3255256fda56da10a12ba.png" width="180"><br><sub>Aplicado en mano</sub></td>
   </tr>
@@ -1036,7 +1036,7 @@ Generate a clean white-background retouched image.
   </tr>
   <tr>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/efb8791c7dc31549d85ab057caa3e2653fa7f478b10932b87cc37780f94e03ea.png" width="180"><br><sub>Foto en escena</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ece1aa0e0c9ae8abb8e034c807aa0a01e21ea6da0a5e1d65c3970a5ffa6a9b71.png" width="180"><br><sub>Retoque fondo blanco</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/6aafa8d7a602cae831669dc247bf3592633b5ea99f597ed2a33912dfb8063207.webp" width="180"><br><sub>Retoque fondo blanco</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/0de7b9b1d92fbec8b49553be09b7bd03dad0a7a4987ccf88e0857e0355797c25.jpeg" width="180"><br><sub>Foto sin procesar</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/7f11357bbc79130f6e8f967da416a037cd12b1000d18cda632aa1aed1231eaec.png" width="180"><br><sub>Retoque fondo blanco</sub></td>
   </tr>
@@ -1064,7 +1064,7 @@ Generate multi-angle product images.
   </tr>
   <tr>
     <td rowspan="2" align="center">
-      <img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/68cabb628527a26600bd444f381fa104f82d3d6230ce6312e2bc3a7b09f33acf.png" width="160"><br>
+      <img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/6aafa8d7a602cae831669dc247bf3592633b5ea99f597ed2a33912dfb8063207.webp" width="160"><br>
       <sub>Foto del producto</sub>
     </td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/6ba1f2c74a52be5585053e3ddc2fbc82d2a99dfd9edb187c34cd395066e63e68.png" width="150"><br><sub>Frente</sub></td>
@@ -1466,7 +1466,7 @@ Add the human model from image 2 into the product scene from image 1, with this 
   <tr>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/b65b1bd5e2291ed161fde0daa04073eca64bcd3e32e29e0f2ef919ea8ca3366b.jpg" width="180"><br><sub>Mecedora en casa</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/374b10df87fb13c3635c7773eb81b17281e1fa583c76d97b2532dc3a4bd3dcd0.jpg" width="180"><br><sub>Modelo camisa blanca</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a3a1b4d78cf33fb785d9dc01cf6ca1ff4a27cb16a33b3db1dde00f0db5930e4e.png" width="180"><br><sub>Modelo en mecedora</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/ca67e43c5378393e8ed21060700530830ef16d53b8f8bf1835dacdab0a6afac9.webp" width="180"><br><sub>Modelo en mecedora</sub></td>
   </tr>
 </table>
 
@@ -1526,7 +1526,7 @@ Generate a {pet} interacting with the {product} from the image.
   </tr>
   <tr>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8c8f0f0456d3f60280f3292d9b1634ca3b1de14e84181560cd5cda66869361fc.jpg" width="180"><br><sub>Pelota perro naranja</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c537aa02a596983b374e1125b47a2a3c2c7392b17236972687ac485ebaa39ae3.png" width="180"><br><sub>Cachorro mordiendo pelota</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/837cb51fd65b44deb4a03aa3adb48b49f7a2ce613e969a3c8b491dbf5124b315.webp" width="180"><br><sub>Cachorro mordiendo pelota</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/73ec3e879395f6991323b0ae80d1f70de070853a9469a9dd4ed2a9fd557dc50f.jpg" width="180"><br><sub>Rueda de hámster</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1aa0efe1c0caaa76637e3bdfde77dc8d05d11ab135adee87c390d011d99abc5d.png" width="180"><br><sub>Hámster en rueda</sub></td>
   </tr>
@@ -1654,7 +1654,7 @@ Place the apparel into a gift box.
   </tr>
   <tr>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d7709b5a0ad7b0380e0f56942377661e23a88fd2c07ccbb567c6e59dac00938a.jpg" width="180"><br><sub>Camiseta salpicada</sub></td>
-    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/40720a2d7a9c72fac47d3f63d4a4a4a2b24720a5e5674fec9add53faf8e3b474.png" width="180"><br><sub>Caja de regalo</sub></td>
+    <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/1cf8a5773844eaf5cae665f696306c6c0021c225d8342d7cb54d9edb04635a11.webp" width="180"><br><sub>Caja de regalo</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/de9eb7780fa4747486a3a6477f3504698563ec777a5d03b8ecea25f2dbef7954.jpg" width="180"><br><sub>Plumífero infantil rojo</sub></td>
     <td align="center"><img loading="lazy" src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/2e83b353ccbec5f5c9c2ba7fb81081b7b914172dd6ac0a4fb5bc420b27e93e81.png" width="180"><br><sub>Caja de regalo</sub></td>
   </tr>
