@@ -2891,6 +2891,274 @@
       ],
       "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/d588f1ad949c8b254e36f7f73562667ccb1672fef3a80e52d4fd4014d80d4704.avif",
       "kind": "existing"
+    },
+    {
+      "sha256": "dd4682a18d052e1ecdb1f97ebe105c76e838f473736ac436d5d12ccc578cee20",
+      "bytes": 3408096,
+      "sources": [
+        "derived:sha256:1e79e13e93ebc9665d582724137106325821aab5f36aa3702dcbd6e6aeaf6fd9"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/dd4682a18d052e1ecdb1f97ebe105c76e838f473736ac436d5d12ccc578cee20.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "1e79e13e93ebc9665d582724137106325821aab5f36aa3702dcbd6e6aeaf6fd9",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/1e79e13e93ebc9665d582724137106325821aab5f36aa3702dcbd6e6aeaf6fd9.png",
+          "sources": [
+            "e-commerce/Case14/01/Output-01.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "110af45257e449bb24fe3fbdc0e562c8d715e6038cc94c6e3b5dea1be77a2d55",
+      "bytes": 4231776,
+      "sources": [
+        "derived:sha256:accbc78189eee3321bf0503e55f16c060bc1c898dbaa3aef46f4272209be8576"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/110af45257e449bb24fe3fbdc0e562c8d715e6038cc94c6e3b5dea1be77a2d55.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "accbc78189eee3321bf0503e55f16c060bc1c898dbaa3aef46f4272209be8576",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/accbc78189eee3321bf0503e55f16c060bc1c898dbaa3aef46f4272209be8576.png",
+          "sources": [
+            "e-commerce/Case13/01/Output.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "7b4668d7afc405dd48781e89688610ddb481218b9db9dbb3f35905e49d1b40d4",
+      "bytes": 3619904,
+      "sources": [
+        "derived:sha256:934535df49c3743f3807557859929275034fce3f027b4a32833c4c512225025a"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/7b4668d7afc405dd48781e89688610ddb481218b9db9dbb3f35905e49d1b40d4.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "934535df49c3743f3807557859929275034fce3f027b4a32833c4c512225025a",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/934535df49c3743f3807557859929275034fce3f027b4a32833c4c512225025a.png",
+          "sources": [
+            "e-commerce/Case13/02/Output.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "6aafa8d7a602cae831669dc247bf3592633b5ea99f597ed2a33912dfb8063207",
+      "bytes": 3380444,
+      "sources": [
+        "derived:sha256:ece1aa0e0c9ae8abb8e034c807aa0a01e21ea6da0a5e1d65c3970a5ffa6a9b71",
+        "derived:sha256:68cabb628527a26600bd444f381fa104f82d3d6230ce6312e2bc3a7b09f33acf"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/6aafa8d7a602cae831669dc247bf3592633b5ea99f597ed2a33912dfb8063207.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "ece1aa0e0c9ae8abb8e034c807aa0a01e21ea6da0a5e1d65c3970a5ffa6a9b71",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/ece1aa0e0c9ae8abb8e034c807aa0a01e21ea6da0a5e1d65c3970a5ffa6a9b71.png",
+          "sources": [
+            "e-commerce/Case16/01/Output-01.png"
+          ]
+        },
+        {
+          "sha256": "68cabb628527a26600bd444f381fa104f82d3d6230ce6312e2bc3a7b09f33acf",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/68cabb628527a26600bd444f381fa104f82d3d6230ce6312e2bc3a7b09f33acf.png",
+          "sources": [
+            "e-commerce/Case17/01/Input.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "ca67e43c5378393e8ed21060700530830ef16d53b8f8bf1835dacdab0a6afac9",
+      "bytes": 3630962,
+      "sources": [
+        "derived:sha256:a3a1b4d78cf33fb785d9dc01cf6ca1ff4a27cb16a33b3db1dde00f0db5930e4e"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/ca67e43c5378393e8ed21060700530830ef16d53b8f8bf1835dacdab0a6afac9.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "a3a1b4d78cf33fb785d9dc01cf6ca1ff4a27cb16a33b3db1dde00f0db5930e4e",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/a3a1b4d78cf33fb785d9dc01cf6ca1ff4a27cb16a33b3db1dde00f0db5930e4e.png",
+          "sources": [
+            "e-commerce/Case24/02/Output.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "837cb51fd65b44deb4a03aa3adb48b49f7a2ce613e969a3c8b491dbf5124b315",
+      "bytes": 3488824,
+      "sources": [
+        "derived:sha256:c537aa02a596983b374e1125b47a2a3c2c7392b17236972687ac485ebaa39ae3"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/837cb51fd65b44deb4a03aa3adb48b49f7a2ce613e969a3c8b491dbf5124b315.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "c537aa02a596983b374e1125b47a2a3c2c7392b17236972687ac485ebaa39ae3",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c537aa02a596983b374e1125b47a2a3c2c7392b17236972687ac485ebaa39ae3.png",
+          "sources": [
+            "e-commerce/Case25/01/Output.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "1cf8a5773844eaf5cae665f696306c6c0021c225d8342d7cb54d9edb04635a11",
+      "bytes": 4059568,
+      "sources": [
+        "derived:sha256:40720a2d7a9c72fac47d3f63d4a4a4a2b24720a5e5674fec9add53faf8e3b474"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/1cf8a5773844eaf5cae665f696306c6c0021c225d8342d7cb54d9edb04635a11.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "40720a2d7a9c72fac47d3f63d4a4a4a2b24720a5e5674fec9add53faf8e3b474",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/40720a2d7a9c72fac47d3f63d4a4a4a2b24720a5e5674fec9add53faf8e3b474.png",
+          "sources": [
+            "e-commerce/Case33/01/Output.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "76b1604b2aa14e4989d7fab0f0e16e9f8a1229ca4bd4a79469ac3750f67dbcf4",
+      "bytes": 3424008,
+      "sources": [
+        "derived:sha256:9409b3d5a006043704a8310dff496ea85512620adbcae50a319789c2c7f1fb51"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/76b1604b2aa14e4989d7fab0f0e16e9f8a1229ca4bd4a79469ac3750f67dbcf4.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "9409b3d5a006043704a8310dff496ea85512620adbcae50a319789c2c7f1fb51",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/9409b3d5a006043704a8310dff496ea85512620adbcae50a319789c2c7f1fb51.png",
+          "sources": [
+            "e-commerce/Case6/01/Output-03.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "3a750709a797c9c0e72f7a684b43fe75d6a3246cf0719534ce04e0ea8387f452",
+      "bytes": 3599228,
+      "sources": [
+        "derived:sha256:97ddc441d3c9afb7be70610a61949c71a7ec1ba50604539d5e5448b55e11ca09"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/3a750709a797c9c0e72f7a684b43fe75d6a3246cf0719534ce04e0ea8387f452.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "97ddc441d3c9afb7be70610a61949c71a7ec1ba50604539d5e5448b55e11ca09",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/97ddc441d3c9afb7be70610a61949c71a7ec1ba50604539d5e5448b55e11ca09.png",
+          "sources": [
+            "e-commerce/Case6/01/Output-04.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "b430a9d66a7806dd1f9cf76382edb293d8479d52e3dd550b52ed3572494a5ffc",
+      "bytes": 3645358,
+      "sources": [
+        "derived:sha256:06c6b6ca368fa00bf1eeefc8b42b13341597a1a11523286ff566be25422e5400"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/b430a9d66a7806dd1f9cf76382edb293d8479d52e3dd550b52ed3572494a5ffc.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "06c6b6ca368fa00bf1eeefc8b42b13341597a1a11523286ff566be25422e5400",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/06c6b6ca368fa00bf1eeefc8b42b13341597a1a11523286ff566be25422e5400.png",
+          "sources": [
+            "e-commerce/Case6/01/Output-02.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "b4352e7e1bcf5c8d309e88b2a2f81e92b759187212c556095cbc478dd0fb22b8",
+      "bytes": 3708036,
+      "sources": [
+        "derived:sha256:4da082f21714e6b5eeae2dd626936a3198a1d84a2c1752d84ae2273076c68fc2"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/b4352e7e1bcf5c8d309e88b2a2f81e92b759187212c556095cbc478dd0fb22b8.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "4da082f21714e6b5eeae2dd626936a3198a1d84a2c1752d84ae2273076c68fc2",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/4da082f21714e6b5eeae2dd626936a3198a1d84a2c1752d84ae2273076c68fc2.png",
+          "sources": [
+            "e-commerce/Case6/02/Output-04.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "78a54331a8a70de0d26342cb9cae73e4bdc5f616c7dbfd60b6d16b5ece915482",
+      "bytes": 3408136,
+      "sources": [
+        "derived:sha256:19410daf35eabe336525604fcb03325cae5d3978d76dbaa49b36e572c5e18a09"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/78a54331a8a70de0d26342cb9cae73e4bdc5f616c7dbfd60b6d16b5ece915482.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "19410daf35eabe336525604fcb03325cae5d3978d76dbaa49b36e572c5e18a09",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/19410daf35eabe336525604fcb03325cae5d3978d76dbaa49b36e572c5e18a09.png",
+          "sources": [
+            "e-commerce/Case6/02/Output-02.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "b3b762bfa1a5abbc380f49467ccf3454fef9adaa70c3286f74f5a83c7c4fb869",
+      "bytes": 3388554,
+      "sources": [
+        "derived:sha256:bbd4b6554abcb52942239f199fe44634e2ef5e0e782bd890a244500574844644"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/b3b762bfa1a5abbc380f49467ccf3454fef9adaa70c3286f74f5a83c7c4fb869.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "bbd4b6554abcb52942239f199fe44634e2ef5e0e782bd890a244500574844644",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/bbd4b6554abcb52942239f199fe44634e2ef5e0e782bd890a244500574844644.png",
+          "sources": [
+            "e-commerce/Case6/02/Output-03.png"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "df28768f1a66d1678513c3df30eb297cd6c8923b5ee1ed274bda097bfb435630",
+      "bytes": 3206274,
+      "sources": [
+        "derived:sha256:c1b898bab68b403fddf7eec329e68a4895e67feab04e32d8bddcb1d79e6106be",
+        "derived:sha256:8d115a1c0be4d96b358e2d1444562990c5ddaf7055ca59ebe88848d28b7395c3"
+      ],
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/camo-fix/media/df28768f1a66d1678513c3df30eb297cd6c8923b5ee1ed274bda097bfb435630.webp",
+      "kind": "lossless-webp",
+      "derived_from": [
+        {
+          "sha256": "c1b898bab68b403fddf7eec329e68a4895e67feab04e32d8bddcb1d79e6106be",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/c1b898bab68b403fddf7eec329e68a4895e67feab04e32d8bddcb1d79e6106be.png",
+          "sources": [
+            "e-commerce/Case8/03/Output-01.png"
+          ]
+        },
+        {
+          "sha256": "8d115a1c0be4d96b358e2d1444562990c5ddaf7055ca59ebe88848d28b7395c3",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/gpt-image-2-for-e-commerce/.codex/gpt-image-2.5-migration/media/8d115a1c0be4d96b358e2d1444562990c5ddaf7055ca59ebe88848d28b7395c3.png",
+          "sources": [
+            "e-commerce/Case9/02/Input.png"
+          ]
+        }
+      ]
     }
   ]
 }
